@@ -8,8 +8,24 @@ grouped by **topic** rather than alphabetically. Each entry has:
 - **Example** sentence(s)
 - If a word has several common senses, only the **first 3 meanings** are given, each with its own example.
 
-> This is the 600-word starter set. The full 3000-word list will live in a separate
-> `toeic-3000/` folder beside this one.
+> This is the 600-word starter set. The full 3000-word list lives in the
+> `../toeic-3000/` folder beside this one.
+
+## Cross-links inside examples (ctrl / cmd + click)
+
+Where an example sentence uses a word that has its own entry **elsewhere in this 600-word
+set**, that word is written as a relative Markdown link, e.g.
+`[connecting flight](14-travel-and-transportation.md#23-connecting-flight)`. **Ctrl + click**
+(Cmd + click on macOS) in VS Code, an IDE, or a Markdown previewer to jump to it.
+
+- All 600 headwords are **unique**, so each link resolves to exactly one entry
+  (anchors include the entry number, e.g. `#23-connecting-flight`).
+- **Targets span both folders.** An example word links wherever its entry lives — a topic
+  file in this set, **or** a file in `../toeic-3000/` (written with a `../` path). When a word
+  has an entry in both sets, the link points to the one in this folder.
+- Short or highly ambiguous common words are not auto-linked, to avoid wrong-sense links.
+  At most 3 links per example; an entry never links to itself.
+- ~1,250 cross-links across the two sets; every one resolves.
 
 ## Topics
 

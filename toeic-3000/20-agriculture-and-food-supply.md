@@ -6,7 +6,7 @@
 ### agriculture
 - **IPA:** /ˈæɡrɪkʌltʃə/
 - **Meaning 1 (n):** The practice of farming, including growing crops and raising animals.
-  - *Example:* **Agriculture** employs a third of the region's workforce.
+  - *Example:* **Agriculture** employs a third of the region's [workforce](../toeic-600/04-human-resources-and-recruitment.md#21-workforce).
 
 ### farming
 - **IPA:** /ˈfɑːmɪŋ/
@@ -73,7 +73,7 @@
 ### planting
 - **IPA:** /ˈplɑːntɪŋ/
 - **Meaning 1 (n):** The act of putting plants or seeds in the ground to grow.
-  - *Example:* **Planting** of the new orchard took a full week.
+  - *Example:* **Planting** of the new [orchard](20-agriculture-and-food-supply.md#orchard) took a full week.
 
 ### irrigation
 - **IPA:** /ˌɪrɪˈɡeɪʃn/
@@ -93,7 +93,7 @@
 ### herbicide
 - **IPA:** /ˈhɜːbɪsaɪd/
 - **Meaning 1 (n):** A chemical used to kill unwanted plants, especially weeds.
-  - *Example:* **Herbicide** was sprayed between the rows before planting.
+  - *Example:* **Herbicide** was sprayed between the rows before [planting](20-agriculture-and-food-supply.md#planting).
 
 ### tillage
 - **IPA:** /ˈtɪlɪdʒ/
@@ -183,12 +183,12 @@
 ### topsoil
 - **IPA:** /ˈtɒpsɔɪl/
 - **Meaning 1 (n):** The upper, most fertile layer of soil.
-  - *Example:* Heavy machinery had compacted the **topsoil**.
+  - *Example:* Heavy [machinery](../toeic-600/10-manufacturing-and-production.md#12-machinery) had compacted the **topsoil**.
 
 ### erosion
 - **IPA:** /ɪˈrəʊʒn/
 - **Meaning 1 (n):** The gradual wearing away of soil or rock by wind or water.
-  - *Example:* Planting hedges slowed the **erosion** of the hillside fields.
+  - *Example:* [Planting](20-agriculture-and-food-supply.md#planting) hedges slowed the **erosion** of the hillside fields.
 
 ### drought
 - **IPA:** /draʊt/
@@ -228,7 +228,7 @@
 ### cold chain
 - **IPA:** /ˈkəʊld tʃeɪn/
 - **Meaning 1 (n):** An unbroken series of refrigerated steps that keeps perishable goods cold from farm to shop.
-  - *Example:* A break in the **cold chain** spoiled a whole container of fish.
+  - *Example:* A break in the **cold chain** spoiled a whole [container](21-transportation-and-shipping.md#container) of fish.
 
 ### shelf life
 - **IPA:** /ˈʃelf laɪf/
@@ -248,7 +248,7 @@
 ### distributor
 - **IPA:** /dɪˈstrɪbjətə/
 - **Meaning 1 (n):** A company that buys goods and supplies them to shops or other businesses.
-  - *Example:* A national **distributor** delivers the produce to supermarkets.
+  - *Example:* A national **distributor** [delivers](06-projects-and-deadlines.md#deliver) the produce to supermarkets.
 
 ### wholesaler
 - **IPA:** /ˈhəʊlseɪlə/
@@ -258,7 +258,7 @@
 ### commodity price
 - **IPA:** /kəˈmɒdəti praɪs/
 - **Meaning 1 (n):** The market price of a basic traded good such as grain, sugar, or coffee.
-  - *Example:* A poor harvest abroad pushed the **commodity price** up sharply.
+  - *Example:* A poor [harvest](20-agriculture-and-food-supply.md#harvest) abroad pushed the **commodity price** up sharply.
 
 ### futures contract
 - **IPA:** /ˈfjuːtʃəz ˌkɒntrækt/
@@ -268,22 +268,22 @@
 ### food security
 - **IPA:** /ˈfuːd sɪˌkjʊərəti/
 - **Meaning 1 (n):** The state of having reliable access to enough safe, affordable food.
-  - *Example:* Droughts abroad raised concerns about national **food security**.
+  - *Example:* [Droughts](20-agriculture-and-food-supply.md#drought) abroad raised concerns about national **food security**.
 
 ### traceability
 - **IPA:** /ˌtreɪsəˈbɪləti/
 - **Meaning 1 (n):** The ability to track a food product back through every stage of its supply.
-  - *Example:* Barcodes give full **traceability** from the field to the shelf.
+  - *Example:* [Barcodes](16-retail-and-store-operations.md#barcode) give full **traceability** from the field to the shelf.
 
 ### food certification
 - **IPA:** /ˈfuːd ˌsɜːtɪfɪˈkeɪʃn/
 - **Meaning 1 (n):** Official approval that a food product meets a defined standard, such as organic or fair trade.
-  - *Example:* **Food certification** lets the farm sell into premium markets.
+  - *Example:* **Food certification** lets the farm sell into [premium](../toeic-600/18-employee-benefits-and-insurance.md#2-premium) markets.
 
 ### labelling
 - **IPA:** /ˈleɪblɪŋ/
 - **Meaning 1 (n):** The information printed on a product's packaging, such as contents and origin.
-  - *Example:* New rules require clearer **labelling** of allergens.
+  - *Example:* New rules require clearer **labelling** of [allergens](38-food-cooking-and-dining-out.md#allergen).
 
 ### contamination
 - **IPA:** /kənˌtæmɪˈneɪʃn/
@@ -300,7 +300,7 @@
 ### spoilage
 - **IPA:** /ˈspɔɪlɪdʒ/
 - **Meaning 1 (n):** The process of food going bad, or the amount lost this way.
-  - *Example:* Better cold storage cut **spoilage** in the warehouse.
+  - *Example:* Better cold storage cut **spoilage** in the [warehouse](../toeic-600/11-logistics-shipping-and-warehousing.md#15-warehouse).
 
 ### preservation
 - **IPA:** /ˌprezəˈveɪʃn/
@@ -325,7 +325,7 @@
 ### pasteurization
 - **IPA:** /ˌpɑːstʃəraɪˈzeɪʃn/
 - **Meaning 1 (n):** The heating of a food or drink to kill harmful bacteria.
-  - *Example:* **Pasteurization** makes the milk safe and extends its shelf life.
+  - *Example:* **Pasteurization** makes the milk safe and extends its [shelf life](20-agriculture-and-food-supply.md#shelf-life).
 
 ### seasonal produce
 - **IPA:** /ˌsiːzənl ˈprɒdjuːs/
@@ -335,7 +335,7 @@
 ### farm-to-table
 - **IPA:** /ˌfɑːm tə ˈteɪbl/
 - **Meaning 1 (adj):** Describing food that goes directly from the farm to the consumer with few steps between.
-  - *Example:* The restaurant promotes a **farm-to-table** approach with local suppliers.
+  - *Example:* The restaurant [promotes](../toeic-600/08-marketing-and-advertising.md#7-promote) a **farm-to-table** approach with local [suppliers](../toeic-600/09-sales-and-purchasing.md#2-supplier).
 
 ### yield per hectare
 - **IPA:** /ˌjiːld pər ˈhekteə/
@@ -345,7 +345,7 @@
 ### mechanization
 - **IPA:** /ˌmekənaɪˈzeɪʃn/
 - **Meaning 1 (n):** The replacement of manual work with machines.
-  - *Example:* **Mechanization** cut the number of workers needed at harvest.
+  - *Example:* **Mechanization** cut the number of workers needed at [harvest](20-agriculture-and-food-supply.md#harvest).
 
 ### farmer
 - **IPA:** /ˈfɑːmə/
@@ -375,7 +375,7 @@
 ### crop yield
 - **IPA:** /ˈkrɒp jiːld/
 - **Meaning 1 (n):** The amount of a crop produced from a given area of land.
-  - *Example:* Fertiliser and irrigation together doubled the **crop yield**.
+  - *Example:* Fertiliser and [irrigation](20-agriculture-and-food-supply.md#irrigation) together doubled the **crop yield**.
 
 ### combine harvester
 - **IPA:** /ˌkɒmbaɪn ˈhɑːvɪstə/

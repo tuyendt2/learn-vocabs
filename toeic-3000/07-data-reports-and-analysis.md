@@ -26,12 +26,12 @@
 ### metric
 - **IPA:** /ˈmetrɪk/
 - **Meaning 1 (n):** A standard measure used to track performance or progress.
-  - *Example:* Response time is the **metric** the support team lives by.
+  - *Example:* Response time is the **metric** the [support](04-teamwork-and-workplace-relationships.md#support) team lives by.
 
 ### indicator
 - **IPA:** /ˈɪndɪkeɪtə/
 - **Meaning 1 (n):** A sign or measurement that shows the state or level of something.
-  - *Example:* Repeat orders are a good **indicator** of customer satisfaction.
+  - *Example:* Repeat orders are a good **indicator** of customer [satisfaction](../toeic-600/20-customer-service-and-complaints.md#12-satisfaction).
 
 ### variable
 - **IPA:** /ˈveəriəbl/
@@ -62,7 +62,7 @@
 ### respondent
 - **IPA:** /rɪˈspɒndənt/
 - **Meaning 1 (n):** A person who answers a survey or questionnaire.
-  - *Example:* Most **respondents** wanted longer opening hours.
+  - *Example:* Most **respondents** wanted longer [opening hours](16-retail-and-store-operations.md#opening-hours).
 
 ### poll
 - **IPA:** /pəʊl/
@@ -79,7 +79,7 @@
 ### trend
 - **IPA:** /trend/
 - **Meaning 1 (n):** A general direction of change over time.
-  - *Example:* The **trend** in complaints has been downward all year.
+  - *Example:* The **trend** in [complaints](../toeic-600/20-customer-service-and-complaints.md#1-complaint) has been downward all year.
 
 ### pattern
 - **IPA:** /ˈpætn/
@@ -94,7 +94,7 @@
 ### deviation
 - **IPA:** /ˌdiːviˈeɪʃn/
 - **Meaning 1 (n):** The amount by which a value differs from a standard or average.
-  - *Example:* A large **deviation** from the forecast triggers a review.
+  - *Example:* A large **deviation** from the [forecast](07-data-reports-and-analysis.md#forecast) [triggers](10-problem-solving-and-decision-making.md#trigger) a review.
 
 ### anomaly
 - **IPA:** /əˈnɒməli/
@@ -104,7 +104,7 @@
 ### outlier
 - **IPA:** /ˈaʊtlaɪə/
 - **Meaning 1 (n):** A value that is much higher or lower than the rest of the data.
-  - *Example:* We removed one **outlier** before calculating the average.
+  - *Example:* We removed one **outlier** before calculating the [average](07-data-reports-and-analysis.md#average).
 
 ### average
 - **IPA:** /ˈævərɪdʒ/
@@ -126,7 +126,7 @@
 ### margin of error
 - **IPA:** /ˌmɑːdʒɪn əv ˈerə/
 - **Meaning 1 (n):** The amount by which a measured or reported result may differ from the true value.
-  - *Example:* The **margin of error** on the poll is three percentage points.
+  - *Example:* The **margin of error** on the poll is three [percentage](07-data-reports-and-analysis.md#percentage) points.
 
 ### percentage
 - **IPA:** /pəˈsentɪdʒ/
@@ -146,7 +146,7 @@
 ### breakdown
 - **IPA:** /ˈbreɪkdaʊn/
 - **Meaning 1 (n):** A division of totals into separate parts for analysis.
-  - *Example:* The report gives a **breakdown** of costs by department.
+  - *Example:* The report gives a **breakdown** of costs by [department](31-government-and-public-services.md#department).
 
 ### segment
 - **IPA:** /ˈseɡmənt/
@@ -158,7 +158,7 @@
 ### category
 - **IPA:** /ˈkætəɡəri/
 - **Meaning 1 (n):** A group of things that share the same features.
-  - *Example:* Complaints fall into three main **categories**.
+  - *Example:* [Complaints](../toeic-600/20-customer-service-and-complaints.md#1-complaint) fall into three main **categories**.
 
 ### baseline
 - **IPA:** /ˈbeɪslaɪn/
@@ -190,7 +190,7 @@
 ### extrapolate
 - **IPA:** /ɪkˈstræpəleɪt/
 - **Meaning 1 (v):** To estimate unknown values by extending a known trend.
-  - *Example:* If we **extrapolate** current growth, we hit capacity by 2027.
+  - *Example:* If we **extrapolate** current growth, we hit [capacity](06-projects-and-deadlines.md#capacity) by 2027.
 
 ### interpolate
 - **IPA:** /ɪnˈtɜːpəleɪt/
@@ -202,7 +202,7 @@
 - **Meaning 1 (adj):** Formed by adding several amounts together; total.
   - *Example:* **Aggregate** demand across all stores was flat.
 - **Meaning 2 (v):** To combine separate items into a whole.
-  - *Example:* The tool **aggregates** feedback from every channel.
+  - *Example:* The tool **aggregates** [feedback](../toeic-600/06-meetings-and-presentations.md#14-feedback) from every channel.
 
 ### collate
 - **IPA:** /kəˈleɪt/
@@ -217,14 +217,14 @@
 ### chart
 - **IPA:** /tʃɑːt/
 - **Meaning 1 (n):** A diagram that presents information visually.
-  - *Example:* The **chart** makes the seasonal dip obvious.
+  - *Example:* The **chart** makes the [seasonal](../toeic-600/16-restaurants-and-dining.md#28-seasonal) dip obvious.
 - **Meaning 2 (v):** To record or follow progress over time.
   - *Example:* The report **charts** five years of steady decline.
 
 ### graph
 - **IPA:** /ɡrɑːf/
 - **Meaning 1 (n):** A drawing that shows the relationship between two sets of numbers.
-  - *Example:* The **graph** plots revenue against advertising spend.
+  - *Example:* The **graph** plots [revenue](../toeic-600/02-finance-and-banking.md#19-revenue) against [advertising](24-advertising-pr-and-media.md#advertising) spend.
 
 ### bar chart
 - **IPA:** /ˈbɑː tʃɑːt/
@@ -269,7 +269,7 @@
 ### findings
 - **IPA:** /ˈfaɪndɪŋz/
 - **Meaning 1 (n):** The information or conclusions reached by a study or investigation.
-  - *Example:* The **findings** support a move to weekly deliveries.
+  - *Example:* The **findings** [support](04-teamwork-and-workplace-relationships.md#support) a move to weekly deliveries.
 
 ### insight
 - **IPA:** /ˈɪnsaɪt/
@@ -284,22 +284,22 @@
 ### implication
 - **IPA:** /ˌɪmplɪˈkeɪʃn/
 - **Meaning 1 (n):** A likely effect or consequence of something.
-  - *Example:* The data have clear **implications** for staffing.
+  - *Example:* The data have clear **implications** for [staffing](../toeic-600/04-human-resources-and-recruitment.md#30-staffing).
 
 ### methodology
 - **IPA:** /ˌmeθəˈdɒlədʒi/
 - **Meaning 1 (n):** The set of methods and principles used to carry out a study.
-  - *Example:* An appendix explains the survey **methodology**.
+  - *Example:* An [appendix](07-data-reports-and-analysis.md#appendix) explains the survey **methodology**.
 
 ### assumption
 - **IPA:** /əˈsʌmpʃn/
 - **Meaning 1 (n):** Something accepted as true without proof, used as a basis for reasoning.
-  - *Example:* The forecast rests on an **assumption** of 3% price growth.
+  - *Example:* The [forecast](07-data-reports-and-analysis.md#forecast) rests on an **assumption** of 3% price growth.
 
 ### limitation
 - **IPA:** /ˌlɪmɪˈteɪʃn/
 - **Meaning 1 (n):** A weakness or restriction that reduces how far results can be trusted.
-  - *Example:* A key **limitation** was the small sample size.
+  - *Example:* A key **limitation** was the small [sample size](27-science-and-research.md#sample-size).
 
 ### bias
 - **IPA:** /ˈbaɪəs/
@@ -334,7 +334,7 @@
 ### quarterly report
 - **IPA:** /ˈkwɔːtəli rɪˌpɔːt/
 - **Meaning 1 (n):** A report produced every three months on performance or results.
-  - *Example:* The **quarterly report** goes to shareholders in May.
+  - *Example:* The **quarterly report** goes to [shareholders](02-company-organization-and-departments.md#shareholder) in May.
 
 ### annual report
 - **IPA:** /ˌænjuəl rɪˈpɔːt/

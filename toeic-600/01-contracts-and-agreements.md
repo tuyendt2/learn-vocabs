@@ -3,7 +3,7 @@
 ### 1. contract
 - **IPA:** /ˈkɒntrækt/ (n) · /kənˈtrækt/ (v)
 - **Meaning 1 (n):** A formal, legally binding agreement between two or more parties.
-  - *Example:* We signed a three-year **contract** with the new supplier.
+  - *Example:* We signed a three-year **contract** with the new [supplier](09-sales-and-purchasing.md#2-supplier).
 - **Meaning 2 (v):** To arrange for work to be done by an outside person or company through a formal agreement.
   - *Example:* The city **contracted** a private firm to maintain the roads.
 - **Meaning 3 (v):** To become smaller, shorter, or tighter.
@@ -19,14 +19,14 @@
 ### 3. clause
 - **IPA:** /klɔːz/
 - **Meaning 1 (n):** A particular section or condition in a legal document.
-  - *Example:* A confidentiality **clause** prevents staff from sharing client data.
+  - *Example:* A [confidentiality](01-contracts-and-agreements.md#26-confidentiality) **clause** prevents staff from sharing client data.
 
 ### 4. terms
 - **IPA:** /tɜːmz/
 - **Meaning 1 (n):** The conditions of a contract or agreement.
   - *Example:* Under the **terms** of the lease, pets are not allowed.
 - **Meaning 2 (n):** The stated conditions for payment.
-  - *Example:* Our standard payment **terms** are 30 days from invoice.
+  - *Example:* Our [standard](12-quality-control-and-standards.md#3-standard) payment **terms** are 30 days from [invoice](09-sales-and-purchasing.md#6-invoice).
 
 ### 5. negotiate
 - **IPA:** /nɪˈɡəʊʃieɪt/
@@ -45,16 +45,16 @@
 ### 7. obligation
 - **IPA:** /ˌɒblɪˈɡeɪʃn/
 - **Meaning 1 (n):** Something you are required to do by law or contract.
-  - *Example:* The tenant has an **obligation** to keep the property in good repair.
+  - *Example:* The tenant has an **obligation** to keep the [property](19-real-estate-and-property.md#1-property) in good repair.
 - **Meaning 2 (n):** A moral or social duty.
-  - *Example:* I feel an **obligation** to help the colleague who trained me.
+  - *Example:* I feel an **obligation** to help the [colleague](../toeic-3000/04-teamwork-and-workplace-relationships.md#colleague) who trained me.
 
 ### 8. breach
 - **IPA:** /briːtʃ/
 - **Meaning 1 (n):** An act of breaking a law, rule, or agreement.
   - *Example:* Sharing the files was a clear **breach** of contract.
 - **Meaning 2 (v):** To break a law, rule, or agreement.
-  - *Example:* The supplier **breached** the terms by delivering late three times.
+  - *Example:* The [supplier](09-sales-and-purchasing.md#2-supplier) **breached** the terms by [delivering](../toeic-3000/06-projects-and-deadlines.md#deliver) late three times.
 
 ### 9. amendment
 - **IPA:** /əˈmendmənt/
@@ -64,16 +64,16 @@
 ### 10. provision
 - **IPA:** /prəˈvɪʒn/
 - **Meaning 1 (n):** A condition or requirement in a legal document.
-  - *Example:* The contract contains a **provision** for early termination.
+  - *Example:* The contract contains a **provision** for early [termination](01-contracts-and-agreements.md#15-termination).
 - **Meaning 2 (n):** The act of supplying something that is needed.
-  - *Example:* The company is responsible for the **provision** of safety equipment.
+  - *Example:* The company is responsible for the **provision** of safety [equipment](05-office-procedures-and-equipment.md#26-equipment).
 - **Meaning 3 (n):** Supplies of food and other necessities.
   - *Example:* They packed enough **provisions** for a week in the field.
 
 ### 11. binding
 - **IPA:** /ˈbaɪndɪŋ/
 - **Meaning 1 (adj):** Creating a legal obligation that must be obeyed.
-  - *Example:* Once signed, the agreement is legally **binding** on both sides.
+  - *Example:* Once signed, the [agreement](01-contracts-and-agreements.md#2-agreement) is legally **binding** on both sides.
 
 ### 12. signature
 - **IPA:** /ˈsɪɡnətʃə/
@@ -88,7 +88,7 @@
 ### 14. renewal
 - **IPA:** /rɪˈnjuːəl/
 - **Meaning 1 (n):** The act of extending an agreement or licence for a further period.
-  - *Example:* Your subscription is due for **renewal** next month.
+  - *Example:* Your [subscription](../toeic-3000/32-media-news-and-publishing.md#subscription) is due for **renewal** next month.
 
 ### 15. termination
 - **IPA:** /ˌtɜːmɪˈneɪʃn/
@@ -116,22 +116,22 @@
 - **Meaning 2 (v):** To promise that something will happen or be done.
   - *Example:* We cannot **guarantee** delivery before Friday.
 
-### 19. compliance
-- **IPA:** /kəmˈplaɪəns/
-- **Meaning 1 (n):** The practice of obeying rules, laws, or standards.
-  - *Example:* All factories must be in **compliance** with safety regulations.
+### 19. good faith
+- **IPA:** /ˌɡʊd ˈfeɪθ/
+- **Meaning 1 (n):** An honest intention to deal fairly with the other party.
+  - *Example:* Both sides agreed to [negotiate](01-contracts-and-agreements.md#5-negotiate) in **good faith**.
 
 ### 20. enforce
 - **IPA:** /ɪnˈfɔːs/
 - **Meaning 1 (v):** To make sure that a law or rule is obeyed.
-  - *Example:* The agency **enforces** environmental standards.
+  - *Example:* The agency **enforces** environmental [standards](12-quality-control-and-standards.md#3-standard).
 - **Meaning 2 (v):** To make something happen or be accepted, often by force.
   - *Example:* Managers should not try to **enforce** their views on the team.
 
 ### 21. draft
 - **IPA:** /drɑːft/
 - **Meaning 1 (n):** An early version of a document that is not yet final.
-  - *Example:* Please review the first **draft** of the agreement.
+  - *Example:* Please review the first **draft** of the [agreement](01-contracts-and-agreements.md#2-agreement).
 - **Meaning 2 (v):** To write a first version of a document.
   - *Example:* Legal will **draft** the contract by Wednesday.
 - **Meaning 3 (n):** A current of cool air in an enclosed space.
@@ -147,12 +147,12 @@
 - **Meaning 1 (adj):** Not legally valid or binding.
   - *Example:* Any unsigned copy of the form is **void**.
 - **Meaning 2 (v):** To make something no longer legally valid.
-  - *Example:* Removing the seal will **void** the warranty.
+  - *Example:* Removing the seal will **void** the [warranty](01-contracts-and-agreements.md#17-warranty).
 
 ### 24. counterpart
 - **IPA:** /ˈkaʊntəpɑːt/
 - **Meaning 1 (n):** A person or thing with the same role or function as another, in a different place or organisation.
-  - *Example:* Our sales director met her **counterpart** from the parent company.
+  - *Example:* Our sales director met her **counterpart** from the [parent company](../toeic-3000/02-company-organization-and-departments.md#parent-company).
 
 ### 25. arbitration
 - **IPA:** /ˌɑːbɪˈtreɪʃn/
@@ -162,17 +162,17 @@
 ### 26. confidentiality
 - **IPA:** /ˌkɒnfɪˌdenʃiˈæləti/
 - **Meaning 1 (n):** The state of keeping information secret or private.
-  - *Example:* Staff sign a **confidentiality** agreement on their first day.
+  - *Example:* Staff sign a **confidentiality** [agreement](01-contracts-and-agreements.md#2-agreement) on their first day.
 
 ### 27. indemnity
 - **IPA:** /ɪnˈdemnəti/
 - **Meaning 1 (n):** Protection or compensation against loss or damage.
-  - *Example:* The contractor must carry professional **indemnity** insurance.
+  - *Example:* The [contractor](../toeic-3000/18-construction-and-building-trades.md#contractor) must carry professional **indemnity** [insurance](17-health-and-medical.md#9-insurance).
 
 ### 28. waiver
 - **IPA:** /ˈweɪvə/
 - **Meaning 1 (n):** A formal document giving up a right or claim.
-  - *Example:* Participants must sign a liability **waiver** before the tour.
+  - *Example:* [Participants](06-meetings-and-presentations.md#8-participant) must sign a [liability](01-contracts-and-agreements.md#16-liability) **waiver** before the tour.
 
 ### 29. addendum
 - **IPA:** /əˈdendəm/
@@ -182,6 +182,6 @@
 ### 30. mutual
 - **IPA:** /ˈmjuːtʃuəl/
 - **Meaning 1 (adj):** Felt or done by two or more parties toward one another.
-  - *Example:* The contract can be cancelled by **mutual** consent.
+  - *Example:* The contract can be cancelled by **mutual** [consent](../toeic-3000/14-law-and-compliance.md#consent).
 - **Meaning 2 (adj):** Shared by two or more people.
   - *Example:* We were introduced by a **mutual** friend.

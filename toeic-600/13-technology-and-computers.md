@@ -8,7 +8,7 @@
 ### 2. hardware
 - **IPA:** /ˈhɑːdweə/
 - **Meaning 1 (n):** The physical parts of a computer system.
-  - *Example:* The **hardware** is fine; the problem is the settings.
+  - *Example:* The **hardware** is fine; the [problem](../toeic-3000/10-problem-solving-and-decision-making.md#problem) is the settings.
 - **Meaning 2 (n):** Tools and equipment, especially for the home or garden.
   - *Example:* He bought nails and paint at the **hardware** store.
 
@@ -22,7 +22,7 @@
 - **Meaning 1 (v):** To replace something with a newer or better version.
   - *Example:* We **upgraded** all laptops to the latest model.
 - **Meaning 2 (n):** A newer or improved version of something.
-  - *Example:* The **upgrade** adds several security features.
+  - *Example:* The **upgrade** adds several [security](../toeic-3000/12-banking-and-investment.md#security) [features](../toeic-3000/32-media-news-and-publishing.md#feature).
 
 ### 5. network
 - **IPA:** /ˈnetwɜːk/
@@ -51,7 +51,7 @@
 ### 9. glitch
 - **IPA:** /ɡlɪtʃ/
 - **Meaning 1 (n):** A small, sudden fault in a system.
-  - *Example:* A software **glitch** delayed all the payments.
+  - *Example:* A [software](13-technology-and-computers.md#1-software) **glitch** delayed all the payments.
 
 ### 10. crash
 - **IPA:** /kræʃ/
@@ -73,14 +73,14 @@
 ### 13. bandwidth
 - **IPA:** /ˈbændwɪdθ/
 - **Meaning 1 (n):** The amount of data that can be sent over a connection in a set time.
-  - *Example:* Video calls use a lot of **bandwidth**.
+  - *Example:* [Video calls](../toeic-3000/26-telecommunications-and-networks.md#video-call) use a lot of **bandwidth**.
 
 ### 14. interface
 - **IPA:** /ˈɪntəfeɪs/
 - **Meaning 1 (n):** The part of a program that the user sees and interacts with.
   - *Example:* The new **interface** is much easier to navigate.
 - **Meaning 2 (n):** A point where two systems meet and connect.
-  - *Example:* The tool provides an **interface** between the two databases.
+  - *Example:* The tool provides an **interface** between the two [databases](13-technology-and-computers.md#7-database).
 
 ### 15. compatible
 - **IPA:** /kəmˈpætəbl/
@@ -90,7 +90,7 @@
 ### 16. troubleshoot
 - **IPA:** /ˈtrʌblʃuːt/
 - **Meaning 1 (v):** To find and fix problems in a system or process.
-  - *Example:* The help desk will **troubleshoot** the connection issue.
+  - *Example:* The help desk will **troubleshoot** the [connection](../toeic-3000/40-travel-commuting-and-getting-around.md#connection) issue.
 
 ### 17. download
 - **IPA:** /ˌdaʊnˈləʊd/ (v) · /ˈdaʊnləʊd/ (n)
@@ -104,7 +104,7 @@
 - **Meaning 1 (v):** To make something more modern or add the latest information.
   - *Example:* Please **update** your contact details in the system.
 - **Meaning 2 (n):** A set of changes that improves or corrects software.
-  - *Example:* Install the security **update** as soon as possible.
+  - *Example:* [Install](13-technology-and-computers.md#3-install) the [security](../toeic-3000/12-banking-and-investment.md#security) **update** as soon as possible.
 - **Meaning 3 (n):** The most recent information about a situation.
   - *Example:* Here is a quick **update** on the project.
 
@@ -116,22 +116,22 @@
 ### 20. malware
 - **IPA:** /ˈmælweə/
 - **Meaning 1 (n):** Software designed to damage or gain access to a computer system.
-  - *Example:* The email contained a link that installed **malware**.
+  - *Example:* The email contained a link that [installed](13-technology-and-computers.md#3-install) **malware**.
 
-### 21. downtime
-- **IPA:** /ˈdaʊntaɪm/
-- **Meaning 1 (n):** A period when a system is not available for use.
-  - *Example:* The maintenance caused two hours of **downtime**.
+### 21. reboot
+- **IPA:** /ˌriːˈbuːt/
+- **Meaning 1 (v):** To switch a computer or system off and on again.
+  - *Example:* **Rebooting** the router fixed the [connection](../toeic-3000/40-travel-commuting-and-getting-around.md#connection).
 
 ### 22. firewall
 - **IPA:** /ˈfaɪəwɔːl/
 - **Meaning 1 (n):** A security system that controls what can enter or leave a network.
-  - *Example:* The **firewall** blocked the suspicious connection.
+  - *Example:* The **firewall** blocked the suspicious [connection](../toeic-3000/40-travel-commuting-and-getting-around.md#connection).
 
 ### 23. user-friendly
 - **IPA:** /ˌjuːzə ˈfrendli/
 - **Meaning 1 (adj):** Easy to use or understand.
-  - *Example:* Customers praised the **user-friendly** booking page.
+  - *Example:* Customers praised the **user-friendly** [booking](15-hotels-and-accommodation.md#16-booking) page.
 
 ### 24. bug
 - **IPA:** /bʌɡ/
@@ -148,12 +148,12 @@
 ### 26. bandwidth-heavy
 - **IPA:** /ˈbændwɪdθ ˌhevi/
 - **Meaning 1 (adj):** Requiring a large amount of data transfer.
-  - *Example:* Streaming training videos is **bandwidth-heavy**.
+  - *Example:* [Streaming](../toeic-3000/32-media-news-and-publishing.md#streaming) training videos is **bandwidth-heavy**.
 
 ### 27. patch
 - **IPA:** /pætʃ/
 - **Meaning 1 (n):** A small piece of software that fixes a problem in a program.
-  - *Example:* A **patch** was released to close the security hole.
+  - *Example:* A **patch** was [released](../toeic-3000/25-information-technology.md#release) to close the [security](../toeic-3000/12-banking-and-investment.md#security) hole.
 - **Meaning 2 (v):** To fix or improve software with a patch.
   - *Example:* All servers were **patched** overnight.
 
@@ -165,7 +165,7 @@
 ### 29. data breach
 - **IPA:** /ˈdeɪtə briːtʃ/
 - **Meaning 1 (n):** An incident in which secure data is accessed without permission.
-  - *Example:* The company reported the **data breach** to regulators.
+  - *Example:* The company reported the **data breach** to [regulators](../toeic-3000/31-government-and-public-services.md#regulator).
 
 ### 30. automate
 - **IPA:** /ˈɔːtəmeɪt/

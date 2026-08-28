@@ -3,9 +3,9 @@
 ### 1. purchase
 - **IPA:** /ˈpɜːtʃəs/
 - **Meaning 1 (v):** To buy something.
-  - *Example:* The company **purchased** new software for the whole office.
+  - *Example:* The company **purchased** new [software](13-technology-and-computers.md#1-software) for the whole office.
 - **Meaning 2 (n):** Something that has been bought.
-  - *Example:* Keep your receipt to return a **purchase**.
+  - *Example:* Keep your [receipt](03-accounting-and-budgeting.md#5-receipt) to return a **purchase**.
 
 ### 2. supplier
 - **IPA:** /səˈplaɪə/
@@ -22,7 +22,7 @@
 - **Meaning 1 (n):** A stated price for a job or goods before work is done.
   - *Example:* We asked for a **quotation** before agreeing to the repair.
 - **Meaning 2 (n):** A group of words taken from a text or speech.
-  - *Example:* The article opens with a **quotation** from the CEO.
+  - *Example:* The [article](../toeic-3000/32-media-news-and-publishing.md#article) opens with a **quotation** from the CEO.
 
 ### 5. order
 - **IPA:** /ˈɔːdə/
@@ -31,7 +31,7 @@
 - **Meaning 2 (v):** To ask for goods or services to be supplied.
   - *Example:* We **ordered** 500 units for the new store.
 - **Meaning 3 (n):** The arrangement of things in relation to each other.
-  - *Example:* File the invoices in date **order**.
+  - *Example:* File the [invoices](09-sales-and-purchasing.md#6-invoice) in date **order**.
 
 ### 6. invoice
 - **IPA:** /ˈɪnvɔɪs/
@@ -41,16 +41,16 @@
 ### 7. retail
 - **IPA:** /ˈriːteɪl/
 - **Meaning 1 (n):** The sale of goods to the public in small quantities.
-  - *Example:* She has 15 years' experience in **retail**.
+  - *Example:* She has 15 years' [experience](04-human-resources-and-recruitment.md#8-experience) in **retail**.
 - **Meaning 2 (adj):** Relating to selling goods to the public.
-  - *Example:* The **retail** price is twice the wholesale price.
+  - *Example:* The **retail** price is twice the [wholesale](09-sales-and-purchasing.md#8-wholesale) price.
 
 ### 8. wholesale
 - **IPA:** /ˈhəʊlseɪl/
 - **Meaning 1 (n):** The sale of goods in large quantities, usually to shops.
   - *Example:* They buy at **wholesale** and sell online.
 - **Meaning 2 (adj):** Done on a large scale.
-  - *Example:* The plan calls for a **wholesale** change in suppliers.
+  - *Example:* The plan calls for a **wholesale** change in [suppliers](09-sales-and-purchasing.md#2-supplier).
 
 ### 9. merchandise
 - **IPA:** /ˈmɜːtʃəndaɪs/
@@ -67,7 +67,7 @@
 ### 11. negotiation
 - **IPA:** /nɪˌɡəʊʃiˈeɪʃn/
 - **Meaning 1 (n):** Formal discussion aimed at reaching an agreement.
-  - *Example:* Price **negotiations** with the supplier are ongoing.
+  - *Example:* Price **negotiations** with the [supplier](09-sales-and-purchasing.md#2-supplier) are ongoing.
 
 ### 12. bargain
 - **IPA:** /ˈbɑːɡɪn/
@@ -79,7 +79,7 @@
 ### 13. procurement
 - **IPA:** /prəˈkjʊəmənt/
 - **Meaning 1 (n):** The process of obtaining supplies or equipment for a business.
-  - *Example:* The **procurement** department handles all large orders.
+  - *Example:* The **procurement** [department](../toeic-3000/31-government-and-public-services.md#department) handles all large orders.
 
 ### 14. requisition
 - **IPA:** /ˌrekwɪˈzɪʃn/
@@ -96,15 +96,15 @@
 - **Meaning 1 (v):** To fill up a supply of goods again.
   - *Example:* Staff **restock** the shelves before opening.
 
-### 17. margin
-- **IPA:** /ˈmɑːdʒɪn/
-- **Meaning 1 (n):** The difference between cost and selling price.
-  - *Example:* Discounting cuts into our profit **margin**.
+### 17. price list
+- **IPA:** /ˈpraɪs lɪst/
+- **Meaning 1 (n):** A document showing the prices of all the goods a company sells.
+  - *Example:* The [supplier](09-sales-and-purchasing.md#2-supplier) sent an updated **price list** for the new year.
 
 ### 18. markup
 - **IPA:** /ˈmɑːkʌp/
 - **Meaning 1 (n):** The amount added to the cost price to set the selling price.
-  - *Example:* The standard **markup** on accessories is 60%.
+  - *Example:* The [standard](12-quality-control-and-standards.md#3-standard) **markup** on accessories is 60%.
 
 ### 19. purchase order
 - **IPA:** /ˈpɜːtʃəs ˌɔːdə/
@@ -123,14 +123,12 @@
 - **Meaning 1 (n):** A sale to get rid of old stock at low prices.
   - *Example:* Winter coats are on the **clearance** rack.
 - **Meaning 2 (n):** Official permission for something to happen.
-  - *Example:* The shipment is waiting for customs **clearance**.
+  - *Example:* The [shipment](11-logistics-shipping-and-warehousing.md#1-shipment) is waiting for [customs](11-logistics-shipping-and-warehousing.md#13-customs) **clearance**.
 
-### 22. refund
-- **IPA:** /ˈriːfʌnd/ (n) · /rɪˈfʌnd/ (v)
-- **Meaning 1 (n):** A return of money to a customer.
-  - *Example:* You can get a full **refund** within 14 days.
-- **Meaning 2 (v):** To give money back to someone.
-  - *Example:* We **refunded** the customer for the faulty item.
+### 22. credit terms
+- **IPA:** /ˈkredɪt tɜːmz/
+- **Meaning 1 (n):** The conditions on which a buyer is allowed to pay later, such as "30 days".
+  - *Example:* New customers are offered 14-day **credit terms** at first.
 
 ### 23. exchange
 - **IPA:** /ɪksˈtʃeɪndʒ/
@@ -161,14 +159,14 @@
 ### 27. tender
 - **IPA:** /ˈtendə/
 - **Meaning 1 (n):** A formal written offer to supply goods or do work at a fixed price.
-  - *Example:* The council invited **tenders** for the new bridge.
+  - *Example:* The [council](../toeic-3000/31-government-and-public-services.md#council) invited **tenders** for the new bridge.
 - **Meaning 2 (v):** To make a formal offer to do work or supply goods.
   - *Example:* Three companies **tendered** for the project.
 
 ### 28. warranty claim
 - **IPA:** /ˈwɒrənti kleɪm/
 - **Meaning 1 (n):** A request for free repair or replacement under a warranty.
-  - *Example:* The **warranty claim** was approved within a week.
+  - *Example:* The **warranty claim** was [approved](../toeic-3000/03-management-and-leadership.md#approve) within a week.
 
 ### 29. stock up
 - **IPA:** /ˌstɒk ˈʌp/

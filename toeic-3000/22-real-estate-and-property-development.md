@@ -28,12 +28,12 @@
 ### acreage
 - **IPA:** /ˈeɪkərɪdʒ/
 - **Meaning 1 (n):** An area of land measured in acres.
-  - *Example:* The **acreage** is large enough for a warehouse and a yard.
+  - *Example:* The **acreage** is large enough for a [warehouse](../toeic-600/11-logistics-shipping-and-warehousing.md#15-warehouse) and a yard.
 
 ### rezoning
 - **IPA:** /ˌriːˈzəʊnɪŋ/
 - **Meaning 1 (n):** An official change to the permitted use of a piece of land.
-  - *Example:* **Rezoning** the site from industrial to residential raised its value sharply.
+  - *Example:* **Rezoning** the site from industrial to [residential](../toeic-600/19-real-estate-and-property.md#9-residential) raised its value sharply.
 
 ### land use
 - **IPA:** /ˈlænd juːs/
@@ -48,7 +48,7 @@
 ### easement
 - **IPA:** /ˈiːzmənt/
 - **Meaning 1 (n):** A legal right to use part of someone else's land for a specific purpose.
-  - *Example:* The utility has an **easement** to reach the pipes under the garden.
+  - *Example:* The [utility](19-energy-and-utilities.md#utility) has an **easement** to reach the pipes under the garden.
 
 ### right of way
 - **IPA:** /ˌraɪt əv ˈweɪ/
@@ -63,7 +63,7 @@
 ### title deed
 - **IPA:** /ˈtaɪtl diːd/
 - **Meaning 1 (n):** A legal document proving who owns a piece of property.
-  - *Example:* The **title deed** is held by the lender until the mortgage is repaid.
+  - *Example:* The **title deed** is held by the lender until the [mortgage](../toeic-600/19-real-estate-and-property.md#5-mortgage) is repaid.
 
 ### conveyancing
 - **IPA:** /kənˈveɪənsɪŋ/
@@ -73,12 +73,12 @@
 ### closing
 - **IPA:** /ˈkləʊzɪŋ/
 - **Meaning 1 (n):** The final meeting at which a property sale is completed and money changes hands.
-  - *Example:* Both lawyers attended the **closing** to exchange documents.
+  - *Example:* Both lawyers attended the **closing** to [exchange](../toeic-600/09-sales-and-purchasing.md#23-exchange) documents.
 
 ### escrow account
 - **IPA:** /ˈeskrəʊ əˌkaʊnt/
 - **Meaning 1 (n):** An account held by a third party where money is kept until a deal is complete.
-  - *Example:* The deposit sat in an **escrow account** until closing.
+  - *Example:* The [deposit](../toeic-600/02-finance-and-banking.md#2-deposit) sat in an **escrow account** until closing.
 
 ### comparable
 - **IPA:** /ˈkɒmpərəbl/
@@ -93,7 +93,7 @@
 ### floor area ratio
 - **IPA:** /ˈflɔː ˌeəriə ˌreɪʃiəʊ/
 - **Meaning 1 (n):** The ratio of a building's total floor space to the size of the plot it sits on.
-  - *Example:* A higher **floor area ratio** lets the developer build more storeys.
+  - *Example:* A higher **floor area ratio** lets the [developer](18-construction-and-building-trades.md#developer) build more storeys.
 
 ### building setback
 - **IPA:** /ˈbɪldɪŋ ˌsetbæk/
@@ -133,7 +133,7 @@
 ### office space
 - **IPA:** /ˈɒfɪs speɪs/
 - **Meaning 1 (n):** Floor area used or available for offices.
-  - *Example:* The company sublet half its **office space** after downsizing.
+  - *Example:* The company sublet half its **office space** after [downsizing](02-company-organization-and-departments.md#downsizing).
 
 ### occupancy rate
 - **IPA:** /ˈɒkjəpənsi reɪt/
@@ -143,7 +143,7 @@
 ### vacancy rate
 - **IPA:** /ˈveɪkənsi reɪt/
 - **Meaning 1 (n):** The percentage of available property that is empty and unlet.
-  - *Example:* A rising **vacancy rate** forced landlords to cut rents.
+  - *Example:* A rising **vacancy rate** forced [landlords](../toeic-600/19-real-estate-and-property.md#4-landlord) to cut rents.
 
 ### absorption rate
 - **IPA:** /əbˈzɔːpʃn reɪt/
@@ -158,17 +158,17 @@
 ### leaseback
 - **IPA:** /ˈliːsbæk/
 - **Meaning 1 (n):** An arrangement where the seller of a property immediately rents it back from the buyer.
-  - *Example:* The retailer sold its stores and took a **leaseback** to raise cash.
+  - *Example:* The [retailer](16-retail-and-store-operations.md#retailer) sold its stores and took a **leaseback** to raise cash.
 
 ### anchor tenant
 - **IPA:** /ˈæŋkə ˌtenənt/
 - **Meaning 1 (n):** A large, well-known tenant that draws customers and other tenants to a development.
-  - *Example:* A supermarket signed as the **anchor tenant** for the retail park.
+  - *Example:* A supermarket signed as the **anchor tenant** for the [retail park](16-retail-and-store-operations.md#retail-park).
 
 ### common area
 - **IPA:** /ˈkɒmən ˌeəriə/
 - **Meaning 1 (n):** Parts of a building shared by all occupants, such as halls, lifts, and gardens.
-  - *Example:* The service charge covers cleaning of the **common areas**.
+  - *Example:* The [service charge](../toeic-600/16-restaurants-and-dining.md#30-service-charge) covers cleaning of the **common areas**.
 
 ### dilapidations
 - **IPA:** /dɪˌlæpɪˈdeɪʃnz/
@@ -178,7 +178,7 @@
 ### shell and core
 - **IPA:** /ˌʃel ən ˈkɔː/
 - **Meaning 1 (n):** A building completed only to its basic structure, leaving the interior for the tenant to finish.
-  - *Example:* The office was handed over as **shell and core** for the tenant's own fit-out.
+  - *Example:* The office was handed over as **shell and core** for the tenant's own [fit-out](18-construction-and-building-trades.md#fit-out).
 
 ### off-plan
 - **IPA:** /ˌɒf ˈplæn/
@@ -188,7 +188,7 @@
 ### pre-sale
 - **IPA:** /ˈpriː seɪl/
 - **Meaning 1 (n):** The sale of units in a development before construction is complete.
-  - *Example:* Strong **pre-sales** helped the developer secure a construction loan.
+  - *Example:* Strong **pre-sales** helped the [developer](18-construction-and-building-trades.md#developer) secure a construction loan.
 
 ### show home
 - **IPA:** /ˈʃəʊ həʊm/
@@ -213,7 +213,7 @@
 ### buy-to-let
 - **IPA:** /ˌbaɪ tə ˈlet/
 - **Meaning 1 (adj):** Describing property bought as an investment to rent out.
-  - *Example:* He took out a **buy-to-let** mortgage on a two-bed flat.
+  - *Example:* He took out a **buy-to-let** [mortgage](../toeic-600/19-real-estate-and-property.md#5-mortgage) on a two-bed flat.
 
 ### capital appreciation
 - **IPA:** /ˌkæpɪtl əˌpriːʃiˈeɪʃn/
@@ -223,12 +223,12 @@
 ### rental yield
 - **IPA:** /ˈrentl jiːld/
 - **Meaning 1 (n):** The annual rent from a property as a percentage of its value.
-  - *Example:* A **rental yield** of 6% made the flat a solid investment.
+  - *Example:* A **rental yield** of 6% made the flat a solid [investment](../toeic-600/02-finance-and-banking.md#14-investment).
 
 ### gross yield
 - **IPA:** /ˌɡrəʊs ˈjiːld/
 - **Meaning 1 (n):** Annual rent as a percentage of property value, before costs are deducted.
-  - *Example:* The **gross yield** looks good until you subtract the service charge.
+  - *Example:* The **gross yield** looks good until you subtract the [service charge](../toeic-600/16-restaurants-and-dining.md#30-service-charge).
 
 ### net yield
 - **IPA:** /ˌnet ˈjiːld/
@@ -283,12 +283,12 @@
 ### brownfield
 - **IPA:** /ˈbraʊnfiːld/
 - **Meaning 1 (adj):** (of land) Previously built on and available for redevelopment.
-  - *Example:* The council prefers housing on **brownfield** land near the town centre.
+  - *Example:* The [council](31-government-and-public-services.md#council) prefers housing on **brownfield** land near the town centre.
 
 ### greenfield
 - **IPA:** /ˈɡriːnfiːld/
 - **Meaning 1 (adj):** (of land) Never built on before, often farmland or open countryside.
-  - *Example:* Building on **greenfield** sites met strong local opposition.
+  - *Example:* Building on **greenfield** sites met strong local [opposition](31-government-and-public-services.md#opposition).
 
 ### infrastructure levy
 - **IPA:** /ˈɪnfrəstrʌktʃə ˌlevi/
@@ -303,12 +303,12 @@
 ### real estate
 - **IPA:** /ˈrɪəl ɪˌsteɪt/
 - **Meaning 1 (n):** Land and the buildings on it, considered as property.
-  - *Example:* The company put much of its cash into commercial **real estate**.
+  - *Example:* The company put much of its cash into [commercial](../toeic-600/19-real-estate-and-property.md#8-commercial) **real estate**.
 
 ### planning application
 - **IPA:** /ˈplænɪŋ ˌæplɪˈkeɪʃn/
 - **Meaning 1 (n):** A formal request to a local authority for permission to build or change a property.
-  - *Example:* The **planning application** attracted 200 objections.
+  - *Example:* The **planning application** attracted 200 [objections](09-negotiation-and-persuasion.md#objection).
 
 ### development site
 - **IPA:** /dɪˈveləpmənt saɪt/
@@ -318,7 +318,7 @@
 ### property portfolio
 - **IPA:** /ˈprɒpəti pɔːtˌfəʊliəʊ/
 - **Meaning 1 (n):** The collection of properties owned by an investor or company.
-  - *Example:* The pension fund's **property portfolio** spans offices, shops, and warehouses.
+  - *Example:* The [pension fund](12-banking-and-investment.md#pension-fund)'s **property portfolio** spans offices, shops, and [warehouses](../toeic-600/11-logistics-shipping-and-warehousing.md#15-warehouse).
 
 ### rental income
 - **IPA:** /ˈrentl ˌɪnkʌm/
@@ -368,12 +368,12 @@
 ### rent-free period
 - **IPA:** /ˌrent friː ˈpɪəriəd/
 - **Meaning 1 (n):** A time at the start of a lease when the tenant pays no rent, offered as an incentive.
-  - *Example:* The landlord offered a three-month **rent-free period** to attract a tenant.
+  - *Example:* The [landlord](../toeic-600/19-real-estate-and-property.md#4-landlord) offered a three-month **rent-free period** to attract a tenant.
 
 ### development plan
 - **IPA:** /dɪˈveləpmənt plæn/
 - **Meaning 1 (n):** An official document setting out how land in an area should be used and built on.
-  - *Example:* The proposal did not fit the district's **development plan**.
+  - *Example:* The [proposal](../toeic-600/06-meetings-and-presentations.md#13-proposal) did not fit the district's **development plan**.
 
 ### property listing
 - **IPA:** /ˈprɒpəti ˌlɪstɪŋ/

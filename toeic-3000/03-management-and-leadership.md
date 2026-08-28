@@ -21,12 +21,12 @@
 ### prioritize
 - **IPA:** /praɪˈɒrətaɪz/
 - **Meaning 1 (v):** To decide which tasks are most important and deal with them first.
-  - *Example:* We had to **prioritize** safety fixes over new features.
+  - *Example:* We had to **prioritize** safety fixes over new [features](32-media-news-and-publishing.md#feature).
 
 ### empower
 - **IPA:** /ɪmˈpaʊə/
 - **Meaning 1 (v):** To give someone the authority or confidence to act on their own.
-  - *Example:* The policy **empowers** staff to refund small amounts without approval.
+  - *Example:* The policy **empowers** staff to refund small amounts without [approval](06-projects-and-deadlines.md#approval).
 
 ### motivate
 - **IPA:** /ˈməʊtɪveɪt/
@@ -36,7 +36,7 @@
 ### inspire
 - **IPA:** /ɪnˈspaɪə/
 - **Meaning 1 (v):** To fill someone with the desire or confidence to do something.
-  - *Example:* Her calm handling of the crisis **inspired** the whole department.
+  - *Example:* Her calm [handling](../toeic-600/11-logistics-shipping-and-warehousing.md#17-handling) of the crisis **inspired** the whole [department](31-government-and-public-services.md#department).
 
 ### appraise
 - **IPA:** /əˈpreɪz/
@@ -46,14 +46,14 @@
 ### evaluate
 - **IPA:** /ɪˈvæljueɪt/
 - **Meaning 1 (v):** To judge the value, quality, or importance of something carefully.
-  - *Example:* We **evaluate** every supplier on price, speed, and quality.
+  - *Example:* We **evaluate** every [supplier](../toeic-600/09-sales-and-purchasing.md#2-supplier) on price, speed, and quality.
 
 ### discipline
 - **IPA:** /ˈdɪsəplɪn/
 - **Meaning 1 (v):** To punish an employee formally for breaking rules.
   - *Example:* Two workers were **disciplined** for ignoring safety signs.
 - **Meaning 2 (n):** Controlled, orderly behaviour and the training that produces it.
-  - *Example:* Meeting deadlines takes **discipline**.
+  - *Example:* [Meeting](../toeic-600/06-meetings-and-presentations.md#1-meeting) [deadlines](../toeic-600/01-contracts-and-agreements.md#13-deadline) takes **discipline**.
 
 ### reprimand
 - **IPA:** /ˈreprɪmɑːnd/
@@ -65,16 +65,16 @@
 ### commend
 - **IPA:** /kəˈmend/
 - **Meaning 1 (v):** To praise someone formally or publicly.
-  - *Example:* The director **commended** the team for the quick turnaround.
+  - *Example:* The director **commended** the team for the quick [turnaround](../toeic-600/20-customer-service-and-complaints.md#24-turnaround).
 
 ### brief
 - **IPA:** /briːf/
 - **Meaning 1 (v):** To give someone the information they need before a task.
-  - *Example:* The pilot **briefed** the crew before departure.
+  - *Example:* The pilot **briefed** the crew before [departure](../toeic-600/14-travel-and-transportation.md#3-departure).
 - **Meaning 2 (n):** A set of instructions explaining a task or job.
   - *Example:* The design **brief** asked for a simple, low-cost package.
 - **Meaning 3 (adj):** Lasting a short time; using few words.
-  - *Example:* She gave a **brief** summary and took questions.
+  - *Example:* She gave a **brief** [summary](07-data-reports-and-analysis.md#summary) and took questions.
 
 ### debrief
 - **IPA:** /ˌdiːˈbriːf/
@@ -106,33 +106,33 @@
 ### ratify
 - **IPA:** /ˈrætɪfaɪ/
 - **Meaning 1 (v):** To make an agreement or decision official by formal approval.
-  - *Example:* Members will **ratify** the new rules at the annual meeting.
+  - *Example:* Members will **ratify** the new rules at the annual [meeting](../toeic-600/06-meetings-and-presentations.md#1-meeting).
 
 ### veto
 - **IPA:** /ˈviːtəʊ/
 - **Meaning 1 (v):** To reject or block a decision using official power.
-  - *Example:* The chair **vetoed** the proposal to cut training.
+  - *Example:* The chair **vetoed** the [proposal](../toeic-600/06-meetings-and-presentations.md#13-proposal) to cut training.
 - **Meaning 2 (n):** The right to reject a decision.
-  - *Example:* The founder still holds a **veto** over major spending.
+  - *Example:* The [founder](02-company-organization-and-departments.md#founder) still holds a **veto** over major [spending](35-shopping-and-consumer-life.md#spending).
 
 ### direct
 - **IPA:** /dəˈrekt/
 - **Meaning 1 (v):** To manage or guide the work of a group or project.
-  - *Example:* She **directs** the customer support operation.
+  - *Example:* She **directs** the customer [support](04-teamwork-and-workplace-relationships.md#support) operation.
 - **Meaning 2 (adj):** Going straight from one point to another without interruption.
-  - *Example:* There is now a **direct** reporting line to the CEO.
+  - *Example:* There is now a **direct** [reporting line](02-company-organization-and-departments.md#reporting-line) to the CEO.
 
 ### govern
 - **IPA:** /ˈɡʌvn/
 - **Meaning 1 (v):** To officially control and run an organisation or country.
-  - *Example:* A small council **governs** the trade association.
+  - *Example:* A small [council](31-government-and-public-services.md#council) **governs** the trade association.
 - **Meaning 2 (v):** To control or strongly influence how something works.
   - *Example:* Strict rules **govern** how the data may be used.
 
 ### steer
 - **IPA:** /stɪə/
 - **Meaning 1 (v):** To guide the direction of a group, plan, or discussion.
-  - *Example:* He **steered** the meeting back to the main issue.
+  - *Example:* He **steered** the [meeting](../toeic-600/06-meetings-and-presentations.md#1-meeting) back to the main issue.
 
 ### chair
 - **IPA:** /tʃeə/
@@ -144,7 +144,7 @@
 ### preside
 - **IPA:** /prɪˈzaɪd/
 - **Meaning 1 (v):** To be in the position of authority at a meeting or event.
-  - *Example:* A judge **presided** over the hearing.
+  - *Example:* A judge **presided** over the [hearing](14-law-and-compliance.md#hearing).
 
 ### lead by example
 - **IPA:** /ˌliːd baɪ ɪɡˈzɑːmpl/
@@ -154,12 +154,12 @@
 ### hands-on
 - **IPA:** /ˌhændz ˈɒn/
 - **Meaning 1 (adj):** Involving direct, practical involvement in the work.
-  - *Example:* He takes a **hands-on** approach on the shop floor.
+  - *Example:* He takes a **hands-on** approach on the [shop floor](17-manufacturing-and-engineering.md#shop-floor).
 
 ### hands-off
 - **IPA:** /ˌhændz ˈɒf/
 - **Meaning 1 (adj):** Not involving direct control; leaving others to work freely.
-  - *Example:* Her **hands-off** style suits experienced staff.
+  - *Example:* Her **hands-off** style suits [experienced](../toeic-600/04-human-resources-and-recruitment.md#8-experience) staff.
 
 ### micromanage
 - **IPA:** /ˈmaɪkrəʊmænɪdʒ/
@@ -174,16 +174,16 @@
 ### oversight
 - **IPA:** /ˈəʊvəsaɪt/
 - **Meaning 1 (n):** The act of watching over a process to make sure it is done properly.
-  - *Example:* A committee provides **oversight** of the budget.
+  - *Example:* A [committee](02-company-organization-and-departments.md#committee) provides **oversight** of the budget.
 - **Meaning 2 (n):** A mistake caused by not noticing something.
-  - *Example:* The missing signature was an **oversight**, not a refusal.
+  - *Example:* The missing [signature](../toeic-600/01-contracts-and-agreements.md#12-signature) was an **oversight**, not a refusal.
 
 ### initiative
 - **IPA:** /ɪˈnɪʃətɪv/
 - **Meaning 1 (n):** The ability to act and make decisions without being told to.
   - *Example:* She showed **initiative** by fixing the process herself.
 - **Meaning 2 (n):** A new plan or action to solve a problem or improve something.
-  - *Example:* The recycling **initiative** cut waste by a third.
+  - *Example:* The [recycling](28-environment-and-sustainability.md#recycling) **initiative** cut waste by a third.
 
 ### vision
 - **IPA:** /ˈvɪʒn/
@@ -198,31 +198,31 @@
 ### decisiveness
 - **IPA:** /dɪˈsaɪsɪvnəs/
 - **Meaning 1 (n):** The ability to make decisions quickly and confidently.
-  - *Example:* The crisis called for **decisiveness**, not more meetings.
+  - *Example:* The crisis called for **decisiveness**, not more [meetings](../toeic-600/06-meetings-and-presentations.md#1-meeting).
 
 ### integrity
 - **IPA:** /ɪnˈteɡrəti/
 - **Meaning 1 (n):** The quality of being honest and having strong moral principles.
   - *Example:* Clients trust her because of her **integrity**.
 - **Meaning 2 (n):** The state of being whole and undamaged.
-  - *Example:* Engineers checked the **integrity** of the bridge supports.
+  - *Example:* Engineers checked the **integrity** of the bridge [supports](04-teamwork-and-workplace-relationships.md#support).
 
 ### credibility
 - **IPA:** /ˌkredəˈbɪləti/
 - **Meaning 1 (n):** The quality of being believed and trusted.
-  - *Example:* Missing two deadlines damaged his **credibility**.
+  - *Example:* Missing two [deadlines](../toeic-600/01-contracts-and-agreements.md#13-deadline) damaged his **credibility**.
 
 ### charisma
 - **IPA:** /kəˈrɪzmə/
 - **Meaning 1 (n):** A natural ability to attract, charm, and influence people.
-  - *Example:* Her **charisma** kept the audience listening for an hour.
+  - *Example:* Her **charisma** kept the [audience](33-arts-culture-and-entertainment.md#audience) listening for an hour.
 
 ### delegation
 - **IPA:** /ˌdelɪˈɡeɪʃn/
 - **Meaning 1 (n):** The act of giving tasks and authority to other people.
   - *Example:* Good **delegation** frees a manager to focus on planning.
 - **Meaning 2 (n):** A group of people chosen to represent others.
-  - *Example:* A **delegation** from head office visited the plant.
+  - *Example:* A **delegation** from [head office](02-company-organization-and-departments.md#head-office) visited the plant.
 
 ### stewardship
 - **IPA:** /ˈstjuːədʃɪp/
@@ -259,7 +259,7 @@
 ### acting
 - **IPA:** /ˈæktɪŋ/
 - **Meaning 1 (adj):** Doing the duties of a job temporarily for someone else.
-  - *Example:* He is **acting** head of department this term.
+  - *Example:* He is **acting** head of [department](31-government-and-public-services.md#department) this term.
 
 ### superior
 - **IPA:** /suːˈpɪəriə/
@@ -276,7 +276,7 @@
 ### directive
 - **IPA:** /dəˈrektɪv/
 - **Meaning 1 (n):** An official instruction telling people what to do.
-  - *Example:* A **directive** from head office banned personal use of the printers.
+  - *Example:* A **directive** from [head office](02-company-organization-and-departments.md#head-office) banned personal use of the printers.
 
 ### buy-in
 - **IPA:** /ˈbaɪ ɪn/
@@ -306,7 +306,7 @@
 ### check-in
 - **IPA:** /ˈtʃek ɪn/
 - **Meaning 1 (n):** A short meeting or message to review progress and address issues.
-  - *Example:* A quick daily **check-in** keeps the [project](06-projects-and-deadlines.md#project) on track.
+  - *Example:* A quick daily **check-in** keeps the project [on track](06-projects-and-deadlines.md#on-track).
 
 ### follow-through
 - **IPA:** /ˈfɒləʊ θruː/
@@ -316,7 +316,7 @@
 ### mentorship
 - **IPA:** /ˈmentɔːʃɪp/
 - **Meaning 1 (n):** The guidance and support given by an experienced person to a less experienced one.
-  - *Example:* A formal **mentorship** scheme pairs juniors with a senior [mentor](01-career-and-professional-development.md#mentor).
+  - *Example:* A formal **mentorship** scheme pairs juniors with a senior mentor.
 
 ### sponsorship
 - **IPA:** /ˈspɒnsəʃɪp/
@@ -336,9 +336,9 @@
 ### authority
 - **IPA:** /ɔːˈθɒrəti/
 - **Meaning 1 (n):** The power or right to give orders and make decisions.
-  - *Example:* Team leaders have the **authority** to approve small purchases.
+  - *Example:* Team leaders have the **authority** to [approve](03-management-and-leadership.md#approve) small [purchases](../toeic-600/09-sales-and-purchasing.md#1-purchase).
 - **Meaning 2 (n):** An official organisation with power in a particular area.
-  - *Example:* The local **authority** must approve the sign.
+  - *Example:* The local **authority** must [approve](03-management-and-leadership.md#approve) the sign.
 - **Meaning 3 (n):** A person with expert knowledge on a subject.
   - *Example:* She is a leading **authority** on employment law.
 
@@ -350,7 +350,7 @@
 ### role model
 - **IPA:** /ˈrəʊl ˌmɒdl/
 - **Meaning 1 (n):** A person whose behaviour is copied by others.
-  - *Example:* Experienced staff act as **role models** for new hires.
+  - *Example:* [Experienced](../toeic-600/04-human-resources-and-recruitment.md#8-experience) staff act as **role models** for new hires.
 
 ### track record
 - **IPA:** /ˈtræk ˌrekɔːd/
@@ -370,7 +370,7 @@
 ### approachable
 - **IPA:** /əˈprəʊtʃəbl/
 - **Meaning 1 (adj):** Friendly and easy to talk to.
-  - *Example:* Staff raise problems early because she is so **approachable**.
+  - *Example:* Staff raise [problems](10-problem-solving-and-decision-making.md#problem) early because she is so **approachable**.
 
 ### visionary
 - **IPA:** /ˈvɪʒənri/
@@ -397,7 +397,7 @@
 ### people management
 - **IPA:** /ˈpiːpl ˌmænɪdʒmənt/
 - **Meaning 1 (n):** The skill of leading, supporting, and developing staff.
-  - *Example:* Strong **people management** keeps [morale](01-career-and-professional-development.md#morale) high during change.
+  - *Example:* Strong **people management** keeps morale high during change.
 
 ### command
 - **IPA:** /kəˈmɑːnd/

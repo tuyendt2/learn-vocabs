@@ -6,17 +6,17 @@
 ### collaborate
 - **IPA:** /kəˈlæbəreɪt/
 - **Meaning 1 (v):** To work together with others on a shared task.
-  - *Example:* Design and marketing **collaborated** on the new packaging.
+  - *Example:* Design and [marketing](../toeic-600/08-marketing-and-advertising.md#1-marketing) **collaborated** on the new packaging.
 
 ### cooperate
 - **IPA:** /kəʊˈɒpəreɪt/
 - **Meaning 1 (v):** To act or work together for a common purpose.
-  - *Example:* Both departments **cooperated** to meet the deadline.
+  - *Example:* Both [departments](31-government-and-public-services.md#department) **cooperated** to meet the [deadline](../toeic-600/01-contracts-and-agreements.md#13-deadline).
 
 ### contribute
 - **IPA:** /kənˈtrɪbjuːt/
 - **Meaning 1 (v):** To give help, ideas, money, or effort toward something.
-  - *Example:* Everyone is expected to **contribute** at the planning session.
+  - *Example:* Everyone is expected to **contribute** at the planning [session](25-information-technology.md#session).
 - **Meaning 2 (v):** To be one of the causes of something.
   - *Example:* Poor lighting **contributed** to the accident.
 
@@ -28,7 +28,7 @@
 ### liaise
 - **IPA:** /liˈeɪz/
 - **Meaning 1 (v):** To exchange information and cooperate with another person or group.
-  - *Example:* She **liaises** with suppliers about delivery dates.
+  - *Example:* She **liaises** with [suppliers](../toeic-600/09-sales-and-purchasing.md#2-supplier) about delivery dates.
 
 ### interact
 - **IPA:** /ˌɪntərˈækt/
@@ -52,22 +52,22 @@
 ### assist
 - **IPA:** /əˈsɪst/
 - **Meaning 1 (v):** To help someone do something.
-  - *Example:* Two colleagues **assisted** with the stock count.
+  - *Example:* Two [colleagues](04-teamwork-and-workplace-relationships.md#colleague) **assisted** with the stock count.
 
 ### back up
 - **IPA:** /ˌbæk ˈʌp/
 - **Meaning 1 (phr v):** To give support or help to someone.
-  - *Example:* The supervisor **backed** her **up** when the client complained.
+  - *Example:* The [supervisor](../toeic-600/04-human-resources-and-recruitment.md#24-supervisor) **backed** her **up** when the client complained.
 
 ### cover for
 - **IPA:** /ˈkʌvə fɔː/
 - **Meaning 1 (phr v):** To do someone's work while they are away.
-  - *Example:* Can you **cover for** me during my dentist appointment?
+  - *Example:* Can you **cover for** me during my dentist [appointment](../toeic-600/05-office-procedures-and-equipment.md#12-appointment)?
 
 ### pitch in
 - **IPA:** /ˌpɪtʃ ˈɪn/
 - **Meaning 1 (phr v):** To join in and help with a task.
-  - *Example:* Everyone **pitched in** to clear the warehouse before the move.
+  - *Example:* Everyone **pitched in** to clear the [warehouse](../toeic-600/11-logistics-shipping-and-warehousing.md#15-warehouse) before the move.
 
 ### chip in
 - **IPA:** /ˌtʃɪp ˈɪn/
@@ -89,7 +89,7 @@
 ### bonding
 - **IPA:** /ˈbɒndɪŋ/
 - **Meaning 1 (n):** The process of forming a close relationship with other people.
-  - *Example:* The induction week is as much about **bonding** as about training.
+  - *Example:* The [induction](30-education-and-training.md#induction) week is as much about **bonding** as about training.
 - **Meaning 2 (n):** A close connection or sense of trust between people.
   - *Example:* There is a strong **bonding** between the shift crews.
 
@@ -128,12 +128,12 @@
 ### synergy
 - **IPA:** /ˈsɪnədʒi/
 - **Meaning 1 (n):** Extra benefit produced when people or groups work together.
-  - *Example:* The merger was sold on the promise of **synergy** between the two networks.
+  - *Example:* The merger was sold on the promise of **synergy** between the two [networks](../toeic-600/13-technology-and-computers.md#5-network).
 
 ### chemistry
 - **IPA:** /ˈkemɪstri/
 - **Meaning 1 (n):** A natural understanding and good relationship between people.
-  - *Example:* The interview panel looks for **chemistry** as well as skills.
+  - *Example:* The [interview](../toeic-600/04-human-resources-and-recruitment.md#6-interview) panel looks for **chemistry** as well as skills.
 
 ### colleague
 - **IPA:** /ˈkɒliːɡ/
@@ -182,7 +182,7 @@
 ### facilitator
 - **IPA:** /fəˈsɪlɪteɪtə/
 - **Meaning 1 (n):** A person who helps a group discuss and reach decisions without taking sides.
-  - *Example:* A neutral **facilitator** ran the planning workshop.
+  - *Example:* A neutral **facilitator** ran the planning [workshop](../toeic-600/10-manufacturing-and-production.md#16-workshop).
 
 ### coordinator
 - **IPA:** /kəʊˈɔːdɪneɪtə/
@@ -234,7 +234,7 @@
 ### give and take
 - **IPA:** /ˌɡɪv ən ˈteɪk/
 - **Meaning 1 (n):** A willingness of each side to make concessions.
-  - *Example:* A good working relationship needs **give and take**.
+  - *Example:* A good [working relationship](04-teamwork-and-workplace-relationships.md#working-relationship) needs **give and take**.
 
 ### common ground
 - **IPA:** /ˌkɒmən ˈɡraʊnd/
@@ -259,7 +259,7 @@
 ### resentment
 - **IPA:** /rɪˈzentmənt/
 - **Meaning 1 (n):** A feeling of bitterness or anger at being treated unfairly.
-  - *Example:* Unequal workloads bred **resentment** in the office.
+  - *Example:* Unequal [workloads](06-projects-and-deadlines.md#workload) bred **resentment** in the office.
 
 ### favouritism
 - **IPA:** /ˈfeɪvərɪtɪzəm/
@@ -274,7 +274,7 @@
 ### inclusion
 - **IPA:** /ɪnˈkluːʒn/
 - **Meaning 1 (n):** The practice of making sure everyone feels welcome and able to take part.
-  - *Example:* The team's **inclusion** policy covers meetings and social events.
+  - *Example:* The team's **inclusion** policy covers [meetings](../toeic-600/06-meetings-and-presentations.md#1-meeting) and social events.
 
 ### belonging
 - **IPA:** /bɪˈlɒŋɪŋ/
@@ -284,7 +284,7 @@
 ### cross-functional
 - **IPA:** /ˌkrɒs ˈfʌŋkʃənl/
 - **Meaning 1 (adj):** Involving people from several different departments or skills.
-  - *Example:* A **cross-functional** team fixed the ordering problem.
+  - *Example:* A **cross-functional** team fixed the ordering [problem](10-problem-solving-and-decision-making.md#problem).
 
 ### interdepartmental
 - **IPA:** /ˌɪntədɪpɑːtˈmentl/
@@ -304,7 +304,7 @@
 ### colocated
 - **IPA:** /ˌkəʊləʊˈkeɪtɪd/
 - **Meaning 1 (adj):** Working in the same physical place as the rest of a team.
-  - *Example:* The support staff are **colocated** with the developers.
+  - *Example:* The [support](04-teamwork-and-workplace-relationships.md#support) staff are **colocated** with the [developers](18-construction-and-building-trades.md#developer).
 
 ### sounding board
 - **IPA:** /ˈsaʊndɪŋ bɔːd/
@@ -319,7 +319,7 @@
 ### ownership
 - **IPA:** /ˈəʊnəʃɪp/
 - **Meaning 1 (n):** The taking of personal responsibility for a task or outcome.
-  - *Example:* She took **ownership** of the complaint and saw it through.
+  - *Example:* She took **ownership** of the [complaint](../toeic-600/20-customer-service-and-complaints.md#1-complaint) and saw it through.
 - **Meaning 2 (n):** The state of owning something.
   - *Example:* **Ownership** of the tools passes to the client on payment.
 
@@ -371,7 +371,7 @@
 ### team-building
 - **IPA:** /ˈtiːm ˌbɪldɪŋ/
 - **Meaning 1 (n):** Activities designed to improve how well a group works together.
-  - *Example:* The away day included a **team-building** exercise on the river.
+  - *Example:* The away day included a **team-building** [exercise](39-leisure-hobbies-and-sports.md#exercise) on the river.
 
 ### get along
 - **IPA:** /ˌɡet əˈlɒŋ/
@@ -391,9 +391,9 @@
 ### peer support
 - **IPA:** /ˈpɪə səˌpɔːt/
 - **Meaning 1 (n):** Help and encouragement given by people of equal standing to each other.
-  - *Example:* A **peer support** group helps new managers share problems.
+  - *Example:* A **peer support** group helps new managers share [problems](10-problem-solving-and-decision-making.md#problem).
 
 ### collegial
 - **IPA:** /kəˈliːdʒiəl/
 - **Meaning 1 (adj):** Marked by friendly cooperation among colleagues who share responsibility.
-  - *Example:* The department has a **collegial** atmosphere where credit is shared.
+  - *Example:* The [department](31-government-and-public-services.md#department) has a **collegial** atmosphere where credit is shared.

@@ -12,10 +12,10 @@
 - **Meaning 2 (v):** To give money back to a customer.
   - *Example:* We will **refund** you within five working days.
 
-### 3. inquiry
-- **IPA:** /ɪnˈkwaɪəri/
-- **Meaning 1 (n):** A question asking for information.
-  - *Example:* Direct all **inquiries** to the support team.
+### 3. empathy
+- **IPA:** /ˈempəθi/
+- **Meaning 1 (n):** The ability to understand and share another person's feelings.
+  - *Example:* Staff are trained to show **empathy** before offering a solution.
 
 ### 4. resolve
 - **IPA:** /rɪˈzɒlv/
@@ -29,10 +29,10 @@
 - **Meaning 1 (adj):** Not pleased or happy with something.
   - *Example:* A **dissatisfied** customer rarely comes back.
 
-### 6. warranty
-- **IPA:** /ˈwɒrənti/
-- **Meaning 1 (n):** A promise to repair or replace a product within a set time.
-  - *Example:* The fault is covered by the **warranty**.
+### 6. helpdesk
+- **IPA:** /ˈhelpdesk/
+- **Meaning 1 (n):** A service that answers users' questions and solves their problems.
+  - *Example:* Log the issue with the **helpdesk** and you will get a [reference](04-human-resources-and-recruitment.md#9-reference) number.
 
 ### 7. representative
 - **IPA:** /ˌreprɪˈzentətɪv/
@@ -44,19 +44,19 @@
 ### 8. apologize
 - **IPA:** /əˈpɒlədʒaɪz/
 - **Meaning 1 (v):** To say sorry for something that has caused a problem.
-  - *Example:* We **apologize** for the inconvenience caused by the delay.
+  - *Example:* We **apologize** for the [inconvenience](20-customer-service-and-complaints.md#26-inconvenience) caused by the delay.
 
-### 9. feedback
-- **IPA:** /ˈfiːdbæk/
-- **Meaning 1 (n):** Information about how good or bad a product or service is.
-  - *Example:* Customer **feedback** led to a redesign of the app.
+### 9. survey response
+- **IPA:** /ˈsɜːveɪ rɪˌspɒns/
+- **Meaning 1 (n):** An answer a customer gives to a satisfaction survey.
+  - *Example:* Every **survey response** below three stars gets a follow-up call.
 
 ### 10. escalate
 - **IPA:** /ˈeskəleɪt/
 - **Meaning 1 (v):** To pass a problem to someone more senior for action.
   - *Example:* If it isn't fixed today, **escalate** it to the manager.
 - **Meaning 2 (v):** To become or make more serious.
-  - *Example:* A small delay **escalated** into a major dispute.
+  - *Example:* A small delay **escalated** into a major [dispute](20-customer-service-and-complaints.md#28-dispute).
 
 ### 11. compensate
 - **IPA:** /ˈkɒmpenseɪt/
@@ -80,45 +80,45 @@
 - **Meaning 1 (n):** A telephone service that gives help or advice.
   - *Example:* The **helpline** is open from 8 a.m. to 8 p.m.
 
-### 15. exchange
-- **IPA:** /ɪksˈtʃeɪndʒ/
-- **Meaning 1 (v):** To replace one thing with another, especially in a shop.
-  - *Example:* You may **exchange** the item for a different colour.
+### 15. replacement
+- **IPA:** /rɪˈpleɪsmənt/
+- **Meaning 1 (n):** A new item given in place of one that is faulty or unwanted.
+  - *Example:* We sent a free **replacement** as soon as the fault was reported.
 
 ### 16. faulty
 - **IPA:** /ˈfɔːlti/
 - **Meaning 1 (adj):** Not working correctly because of a defect.
   - *Example:* The **faulty** charger was replaced free of charge.
 
-### 17. reimburse
-- **IPA:** /ˌriːɪmˈbɜːs/
-- **Meaning 1 (v):** To pay back money that someone has spent or lost.
-  - *Example:* We will **reimburse** the return postage.
+### 17. service standard
+- **IPA:** /ˈsɜːvɪs ˌstændəd/
+- **Meaning 1 (n):** A stated level of quality that customers can expect.
+  - *Example:* Answering within one minute is part of our **service standard**.
 
-### 18. loyalty
-- **IPA:** /ˈlɔɪəlti/
-- **Meaning 1 (n):** The tendency of customers to keep buying from the same company.
-  - *Example:* Fast responses build customer **loyalty**.
+### 18. de-escalate
+- **IPA:** /ˌdiːˈeskəleɪt/
+- **Meaning 1 (v):** To make a tense or angry situation calmer.
+  - *Example:* A calm voice helped **de-escalate** the argument at the counter.
 
 ### 19. grievance
 - **IPA:** /ˈɡriːvəns/
 - **Meaning 1 (n):** A real or imagined cause for complaint, especially unfair treatment.
   - *Example:* There is a formal process for raising a **grievance**.
 
-### 20. acknowledge
-- **IPA:** /əkˈnɒlɪdʒ/
-- **Meaning 1 (v):** To confirm that you have received or noticed something.
-  - *Example:* We **acknowledge** every complaint within 24 hours.
+### 20. complaint form
+- **IPA:** /kəmˈpleɪnt fɔːm/
+- **Meaning 1 (n):** A document a customer fills in to make an official complaint.
+  - *Example:* Ask at the desk for a **complaint form** if you are not satisfied.
 
 ### 21. rectify
 - **IPA:** /ˈrektɪfaɪ/
 - **Meaning 1 (v):** To correct something that is wrong.
-  - *Example:* We sent a technician to **rectify** the problem.
+  - *Example:* We sent a [technician](../toeic-3000/17-manufacturing-and-engineering.md#technician) to **rectify** the [problem](../toeic-3000/10-problem-solving-and-decision-making.md#problem).
 
 ### 22. goodwill
 - **IPA:** /ˌɡʊdˈwɪl/
 - **Meaning 1 (n):** A friendly, helpful attitude that builds good relationships.
-  - *Example:* The free upgrade was a **goodwill** gesture.
+  - *Example:* The free [upgrade](13-technology-and-computers.md#4-upgrade) was a **goodwill** gesture.
 
 ### 23. patron
 - **IPA:** /ˈpeɪtrən/
@@ -144,17 +144,17 @@
 - **Meaning 2 (v):** To cause trouble or difficulty for someone.
   - *Example:* We don't want to **inconvenience** our regular customers.
 
-### 27. prompt
-- **IPA:** /prɒmpt/
-- **Meaning 1 (adj):** Quick and without delay.
-  - *Example:* Customers expect a **prompt** response to emails.
+### 27. case number
+- **IPA:** /ˈkeɪs ˌnʌmbə/
+- **Meaning 1 (n):** A reference code given to a complaint or request so it can be tracked.
+  - *Example:* Quote your **case number** when you call back about the fault.
 
 ### 28. dispute
 - **IPA:** /dɪˈspjuːt/
 - **Meaning 1 (n):** A disagreement or argument.
   - *Example:* A billing **dispute** was settled in the customer's favour.
 - **Meaning 2 (v):** To say that something is not true or valid.
-  - *Example:* She **disputed** the amount on the final invoice.
+  - *Example:* She **disputed** the amount on the final [invoice](09-sales-and-purchasing.md#6-invoice).
 
 ### 29. courtesy
 - **IPA:** /ˈkɜːtəsi/
@@ -166,4 +166,4 @@
 - **Meaning 1 (v):** To keep something rather than lose it or give it up.
   - *Example:* Good service helps the company **retain** customers.
 - **Meaning 2 (v):** To continue to hold or contain something.
-  - *Example:* Please **retain** your receipt as proof of purchase.
+  - *Example:* Please **retain** your [receipt](03-accounting-and-budgeting.md#5-receipt) as [proof of purchase](../toeic-3000/35-shopping-and-consumer-life.md#proof-of-purchase).

@@ -13,12 +13,12 @@
 ### haggle
 - **IPA:** /ˈhæɡl/
 - **Meaning 1 (v):** To argue persistently over the price or terms of something.
-  - *Example:* He **haggled** the supplier down by five percent.
+  - *Example:* He **haggled** the [supplier](../toeic-600/09-sales-and-purchasing.md#2-supplier) down by five percent.
 
 ### mediate
 - **IPA:** /ˈmiːdieɪt/
 - **Meaning 1 (v):** To try to settle a dispute between two sides by helping them agree.
-  - *Example:* HR was asked to **mediate** between the two departments.
+  - *Example:* HR was asked to **mediate** between the two [departments](31-government-and-public-services.md#department).
 
 ### arbitrate
 - **IPA:** /ˈɑːbɪtreɪt/
@@ -30,7 +30,7 @@
 - **Meaning 1 (v):** To arrange an agreement between others.
   - *Example:* A trade body **brokered** a deal between the rival firms.
 - **Meaning 2 (n):** A person who buys and sells things for others.
-  - *Example:* An insurance **broker** compared five policies for us.
+  - *Example:* An [insurance](../toeic-600/17-health-and-medical.md#9-insurance) **broker** compared five policies for us.
 
 ### concede
 - **IPA:** /kənˈsiːd/
@@ -56,19 +56,19 @@
 - **Meaning 1 (n):** A statement of what one is willing to give or do.
   - *Example:* Their **offer** covered the goods but not the shipping.
 - **Meaning 2 (v):** To present something for someone to accept or refuse.
-  - *Example:* We **offered** a discount for early payment.
+  - *Example:* We **offered** a [discount](../toeic-600/08-marketing-and-advertising.md#16-discount) for early payment.
 
 ### bid
 - **IPA:** /bɪd/
 - **Meaning 1 (n):** An offer to pay a particular price or to do work for a stated sum.
   - *Example:* The lowest **bid** was still above budget.
 - **Meaning 2 (v):** To offer to pay a price or do a job for a set amount.
-  - *Example:* Four firms **bid** for the maintenance contract.
+  - *Example:* Four firms **bid** for the [maintenance](../toeic-600/05-office-procedures-and-equipment.md#25-maintenance) contract.
 
 ### conditions
 - **IPA:** /kənˈdɪʃnz/
 - **Meaning 1 (n):** The things that must be agreed or done as part of a deal.
-  - *Example:* The loan came with strict **conditions** on spending.
+  - *Example:* The loan came with strict **conditions** on [spending](35-shopping-and-consumer-life.md#spending).
 
 ### stipulation
 - **IPA:** /ˌstɪpjuˈleɪʃn/
@@ -78,7 +78,7 @@
 ### leverage
 - **IPA:** /ˈliːvərɪdʒ/
 - **Meaning 1 (n):** Power or advantage that helps you influence a situation or negotiation.
-  - *Example:* Being their only local supplier gave us real **leverage**.
+  - *Example:* Being their only local [supplier](../toeic-600/09-sales-and-purchasing.md#2-supplier) gave us real **leverage**.
 - **Meaning 2 (v):** To use something to maximum advantage.
   - *Example:* The firm **leveraged** its brand to enter a new market.
 
@@ -95,17 +95,17 @@
 ### standoff
 - **IPA:** /ˈstændɒf/
 - **Meaning 1 (n):** A situation in which neither side can win or will give way.
-  - *Example:* The talks ended in a **standoff** over pension terms.
+  - *Example:* The talks ended in a **standoff** over [pension](../toeic-600/18-employee-benefits-and-insurance.md#7-pension) terms.
 
 ### deadlock
 - **IPA:** /ˈdedlɒk/
 - **Meaning 1 (n):** A situation in which no progress can be made because neither side will move.
-  - *Example:* An outside mediator broke the **deadlock**.
+  - *Example:* An outside [mediator](04-teamwork-and-workplace-relationships.md#mediator) broke the **deadlock**.
 
 ### stalemate
 - **IPA:** /ˈsteɪlmeɪt/
 - **Meaning 1 (n):** A situation in which further action by either side is impossible; a draw.
-  - *Example:* After six meetings, the negotiation reached a **stalemate**.
+  - *Example:* After six [meetings](../toeic-600/06-meetings-and-presentations.md#1-meeting), the [negotiation](../toeic-600/09-sales-and-purchasing.md#11-negotiation) reached a **stalemate**.
 
 ### impasse
 - **IPA:** /ˈæmpɑːs/
@@ -115,7 +115,7 @@
 ### concession
 - **IPA:** /kənˈseʃn/
 - **Meaning 1 (n):** Something given up in order to reach agreement.
-  - *Example:* In exchange for a **concession** on price, they accepted faster payment.
+  - *Example:* In [exchange](../toeic-600/09-sales-and-purchasing.md#23-exchange) for a **concession** on price, they accepted faster payment.
 
 ### trade-off
 - **IPA:** /ˈtreɪd ɒf/
@@ -147,22 +147,22 @@
 ### sticking point
 - **IPA:** /ˈstɪkɪŋ pɔɪnt/
 - **Meaning 1 (n):** An issue on which disagreement prevents an agreement.
-  - *Example:* The warranty length was the main **sticking point**.
+  - *Example:* The [warranty](../toeic-600/01-contracts-and-agreements.md#17-warranty) length was the main **sticking point**.
 
 ### deal-breaker
 - **IPA:** /ˈdiːl ˌbreɪkə/
 - **Meaning 1 (n):** An issue serious enough to stop an agreement completely.
-  - *Example:* No local support would be a **deal-breaker** for us.
+  - *Example:* No local [support](04-teamwork-and-workplace-relationships.md#support) would be a **deal-breaker** for us.
 
 ### ultimatum
 - **IPA:** /ˌʌltɪˈmeɪtəm/
 - **Meaning 1 (n):** A final demand, with a threat of consequences if it is refused.
-  - *Example:* The supplier issued an **ultimatum**: pay by Friday or the order is cancelled.
+  - *Example:* The [supplier](../toeic-600/09-sales-and-purchasing.md#2-supplier) issued an **ultimatum**: pay by Friday or the order is cancelled.
 
 ### sweetener
 - **IPA:** /ˈswiːtnə/
 - **Meaning 1 (n):** Something extra offered to make a deal more attractive.
-  - *Example:* Free installation was added as a **sweetener**.
+  - *Example:* Free [installation](33-arts-culture-and-entertainment.md#installation) was added as a **sweetener**.
 
 ### persuade
 - **IPA:** /pəˈsweɪd/
@@ -184,7 +184,7 @@
 ### sway
 - **IPA:** /sweɪ/
 - **Meaning 1 (v):** To influence someone's opinion or decision.
-  - *Example:* A strong guarantee **swayed** the committee.
+  - *Example:* A strong [guarantee](../toeic-600/01-contracts-and-agreements.md#18-guarantee) **swayed** the [committee](02-company-organization-and-departments.md#committee).
 
 ### coax
 - **IPA:** /kəʊks/
@@ -199,9 +199,9 @@
 ### advocate
 - **IPA:** /ˈædvəkeɪt/ (v) · /ˈædvəkət/ (n)
 - **Meaning 1 (v):** To publicly support or argue for a course of action.
-  - *Example:* She **advocates** a slower, safer rollout.
+  - *Example:* She **advocates** a slower, safer [rollout](05-business-strategy-and-planning.md#rollout).
 - **Meaning 2 (n):** A person who publicly supports a cause or another person.
-  - *Example:* He became an **advocate** for flexible working.
+  - *Example:* He became an **advocate** for [flexible](09-negotiation-and-persuasion.md#flexible) working.
 
 ### pitch
 - **IPA:** /pɪtʃ/
@@ -213,7 +213,7 @@
 ### rebuttal
 - **IPA:** /rɪˈbʌtl/
 - **Meaning 1 (n):** An argument or statement that says the opposite of what someone has claimed.
-  - *Example:* She had a clear **rebuttal** for every objection.
+  - *Example:* She had a clear **rebuttal** for every [objection](09-negotiation-and-persuasion.md#objection).
 
 ### objection
 - **IPA:** /əbˈdʒekʃn/
@@ -253,7 +253,7 @@
 ### tentative
 - **IPA:** /ˈtentətɪv/
 - **Meaning 1 (adj):** Not certain or fixed; provisional.
-  - *Example:* We have a **tentative** agreement, subject to legal review.
+  - *Example:* We have a **tentative** [agreement](../toeic-600/01-contracts-and-agreements.md#2-agreement), subject to legal review.
 
 ### provisional
 - **IPA:** /prəˈvɪʒənl/
@@ -263,12 +263,12 @@
 ### enforceable
 - **IPA:** /ɪnˈfɔːsəbl/
 - **Meaning 1 (adj):** Able to be made to happen by law.
-  - *Example:* A verbal promise is rarely **enforceable** in a dispute.
+  - *Example:* A verbal promise is rarely **enforceable** in a [dispute](../toeic-600/20-customer-service-and-complaints.md#28-dispute).
 
 ### non-binding
 - **IPA:** /ˌnɒn ˈbaɪndɪŋ/
 - **Meaning 1 (adj):** Not creating a legal obligation.
-  - *Example:* The early agreement was **non-binding** and either side could withdraw.
+  - *Example:* The early [agreement](../toeic-600/01-contracts-and-agreements.md#2-agreement) was **non-binding** and either side could [withdraw](../toeic-600/02-finance-and-banking.md#3-withdraw).
 
 ### memorandum of understanding
 - **IPA:** /ˌmeməˈrændəm əv ˌʌndəˈstændɪŋ/
@@ -288,7 +288,7 @@
 ### mutual benefit
 - **IPA:** /ˌmjuːtʃuəl ˈbenɪfɪt/
 - **Meaning 1 (n):** An advantage gained by all sides in an arrangement.
-  - *Example:* The partnership works because of clear **mutual benefit**.
+  - *Example:* The [partnership](02-company-organization-and-departments.md#partnership) works because of clear **mutual benefit**.
 
 ### in principle
 - **IPA:** /ɪn ˈprɪnsəpl/
@@ -353,7 +353,7 @@
 ### red line
 - **IPA:** /ˌred ˈlaɪn/
 - **Meaning 1 (n):** A limit that a party will not cross under any circumstances.
-  - *Example:* Losing control of the brand name is a **red line** for the founder.
+  - *Example:* Losing control of the brand name is a **red line** for the [founder](02-company-organization-and-departments.md#founder).
 
 ### wiggle room
 - **IPA:** /ˈwɪɡl ruːm/
@@ -388,7 +388,7 @@
 ### hard bargain
 - **IPA:** /ˌhɑːd ˈbɑːɡɪn/
 - **Meaning 1 (n):** A deal in which one side pushes firmly for favourable terms.
-  - *Example:* She drives a **hard bargain**, but she always delivers.
+  - *Example:* She drives a **hard bargain**, but she always [delivers](06-projects-and-deadlines.md#deliver).
 
 ### concede a point
 - **IPA:** /kənˌsiːd ə ˈpɔɪnt/

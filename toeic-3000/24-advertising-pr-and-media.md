@@ -11,9 +11,9 @@
 ### creative
 - **IPA:** /kriˈeɪtɪv/
 - **Meaning 1 (n):** The images, words, and design of an advertisement.
-  - *Example:* The **creative** was approved but the media plan was not.
+  - *Example:* The **creative** was [approved](03-management-and-leadership.md#approve) but the [media plan](24-advertising-pr-and-media.md#media-plan) was not.
 - **Meaning 2 (n):** A person who develops ideas and content in an agency.
-  - *Example:* Two **creatives** worked on the campaign for a month.
+  - *Example:* Two **creatives** worked on the [campaign](../toeic-600/08-marketing-and-advertising.md#3-campaign) for a month.
 
 ### copywriter
 - **IPA:** /ˈkɒpiraɪtə/
@@ -53,7 +53,7 @@
 ### media plan
 - **IPA:** /ˈmiːdiə plæn/
 - **Meaning 1 (n):** A schedule setting out where and when advertisements will run.
-  - *Example:* The **media plan** front-loaded spending into the first two weeks.
+  - *Example:* The **media plan** front-loaded [spending](35-shopping-and-consumer-life.md#spending) into the first two weeks.
 
 ### reach
 - **IPA:** /riːtʃ/
@@ -73,7 +73,7 @@
 ### click-through rate
 - **IPA:** /ˈklɪk θruː reɪt/
 - **Meaning 1 (n):** The percentage of people who click an online ad after seeing it.
-  - *Example:* A stronger headline doubled the **click-through rate**.
+  - *Example:* A stronger [headline](32-media-news-and-publishing.md#headline) doubled the **click-through rate**.
 
 ### cost per click
 - **IPA:** /ˌkɒst pə ˈklɪk/
@@ -103,7 +103,7 @@
 ### retargeting
 - **IPA:** /ˌriːˈtɑːɡɪtɪŋ/
 - **Meaning 1 (n):** Showing ads to people who have already visited a website or shown interest.
-  - *Example:* **Retargeting** reminded shoppers of items left in their basket.
+  - *Example:* **Retargeting** reminded [shoppers](35-shopping-and-consumer-life.md#shopper) of items left in their basket.
 
 ### segmentation
 - **IPA:** /ˌseɡmenˈteɪʃn/
@@ -113,7 +113,7 @@
 ### psychographic
 - **IPA:** /ˌsaɪkəˈɡræfɪk/
 - **Meaning 1 (adj):** Relating to people's attitudes, values, and lifestyles rather than just age or income.
-  - *Example:* **Psychographic** data showed the buyers cared most about sustainability.
+  - *Example:* **Psychographic** data showed the buyers cared most about [sustainability](28-environment-and-sustainability.md#sustainability).
 
 ### persona
 - **IPA:** /pəˈsəʊnə/
@@ -123,7 +123,7 @@
 ### brand awareness
 - **IPA:** /ˈbrænd əˌweənəs/
 - **Meaning 1 (n):** The extent to which people recognise or recall a brand.
-  - *Example:* The sponsorship deal was chosen to build **brand awareness**.
+  - *Example:* The [sponsorship](03-management-and-leadership.md#sponsorship) deal was chosen to build **brand awareness**.
 
 ### brand equity
 - **IPA:** /ˈbrænd ˌekwəti/
@@ -133,7 +133,7 @@
 ### brand loyalty
 - **IPA:** /ˈbrænd ˌlɔɪəlti/
 - **Meaning 1 (n):** The tendency of customers to keep buying the same brand.
-  - *Example:* **Brand loyalty** is high among long-term subscribers.
+  - *Example:* **Brand loyalty** is high among [long-term](05-business-strategy-and-planning.md#long-term) [subscribers](26-telecommunications-and-networks.md#subscriber).
 
 ### rebrand
 - **IPA:** /ˌriːˈbrænd/
@@ -148,7 +148,7 @@
 ### unique selling point
 - **IPA:** /juˌniːk ˈselɪŋ pɔɪnt/
 - **Meaning 1 (n):** The one feature that makes a product stand out from competitors.
-  - *Example:* The **unique selling point** is a lifetime repair guarantee.
+  - *Example:* The **unique selling point** is a lifetime repair [guarantee](../toeic-600/01-contracts-and-agreements.md#18-guarantee).
 
 ### call to action
 - **IPA:** /ˌkɔːl tu ˈækʃn/
@@ -163,12 +163,12 @@
 ### below the line
 - **IPA:** /bɪˌləʊ ðə ˈlaɪn/
 - **Meaning 1 (adj):** Relating to targeted marketing such as direct mail, promotions, and events.
-  - *Example:* **Below the line** spending on samples brought quick sales.
+  - *Example:* **Below the line** [spending](35-shopping-and-consumer-life.md#spending) on samples brought quick sales.
 
 ### native advertising
 - **IPA:** /ˌneɪtɪv ˈædvətaɪzɪŋ/
 - **Meaning 1 (n):** Paid content designed to look like the normal articles or posts around it.
-  - *Example:* The piece was **native advertising**, marked as "sponsored" in small type.
+  - *Example:* The piece was **native advertising**, marked as "[sponsored](06-projects-and-deadlines.md#sponsor)" in small type.
 
 ### sponsored content
 - **IPA:** /ˌspɒnsəd ˈkɒntent/
@@ -183,7 +183,7 @@
 ### influencer
 - **IPA:** /ˈɪnfluənsə/
 - **Meaning 1 (n):** A person with a large online following who is paid to promote products.
-  - *Example:* An **influencer** with a million followers demonstrated the blender.
+  - *Example:* An **influencer** with a million followers demonstrated the [blender](38-food-cooking-and-dining-out.md#blender).
 
 ### endorsement deal
 - **IPA:** /ɪnˈdɔːsmənt diːl/
@@ -203,7 +203,7 @@
 ### press embargo
 - **IPA:** /ˈpres ɪmˌbɑːɡəʊ/
 - **Meaning 1 (n):** A request to journalists not to publish a story before a set time.
-  - *Example:* Reporters had the details under a **press embargo** until Monday.
+  - *Example:* [Reporters](32-media-news-and-publishing.md#reporter) had the details under a **press embargo** until Monday.
 
 ### media relations
 - **IPA:** /ˈmiːdiə rɪˌleɪʃnz/
@@ -213,7 +213,7 @@
 ### crisis communication
 - **IPA:** /ˈkraɪsɪs kəˌmjuːnɪˈkeɪʃn/
 - **Meaning 1 (n):** The managed release of information during an emergency or scandal.
-  - *Example:* The **crisis communication** plan named one spokesperson for all questions.
+  - *Example:* The **crisis communication** plan named one [spokesperson](03-management-and-leadership.md#spokesperson) for all questions.
 
 ### damage control
 - **IPA:** /ˈdæmɪdʒ kənˌtrəʊl/
@@ -253,12 +253,12 @@
 ### readership
 - **IPA:** /ˈriːdəʃɪp/
 - **Meaning 1 (n):** The number and type of people who read a publication.
-  - *Example:* The magazine has a young, urban **readership**.
+  - *Example:* The [magazine](32-media-news-and-publishing.md#magazine) has a young, urban **readership**.
 
 ### prime time
 - **IPA:** /ˈpraɪm taɪm/
 - **Meaning 1 (n):** The evening hours when the TV audience is largest and ads cost most.
-  - *Example:* A **prime time** slot reached ten times the daytime audience.
+  - *Example:* A **prime time** slot reached ten times the daytime [audience](33-arts-culture-and-entertainment.md#audience).
 
 ### airtime
 - **IPA:** /ˈeətaɪm/
@@ -268,7 +268,7 @@
 ### hoarding
 - **IPA:** /ˈhɔːdɪŋ/
 - **Meaning 1 (n):** A large outdoor board for displaying advertisements.
-  - *Example:* A **hoarding** by the station showed the new campaign.
+  - *Example:* A **hoarding** by the station showed the new [campaign](../toeic-600/08-marketing-and-advertising.md#3-campaign).
 
 ### direct mail
 - **IPA:** /dəˌrekt ˈmeɪl/
@@ -283,7 +283,7 @@
 ### coupon
 - **IPA:** /ˈkuːpɒn/
 - **Meaning 1 (n):** A printed or digital voucher giving a discount on a purchase.
-  - *Example:* A **coupon** in the local paper drove footfall to the new store.
+  - *Example:* A **coupon** in the local paper drove [footfall](16-retail-and-store-operations.md#footfall) to the new store.
 
 ### market research
 - **IPA:** /ˈmɑːkɪt rɪˌsɜːtʃ/
@@ -293,12 +293,12 @@
 ### A/B test
 - **IPA:** /ˌeɪ ˈbiː test/
 - **Meaning 1 (n):** A comparison of two versions of something to see which performs better.
-  - *Example:* An **A/B test** of two subject lines picked a clear winner.
+  - *Example:* An **A/B test** of two [subject lines](../toeic-600/07-correspondence-and-email.md#12-subject-line) picked a clear winner.
 
 ### brand ambassador
 - **IPA:** /ˈbrænd æmˌbæsədə/
 - **Meaning 1 (n):** A person hired to represent and promote a brand over a period.
-  - *Example:* The chef became a **brand ambassador** for the cookware line.
+  - *Example:* The chef became a **brand ambassador** for the [cookware](38-food-cooking-and-dining-out.md#cookware) line.
 
 ### sentiment analysis
 - **IPA:** /ˈsentɪmənt əˌnæləsɪs/
@@ -318,7 +318,7 @@
 ### ad spend
 - **IPA:** /ˈæd spend/
 - **Meaning 1 (n):** The amount of money a company puts into advertising.
-  - *Example:* **Ad spend** was cut by 20% during the downturn.
+  - *Example:* **Ad spend** was cut by 20% during the [downturn](11-economics-and-markets.md#downturn).
 
 ### ad slot
 - **IPA:** /ˈæd slɒt/
@@ -328,7 +328,7 @@
 ### brand identity
 - **IPA:** /ˈbrænd aɪˌdentəti/
 - **Meaning 1 (n):** The visible elements of a brand, such as its name, logo, colours, and tone.
-  - *Example:* The refresh kept the logo but gave the **brand identity** a warmer palette.
+  - *Example:* The refresh kept the logo but gave the **brand identity** a warmer [palette](33-arts-culture-and-entertainment.md#palette).
 
 ### brand image
 - **IPA:** /ˈbrænd ˌɪmɪdʒ/
@@ -348,12 +348,12 @@
 ### public relations
 - **IPA:** /ˌpʌblɪk rɪˈleɪʃnz/
 - **Meaning 1 (n):** The management of how an organisation is seen by the public and the media.
-  - *Example:* A **public relations** firm handled the announcement.
+  - *Example:* A **public relations** firm handled the [announcement](08-business-communication.md#announcement).
 
 ### publicist
 - **IPA:** /ˈpʌblɪsɪst/
 - **Meaning 1 (n):** A person whose job is to get media attention for a client.
-  - *Example:* The author's **publicist** booked ten interviews for launch week.
+  - *Example:* The author's **publicist** booked ten [interviews](../toeic-600/04-human-resources-and-recruitment.md#6-interview) for launch week.
 
 ### media coverage
 - **IPA:** /ˈmiːdiə ˌkʌvərɪdʒ/
@@ -363,7 +363,7 @@
 ### promotional campaign
 - **IPA:** /prəˌməʊʃənl kæmˈpeɪn/
 - **Meaning 1 (n):** A planned set of activities to increase sales or awareness of a product.
-  - *Example:* The **promotional campaign** paired discounts with in-store events.
+  - *Example:* The **promotional campaign** paired [discounts](../toeic-600/08-marketing-and-advertising.md#16-discount) with [in-store](16-retail-and-store-operations.md#in-store) events.
 
 ### marketing collateral
 - **IPA:** /ˈmɑːkɪtɪŋ kəˌlætərəl/

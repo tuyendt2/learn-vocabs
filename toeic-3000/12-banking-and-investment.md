@@ -11,7 +11,7 @@
 ### equity
 - **IPA:** /ˈekwəti/
 - **Meaning 1 (n):** Ownership in a company, represented by its shares.
-  - *Example:* The founders kept 55% of the **equity** after the funding round.
+  - *Example:* The [founders](02-company-organization-and-departments.md#founder) kept 55% of the **equity** after the funding round.
 - **Meaning 2 (n):** The value of a property after any debt on it is subtracted.
   - *Example:* Rising prices increased the **equity** in their home.
 
@@ -25,7 +25,7 @@
 - **Meaning 1 (n):** A financial asset that can be traded, such as a share or bond.
   - *Example:* The bank cannot hold that type of **security** for retail clients.
 - **Meaning 2 (n):** Property promised to a lender in case a loan is not repaid.
-  - *Example:* They offered the warehouse as **security** for the loan.
+  - *Example:* They offered the [warehouse](../toeic-600/11-logistics-shipping-and-warehousing.md#15-warehouse) as **security** for the loan.
 
 ### share
 - **IPA:** /ʃeə/
@@ -55,7 +55,7 @@
 ### rate of return
 - **IPA:** /ˌreɪt əv rɪˈtɜːn/
 - **Meaning 1 (n):** The profit on an investment over a period, as a percentage of the amount invested.
-  - *Example:* The property gave a **rate of return** of 7% a year.
+  - *Example:* The [property](../toeic-600/19-real-estate-and-property.md#1-property) gave a **rate of return** of 7% a year.
 
 ### capital gain
 - **IPA:** /ˌkæpɪtl ˈɡeɪn/
@@ -102,7 +102,7 @@
 ### index fund
 - **IPA:** /ˈɪndeks fʌnd/
 - **Meaning 1 (n):** A fund that simply tracks a market index rather than picking stocks.
-  - *Example:* Low fees make the **index fund** popular with long-term savers.
+  - *Example:* Low fees make the **index fund** popular with [long-term](05-business-strategy-and-planning.md#long-term) savers.
 
 ### portfolio manager
 - **IPA:** /pɔːtˈfəʊliəʊ ˌmænɪdʒə/
@@ -112,14 +112,14 @@
 ### exposure
 - **IPA:** /ɪkˈspəʊʒə/
 - **Meaning 1 (n):** The amount of risk an investor faces from a particular asset or market.
-  - *Example:* The fund cut its **exposure** to the property sector.
+  - *Example:* The fund cut its **exposure** to the [property](../toeic-600/19-real-estate-and-property.md#1-property) sector.
 
 ### hedge
 - **IPA:** /hedʒ/
 - **Meaning 1 (v):** To make an investment that reduces the risk of loss on another.
   - *Example:* The exporter **hedged** against a fall in the dollar.
 - **Meaning 2 (n):** An investment used to offset possible losses.
-  - *Example:* Gold is often used as a **hedge** against inflation.
+  - *Example:* Gold is often used as a **hedge** against [inflation](11-economics-and-markets.md#inflation).
 
 ### margin trading
 - **IPA:** /ˈmɑːdʒɪn ˌtreɪdɪŋ/
@@ -159,17 +159,17 @@
 ### blue chip
 - **IPA:** /ˈbluː tʃɪp/
 - **Meaning 1 (n):** A share in a large, well-established, financially sound company.
-  - *Example:* The pension fund holds mainly **blue chip** stocks.
+  - *Example:* The [pension fund](12-banking-and-investment.md#pension-fund) holds mainly **blue chip** stocks.
 
 ### IPO
 - **IPA:** /ˌaɪ piː ˈəʊ/
 - **Meaning 1 (n):** Initial public offering: the first sale of a company's shares to the public.
-  - *Example:* The **IPO** raised $400 million for expansion.
+  - *Example:* The **IPO** raised $400 million for [expansion](05-business-strategy-and-planning.md#expansion).
 
 ### flotation
 - **IPA:** /fləʊˈteɪʃn/
 - **Meaning 1 (n):** The act of offering a company's shares for sale on a stock exchange for the first time.
-  - *Example:* The **flotation** valued the retailer at £2 billion.
+  - *Example:* The **flotation** valued the [retailer](16-retail-and-store-operations.md#retailer) at £2 billion.
 
 ### underwriting
 - **IPA:** /ˈʌndəraɪtɪŋ/
@@ -189,7 +189,7 @@
 ### liquidity
 - **IPA:** /lɪˈkwɪdəti/
 - **Meaning 1 (n):** The ease with which an asset can be turned into cash without losing value.
-  - *Example:* Property has low **liquidity** compared with shares.
+  - *Example:* [Property](../toeic-600/19-real-estate-and-property.md#1-property) has low **liquidity** compared with shares.
 
 ### solvency
 - **IPA:** /ˈsɒlvənsi/
@@ -221,7 +221,7 @@
 ### refinance
 - **IPA:** /ˌriːˈfaɪnæns/
 - **Meaning 1 (v):** To replace an existing loan with a new one, usually on better terms.
-  - *Example:* They **refinanced** the mortgage at a lower rate.
+  - *Example:* They **refinanced** the [mortgage](../toeic-600/19-real-estate-and-property.md#5-mortgage) at a lower rate.
 
 ### amortize
 - **IPA:** /əˈmɔːtaɪz/
@@ -231,17 +231,17 @@
 ### compound interest
 - **IPA:** /ˌkɒmpaʊnd ˈɪntrəst/
 - **Meaning 1 (n):** Interest calculated on both the original sum and the interest already added.
-  - *Example:* Thanks to **compound interest**, small early savings grow a lot.
+  - *Example:* Thanks to **compound interest**, small early [savings](36-personal-finance-and-household-budget.md#savings) grow a lot.
 
 ### annuity
 - **IPA:** /əˈnjuːəti/
 - **Meaning 1 (n):** A financial product that pays a fixed sum each year, often for life.
-  - *Example:* She used her pension pot to buy an **annuity**.
+  - *Example:* She used her [pension](../toeic-600/18-employee-benefits-and-insurance.md#7-pension) pot to buy an **annuity**.
 
 ### pension fund
 - **IPA:** /ˈpenʃn fʌnd/
 - **Meaning 1 (n):** A large fund that collects and invests money to pay people's pensions.
-  - *Example:* The **pension fund** is a major shareholder in the airline.
+  - *Example:* The **pension fund** is a major [shareholder](02-company-organization-and-departments.md#shareholder) in the airline.
 
 ### wealth management
 - **IPA:** /ˈwelθ ˌmænɪdʒmənt/
@@ -271,7 +271,7 @@
 ### term sheet
 - **IPA:** /ˈtɜːm ʃiːt/
 - **Meaning 1 (n):** A document setting out the main terms of a proposed investment before contracts.
-  - *Example:* The **term sheet** fixed the valuation and the investor's rights.
+  - *Example:* The **term sheet** fixed the [valuation](12-banking-and-investment.md#valuation) and the investor's rights.
 
 ### dividend yield
 - **IPA:** /ˈdɪvɪdend jiːld/
@@ -286,17 +286,17 @@
 ### treasury
 - **IPA:** /ˈtreʒəri/
 - **Meaning 1 (n):** The department of a company or government that manages its money and debt.
-  - *Example:* The **treasury** team manages the group's cash across 20 currencies.
+  - *Example:* The **treasury** team manages the group's cash across 20 [currencies](../toeic-600/02-finance-and-banking.md#12-currency).
 
 ### securities
 - **IPA:** /sɪˈkjʊərətiz/
 - **Meaning 1 (n):** Tradable financial assets such as shares, bonds, and options, taken together.
-  - *Example:* The regulator oversees trading in **securities**.
+  - *Example:* The [regulator](31-government-and-public-services.md#regulator) [oversees](03-management-and-leadership.md#oversee) trading in **securities**.
 
 ### derivative
 - **IPA:** /dɪˈrɪvətɪv/
 - **Meaning 1 (n):** A financial contract whose value depends on the price of another asset.
-  - *Example:* The bank uses **derivatives** to manage currency risk.
+  - *Example:* The bank uses **derivatives** to manage [currency](../toeic-600/02-finance-and-banking.md#12-currency) risk.
 
 ### futures
 - **IPA:** /ˈfjuːtʃəz/
@@ -321,7 +321,7 @@
 ### risk appetite
 - **IPA:** /ˈrɪsk ˌæpɪtaɪt/
 - **Meaning 1 (n):** The amount of risk a person or organisation is willing to accept.
-  - *Example:* A pension fund has a low **risk appetite**.
+  - *Example:* A [pension fund](12-banking-and-investment.md#pension-fund) has a low **risk appetite**.
 
 ### nest egg
 - **IPA:** /ˈnest eɡ/
@@ -341,7 +341,7 @@
 ### bondholder
 - **IPA:** /ˈbɒndhəʊldə/
 - **Meaning 1 (n):** A person or institution that owns bonds issued by a company or government.
-  - *Example:* **Bondholders** are paid before shareholders if a company fails.
+  - *Example:* **Bondholders** are paid before [shareholders](02-company-organization-and-departments.md#shareholder) if a company fails.
 
 ### maturity date
 - **IPA:** /məˈtʃʊərəti deɪt/

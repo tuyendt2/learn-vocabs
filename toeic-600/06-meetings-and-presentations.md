@@ -8,7 +8,7 @@
 ### 2. conference
 - **IPA:** /ˈkɒnfərəns/
 - **Meaning 1 (n):** A large formal event where people discuss a subject over one or more days.
-  - *Example:* She gave a talk at the marketing **conference** in Berlin.
+  - *Example:* She gave a talk at the [marketing](08-marketing-and-advertising.md#1-marketing) **conference** in Berlin.
 - **Meaning 2 (n):** A private discussion between a small number of people.
   - *Example:* The lawyers are in **conference** with their client.
 
@@ -34,12 +34,12 @@
 ### 6. handout
 - **IPA:** /ˈhændaʊt/
 - **Meaning 1 (n):** A printed sheet given to people at a talk or class.
-  - *Example:* There's a **handout** summarising the key points.
+  - *Example:* There's a **handout** [summarising](06-meetings-and-presentations.md#10-summarise) the key points.
 
 ### 7. attendance
 - **IPA:** /əˈtendəns/
 - **Meaning 1 (n):** The number of people present, or the act of being present.
-  - *Example:* **Attendance** at the training session is compulsory.
+  - *Example:* **Attendance** at the training [session](../toeic-3000/25-information-technology.md#session) is compulsory.
 
 ### 8. participant
 - **IPA:** /pɑːˈtɪsɪpənt/
@@ -61,7 +61,7 @@
 - **Meaning 1 (v):** To describe the main features of something without full detail.
   - *Example:* She **outlined** the plan in five minutes.
 - **Meaning 2 (n):** A short description of the main points of something.
-  - *Example:* Send me an **outline** of the proposal by Friday.
+  - *Example:* Send me an **outline** of the [proposal](06-meetings-and-presentations.md#13-proposal) by Friday.
 - **Meaning 3 (n):** The outer edge or shape of something.
   - *Example:* You could see the **outline** of the building in the fog.
 
@@ -70,12 +70,12 @@
 - **Meaning 1 (n):** Something you are trying to achieve; a goal.
   - *Example:* Our main **objective** this year is to enter the Asian market.
 - **Meaning 2 (adj):** Based on facts rather than feelings or opinions.
-  - *Example:* We need an **objective** assessment of the risks.
+  - *Example:* We need an **objective** [assessment](../toeic-3000/30-education-and-training.md#assessment) of the risks.
 
 ### 13. proposal
 - **IPA:** /prəˈpəʊzl/
 - **Meaning 1 (n):** A formal suggestion or plan put forward for consideration.
-  - *Example:* The committee rejected the **proposal** on cost grounds.
+  - *Example:* The [committee](../toeic-3000/02-company-organization-and-departments.md#committee) rejected the **proposal** on cost grounds.
 
 ### 14. feedback
 - **IPA:** /ˈfiːdbæk/
@@ -90,12 +90,12 @@
 ### 16. chairperson
 - **IPA:** /ˈtʃeəpɜːsn/
 - **Meaning 1 (n):** The person who leads a meeting or committee.
-  - *Example:* The **chairperson** called the meeting to order.
+  - *Example:* The **chairperson** called the [meeting](06-meetings-and-presentations.md#1-meeting) to order.
 
 ### 17. adjourn
 - **IPA:** /əˈdʒɜːn/
 - **Meaning 1 (v):** To pause or end a meeting, to continue later.
-  - *Example:* The meeting was **adjourned** until next Tuesday.
+  - *Example:* The [meeting](06-meetings-and-presentations.md#1-meeting) was **adjourned** until next Tuesday.
 
 ### 18. clarify
 - **IPA:** /ˈklærɪfaɪ/
@@ -115,7 +115,7 @@
 ### 21. agenda item
 - **IPA:** /əˈdʒendə ˌaɪtəm/
 - **Meaning 1 (n):** A single subject listed for discussion at a meeting.
-  - *Example:* We'll deal with staffing as the next **agenda item**.
+  - *Example:* We'll deal with [staffing](04-human-resources-and-recruitment.md#30-staffing) as the next **agenda item**.
 
 ### 22. minute-taker
 - **IPA:** /ˈmɪnɪt ˌteɪkə/
@@ -130,7 +130,7 @@
 ### 24. recap
 - **IPA:** /ˈriːkæp/
 - **Meaning 1 (v):** To repeat the main points of what has been said.
-  - *Example:* Let me **recap** the three action items.
+  - *Example:* Let me **recap** the three [action items](06-meetings-and-presentations.md#30-action-item).
 - **Meaning 2 (n):** A short summary of what has been said.
   - *Example:* Here's a quick **recap** of last week's decisions.
 
@@ -147,7 +147,7 @@
 ### 27. postpone
 - **IPA:** /pəˈspəʊn/
 - **Meaning 1 (v):** To arrange for something to happen at a later time than planned.
-  - *Example:* The review meeting was **postponed** to next month.
+  - *Example:* The review [meeting](06-meetings-and-presentations.md#1-meeting) was **postponed** to next month.
 
 ### 28. address
 - **IPA:** /əˈdres/
@@ -166,4 +166,4 @@
 ### 30. action item
 - **IPA:** /ˈækʃn ˌaɪtəm/
 - **Meaning 1 (n):** A task that someone agrees to do after a meeting.
-  - *Example:* Each **action item** has an owner and a due date.
+  - *Example:* Each **action item** has an owner and a [due date](../toeic-3000/06-projects-and-deadlines.md#due-date).

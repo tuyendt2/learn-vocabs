@@ -11,7 +11,7 @@
 ### machining
 - **IPA:** /məˈʃiːnɪŋ/
 - **Meaning 1 (n):** The shaping of metal or other material by cutting it with machine tools.
-  - *Example:* Precise **machining** keeps every part within a fraction of a millimetre.
+  - *Example:* [Precise](07-data-reports-and-analysis.md#precise) **machining** keeps every part within a fraction of a millimetre.
 
 ### casting
 - **IPA:** /ˈkɑːstɪŋ/
@@ -26,7 +26,7 @@
 ### forging
 - **IPA:** /ˈfɔːdʒɪŋ/
 - **Meaning 1 (n):** The shaping of hot metal by hammering or pressing.
-  - *Example:* **Forging** makes the tool stronger than casting would.
+  - *Example:* **Forging** makes the tool stronger than [casting](17-manufacturing-and-engineering.md#casting) would.
 
 ### welding
 - **IPA:** /ˈweldɪŋ/
@@ -36,7 +36,7 @@
 ### subassembly
 - **IPA:** /ˈsʌbəˌsembli/
 - **Meaning 1 (n):** A unit built from several parts that is later fitted into a larger product.
-  - *Example:* The pump is delivered as a finished **subassembly**.
+  - *Example:* The pump is [delivered](06-projects-and-deadlines.md#deliver) as a finished **subassembly**.
 
 ### jig
 - **IPA:** /dʒɪɡ/
@@ -56,7 +56,7 @@
 ### schematic
 - **IPA:** /skɪˈmætɪk/
 - **Meaning 1 (n):** A simplified drawing showing how the parts of a system connect.
-  - *Example:* The wiring **schematic** helped the technician trace the fault.
+  - *Example:* The wiring **schematic** helped the [technician](17-manufacturing-and-engineering.md#technician) trace the fault.
 
 ### drafting
 - **IPA:** /ˈdrɑːftɪŋ/
@@ -78,10 +78,10 @@
 - **Meaning 1 (n):** A shaped tool used to cut or form metal, or to stamp a pattern.
   - *Example:* A worn **die** was leaving marks on every panel.
 
-### mould
-- **IPA:** /məʊld/
-- **Meaning 1 (n):** A hollow container into which material is poured to set into a shape.
-  - *Example:* The **mould** cost more than the first year's production.
+### casting mould
+- **IPA:** /ˈkɑːstɪŋ məʊld/
+- **Meaning 1 (n):** A hollow container into which molten material is poured to set into a shape.
+  - *Example:* The **casting mould** cost more than the first year's [production](../toeic-600/10-manufacturing-and-production.md#3-production).
 
 ### lathe
 - **IPA:** /leɪð/
@@ -101,7 +101,7 @@
 ### robotics
 - **IPA:** /rəʊˈbɒtɪks/
 - **Meaning 1 (n):** The design and use of robots, especially in manufacturing.
-  - *Example:* Investment in **robotics** cut the assembly time in half.
+  - *Example:* [Investment](../toeic-600/02-finance-and-banking.md#14-investment) in **robotics** cut the assembly time in half.
 
 ### automation
 - **IPA:** /ˌɔːtəˈmeɪʃn/
@@ -156,7 +156,7 @@
 ### finished goods
 - **IPA:** /ˌfɪnɪʃt ˈɡʊdz/
 - **Meaning 1 (n):** Products that are complete and ready to be sold or shipped.
-  - *Example:* **Finished goods** are moved straight to the dispatch bay.
+  - *Example:* **Finished goods** are moved straight to the [dispatch](../toeic-600/11-logistics-shipping-and-warehousing.md#8-dispatch) bay.
 
 ### bill of materials
 - **IPA:** /ˌbɪl əv məˈtɪəriəlz/
@@ -166,7 +166,7 @@
 ### routing
 - **IPA:** /ˈruːtɪŋ/
 - **Meaning 1 (n):** The set sequence of operations a part goes through during manufacture.
-  - *Example:* The **routing** sends the casting to machining, then to inspection.
+  - *Example:* The **routing** sends the [casting](17-manufacturing-and-engineering.md#casting) to [machining](17-manufacturing-and-engineering.md#machining), then to [inspection](../toeic-600/12-quality-control-and-standards.md#2-inspection).
 
 ### changeover
 - **IPA:** /ˈtʃeɪndʒəʊvə/
@@ -196,7 +196,7 @@
 ### scrap rate
 - **IPA:** /ˈskræp reɪt/
 - **Meaning 1 (n):** The proportion of material or product that is thrown away as unusable.
-  - *Example:* A better cutting pattern lowered the **scrap rate**.
+  - *Example:* A better cutting [pattern](07-data-reports-and-analysis.md#pattern) lowered the **scrap rate**.
 
 ### in-process inspection
 - **IPA:** /ˌɪn prəʊses ɪnˈspekʃn/
@@ -216,7 +216,7 @@
 ### statistical process control
 - **IPA:** /stəˌtɪstɪkl ˈprəʊses kənˌtrəʊl/
 - **Meaning 1 (n):** The use of charts and data to monitor a process and catch problems early.
-  - *Example:* **Statistical process control** showed the machine drifting out of tolerance.
+  - *Example:* **Statistical process control** showed the machine drifting out of [tolerance](17-manufacturing-and-engineering.md#tolerance).
 
 ### Six Sigma
 - **IPA:** /ˌsɪks ˈsɪɡmə/
@@ -231,7 +231,7 @@
 ### kaizen
 - **IPA:** /ˈkaɪzen/
 - **Meaning 1 (n):** A practice of continuous small improvements made by everyone in a workplace.
-  - *Example:* Weekly **kaizen** meetings produced dozens of minor time savings.
+  - *Example:* Weekly **kaizen** [meetings](../toeic-600/06-meetings-and-presentations.md#1-meeting) produced dozens of minor time [savings](36-personal-finance-and-household-budget.md#savings).
 
 ### just-in-time
 - **IPA:** /ˌdʒʌst ɪn ˈtaɪm/
@@ -256,7 +256,7 @@
 ### continuous flow
 - **IPA:** /kənˌtɪnjuəs ˈfləʊ/
 - **Meaning 1 (n):** Production in which items move steadily through each step without stopping in batches.
-  - *Example:* Switching to **continuous flow** cut work-in-progress almost to zero.
+  - *Example:* Switching to **continuous flow** cut [work-in-progress](17-manufacturing-and-engineering.md#work-in-progress) almost to zero.
 
 ### plant layout
 - **IPA:** /ˈplɑːnt ˌleɪaʊt/
@@ -271,12 +271,12 @@
 ### foreman
 - **IPA:** /ˈfɔːmən/
 - **Meaning 1 (n):** A worker who supervises and directs a team on the shop floor.
-  - *Example:* The **foreman** reassigned two people to clear the backlog.
+  - *Example:* The **foreman** reassigned two people to clear the [backlog](06-projects-and-deadlines.md#backlog).
 
 ### machinist
 - **IPA:** /məˈʃiːnɪst/
 - **Meaning 1 (n):** A skilled worker who operates machine tools.
-  - *Example:* An experienced **machinist** can hold a tighter tolerance.
+  - *Example:* An [experienced](../toeic-600/04-human-resources-and-recruitment.md#8-experience) **machinist** can hold a tighter [tolerance](17-manufacturing-and-engineering.md#tolerance).
 
 ### technician
 - **IPA:** /tekˈnɪʃn/
@@ -321,7 +321,7 @@
 ### machine shop
 - **IPA:** /məˈʃiːn ʃɒp/
 - **Meaning 1 (n):** A workshop where parts are made and shaped with machine tools.
-  - *Example:* The prototype was cut in the company's own **machine shop**.
+  - *Example:* The [prototype](../toeic-600/10-manufacturing-and-production.md#23-prototype) was cut in the company's own **machine shop**.
 
 ### fitter
 - **IPA:** /ˈfɪtə/

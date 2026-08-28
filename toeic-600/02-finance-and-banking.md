@@ -3,9 +3,9 @@
 ### 1. account
 - **IPA:** /əˈkaʊnt/
 - **Meaning 1 (n):** An arrangement with a bank to keep and use your money.
-  - *Example:* She opened a savings **account** at the local branch.
+  - *Example:* She opened a [savings](../toeic-3000/36-personal-finance-and-household-budget.md#savings) **account** at the local branch.
 - **Meaning 2 (n):** A written or spoken report of events.
-  - *Example:* He gave a full **account** of what happened at the meeting.
+  - *Example:* He gave a full **account** of what happened at the [meeting](06-meetings-and-presentations.md#1-meeting).
 - **Meaning 3 (v):** To be the explanation or cause of something (*account for*).
   - *Example:* Bad weather **accounts** for the drop in sales.
 
@@ -23,14 +23,14 @@
 - **Meaning 1 (v):** To take money out of a bank account.
   - *Example:* You can **withdraw** cash from any of our machines.
 - **Meaning 2 (v):** To remove something, or to stop taking part.
-  - *Example:* The company **withdrew** the product after complaints.
+  - *Example:* The company **withdrew** the product after [complaints](20-customer-service-and-complaints.md#1-complaint).
 
 ### 4. balance
 - **IPA:** /ˈbæləns/
 - **Meaning 1 (n):** The amount of money in an account.
   - *Example:* Please check your **balance** before making a transfer.
 - **Meaning 2 (n):** The amount still owed after part of a debt is paid.
-  - *Example:* The **balance** of the invoice is due next week.
+  - *Example:* The **balance** of the [invoice](09-sales-and-purchasing.md#6-invoice) is due next week.
 - **Meaning 3 (v):** To keep or put something in a steady, even state.
   - *Example:* Managers must **balance** cost against quality.
 
@@ -46,14 +46,14 @@
 ### 6. loan
 - **IPA:** /ləʊn/
 - **Meaning 1 (n):** A sum of money that is borrowed and must be paid back.
-  - *Example:* They took out a **loan** to buy new equipment.
+  - *Example:* They took out a **loan** to buy new [equipment](05-office-procedures-and-equipment.md#26-equipment).
 - **Meaning 2 (v):** To lend something, especially money.
   - *Example:* The bank **loaned** the firm $50,000.
 
-### 7. mortgage
-- **IPA:** /ˈmɔːɡɪdʒ/
-- **Meaning 1 (n):** A long-term loan used to buy property, with the property as security.
-  - *Example:* Their monthly **mortgage** payment went up this year.
+### 7. teller
+- **IPA:** /ˈtelə/
+- **Meaning 1 (n):** A bank employee who deals directly with customers at a counter.
+  - *Example:* The **teller** counted the notes and printed a [receipt](03-accounting-and-budgeting.md#5-receipt).
 
 ### 8. credit
 - **IPA:** /ˈkredɪt/
@@ -83,7 +83,7 @@
 - **Meaning 2 (v):** To move someone or something from one place to another.
   - *Example:* She was **transferred** to the Singapore office.
 - **Meaning 3 (v):** To move money between accounts.
-  - *Example:* Please **transfer** the funds to our supplier by Friday.
+  - *Example:* Please **transfer** the funds to our [supplier](09-sales-and-purchasing.md#2-supplier) by Friday.
 
 ### 12. currency
 - **IPA:** /ˈkʌrənsi/
@@ -98,7 +98,7 @@
 ### 14. investment
 - **IPA:** /ɪnˈvestmənt/
 - **Meaning 1 (n):** Money put into a business or asset to earn a return.
-  - *Example:* The new plant is a long-term **investment**.
+  - *Example:* The new plant is a [long-term](../toeic-3000/05-business-strategy-and-planning.md#long-term) **investment**.
 - **Meaning 2 (n):** The act of spending time or effort on something worthwhile.
   - *Example:* Training staff is an **investment** in the future.
 
@@ -119,7 +119,7 @@
 - **Meaning 1 (n):** Money or property used to start or run a business.
   - *Example:* They need more **capital** to expand overseas.
 - **Meaning 2 (n):** The most important city of a country or region.
-  - *Example:* The head office moved to the **capital**.
+  - *Example:* The [head office](../toeic-3000/02-company-organization-and-departments.md#head-office) moved to the **capital**.
 - **Meaning 3 (adj):** Referring to a large letter (A, B, C…).
   - *Example:* Write your name in **capital** letters.
 
@@ -128,7 +128,7 @@
 - **Meaning 1 (n):** A sum of money saved or set aside for a purpose.
   - *Example:* The company set up a **fund** for staff emergencies.
 - **Meaning 2 (v):** To provide money for something.
-  - *Example:* The research is **funded** by the government.
+  - *Example:* The [research](../toeic-3000/27-science-and-research.md#research) is **funded** by the [government](../toeic-3000/31-government-and-public-services.md#government).
 
 ### 19. revenue
 - **IPA:** /ˈrevənjuː/
@@ -138,9 +138,9 @@
 ### 20. expense
 - **IPA:** /ɪkˈspens/
 - **Meaning 1 (n):** The cost of something, or money spent on it.
-  - *Example:* Travel is our biggest **expense** this quarter.
+  - *Example:* Travel is our biggest **expense** this [quarter](03-accounting-and-budgeting.md#12-quarter).
 - **Meaning 2 (n):** Money spent for work that the employer pays back (usually plural).
-  - *Example:* Submit your **expenses** with receipts attached.
+  - *Example:* Submit your **expenses** with [receipts](03-accounting-and-budgeting.md#5-receipt) attached.
 
 ### 21. profit
 - **IPA:** /ˈprɒfɪt/
@@ -169,7 +169,7 @@
 ### 25. collateral
 - **IPA:** /kəˈlætərəl/
 - **Meaning 1 (n):** Property promised to a lender that can be taken if a loan is not repaid.
-  - *Example:* They used their warehouse as **collateral** for the loan.
+  - *Example:* They used their [warehouse](11-logistics-shipping-and-warehousing.md#15-warehouse) as **collateral** for the loan.
 
 ### 26. installment
 - **IPA:** /ɪnˈstɔːlmənt/
@@ -196,6 +196,6 @@
 ### 30. audit
 - **IPA:** /ˈɔːdɪt/
 - **Meaning 1 (n):** An official examination of financial records.
-  - *Example:* The annual **audit** found no serious problems.
+  - *Example:* The annual **audit** found no serious [problems](../toeic-3000/10-problem-solving-and-decision-making.md#problem).
 - **Meaning 2 (v):** To officially inspect an organisation's accounts.
   - *Example:* An outside firm **audits** our books every year.

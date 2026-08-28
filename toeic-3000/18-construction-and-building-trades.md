@@ -11,7 +11,7 @@
 ### subcontractor
 - **IPA:** /ˌsʌbkənˈtræktə/
 - **Meaning 1 (n):** A firm hired by the main contractor to do part of a job.
-  - *Example:* The electrical work went to a specialist **subcontractor**.
+  - *Example:* The electrical work went to a [specialist](../toeic-600/17-health-and-medical.md#15-specialist) **subcontractor**.
 
 ### developer
 - **IPA:** /dɪˈveləpə/
@@ -81,7 +81,7 @@
 ### joist
 - **IPA:** /dʒɔɪst/
 - **Meaning 1 (n):** One of a series of parallel beams that support a floor or ceiling.
-  - *Example:* The floorboards are nailed across the **joists**.
+  - *Example:* The [floorboards](37-home-housing-and-maintenance.md#floorboard) are nailed across the **joists**.
 
 ### rafter
 - **IPA:** /ˈrɑːftə/
@@ -96,12 +96,12 @@
 ### load-bearing wall
 - **IPA:** /ˈləʊd ˌbeərɪŋ wɔːl/
 - **Meaning 1 (n):** A wall that carries the weight of the structure above it.
-  - *Example:* You cannot remove a **load-bearing wall** without a supporting beam.
+  - *Example:* You cannot remove a **load-bearing wall** without a [supporting](04-teamwork-and-workplace-relationships.md#support) beam.
 
 ### partition
 - **IPA:** /pɑːˈtɪʃn/
 - **Meaning 1 (n):** A light interior wall that divides a space but carries no structural load.
-  - *Example:* A glass **partition** split the office into two meeting rooms.
+  - *Example:* A glass **partition** split the office into two [meeting](../toeic-600/06-meetings-and-presentations.md#1-meeting) rooms.
 
 ### façade
 - **IPA:** /fəˈsɑːd/
@@ -116,7 +116,7 @@
 ### insulation
 - **IPA:** /ˌɪnsjuˈleɪʃn/
 - **Meaning 1 (n):** Material used to stop heat, cold, or sound passing through a wall or roof.
-  - *Example:* Extra roof **insulation** cut the heating bill by a quarter.
+  - *Example:* Extra roof **insulation** cut the heating bill by a [quarter](../toeic-600/03-accounting-and-budgeting.md#12-quarter).
 
 ### rebar
 - **IPA:** /ˈriːbɑː/
@@ -156,7 +156,7 @@
 ### drywall
 - **IPA:** /ˈdraɪwɔːl/
 - **Meaning 1 (n):** Board made of plaster between paper layers, used to build interior walls.
-  - *Example:* The new partitions are simple **drywall** on a metal frame.
+  - *Example:* The new [partitions](18-construction-and-building-trades.md#partition) are simple **drywall** on a metal frame.
 
 ### framing
 - **IPA:** /ˈfreɪmɪŋ/
@@ -166,7 +166,7 @@
 ### roofing
 - **IPA:** /ˈruːfɪŋ/
 - **Meaning 1 (n):** The material used to cover a roof, or the work of covering it.
-  - *Example:* The **roofing** contractor quoted for slate or metal.
+  - *Example:* The **roofing** [contractor](18-construction-and-building-trades.md#contractor) quoted for slate or metal.
 
 ### guttering
 - **IPA:** /ˈɡʌtərɪŋ/
@@ -216,12 +216,12 @@
 ### demolition
 - **IPA:** /ˌdeməˈlɪʃn/
 - **Meaning 1 (n):** The deliberate destruction of a building.
-  - *Example:* **Demolition** of the old wing cleared space for the extension.
+  - *Example:* **Demolition** of the old wing cleared space for the [extension](26-telecommunications-and-networks.md#extension).
 
 ### retrofit
 - **IPA:** /ˈretrəʊfɪt/
 - **Meaning 1 (v):** To add new features or systems to an existing building.
-  - *Example:* The office was **retrofitted** with solar panels and better insulation.
+  - *Example:* The office was **retrofitted** with [solar panels](19-energy-and-utilities.md#solar-panel) and better [insulation](18-construction-and-building-trades.md#insulation).
 
 ### refurbishment
 - **IPA:** /rɪˈfɜːbɪʃmənt/
@@ -241,7 +241,7 @@
 ### permit
 - **IPA:** /ˈpɜːmɪt/
 - **Meaning 1 (n):** An official document giving permission to carry out work.
-  - *Example:* No digging can start without a **permit** from the council.
+  - *Example:* No digging can start without a **permit** from the [council](31-government-and-public-services.md#council).
 
 ### planning permission
 - **IPA:** /ˈplænɪŋ pəˌmɪʃn/
@@ -251,7 +251,7 @@
 ### zoning
 - **IPA:** /ˈzəʊnɪŋ/
 - **Meaning 1 (n):** Rules that set out how land in an area may be used.
-  - *Example:* **Zoning** on that street does not allow warehouses.
+  - *Example:* **Zoning** on that street does not allow [warehouses](../toeic-600/11-logistics-shipping-and-warehousing.md#15-warehouse).
 
 ### building code
 - **IPA:** /ˈbɪldɪŋ kəʊd/
@@ -271,7 +271,7 @@
 ### bill of quantities
 - **IPA:** /ˌbɪl əv ˈkwɒntətiz/
 - **Meaning 1 (n):** A document listing all the materials and labour needed for a building project, used for pricing.
-  - *Example:* Contractors priced the job from the **bill of quantities**.
+  - *Example:* [Contractors](18-construction-and-building-trades.md#contractor) priced the job from the **bill of quantities**.
 
 ### tender bid
 - **IPA:** /ˈtendə bɪd/
@@ -291,7 +291,7 @@
 ### defect liability
 - **IPA:** /ˈdiːfekt laɪˌəˈbɪləti/
 - **Meaning 1 (n):** A period after completion during which the contractor must fix faults for free.
-  - *Example:* The **defect liability** period runs for twelve months from handover.
+  - *Example:* The **defect liability** period runs for twelve months from [handover](06-projects-and-deadlines.md#handover).
 
 ### site handover
 - **IPA:** /ˌsaɪt ˈhændəʊvə/
@@ -346,12 +346,12 @@
 ### modular
 - **IPA:** /ˈmɒdjələ/
 - **Meaning 1 (adj):** Built from standard units that can be combined in different ways.
-  - *Example:* The school was built from **modular** classrooms craned into place.
+  - *Example:* The school was built from **modular** [classrooms](30-education-and-training.md#classroom) craned into place.
 
 ### sustainable build
 - **IPA:** /səˌsteɪnəbl ˈbɪld/
 - **Meaning 1 (n):** Construction designed to use fewer resources and cause less environmental harm.
-  - *Example:* The **sustainable build** used recycled steel and rainwater harvesting.
+  - *Example:* The **sustainable build** used recycled steel and rainwater [harvesting](20-agriculture-and-food-supply.md#harvest).
 
 ### load calculation
 - **IPA:** /ˈləʊd ˌkælkjuˈleɪʃn/
@@ -366,7 +366,7 @@
 ### site manager
 - **IPA:** /ˈsaɪt ˌmænɪdʒə/
 - **Meaning 1 (n):** The person responsible for running a construction site day to day.
-  - *Example:* The **site manager** coordinates deliveries and the trades.
+  - *Example:* The **site manager** [coordinates](03-management-and-leadership.md#coordinate) deliveries and the trades.
 
 ### snag item
 - **IPA:** /ˈsnæɡ ˌaɪtəm/

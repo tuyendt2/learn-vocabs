@@ -6,17 +6,17 @@
 ### retailer
 - **IPA:** /ˈriːteɪlə/
 - **Meaning 1 (n):** A business that sells goods to the public in small quantities.
-  - *Example:* The **retailer** operates 200 stores across the country.
+  - *Example:* The **retailer** [operates](../toeic-600/10-manufacturing-and-production.md#13-operate) 200 stores across the country.
 
 ### storefront
 - **IPA:** /ˈstɔːfrʌnt/
 - **Meaning 1 (n):** The front of a shop that faces the street, including its window and entrance.
-  - *Example:* A fresh **storefront** and new signage lifted walk-in trade.
+  - *Example:* A fresh **storefront** and new [signage](16-retail-and-store-operations.md#signage) lifted [walk-in](../toeic-600/15-hotels-and-accommodation.md#28-walk-in) trade.
 
 ### outlet
 - **IPA:** /ˈaʊtlet/
 - **Meaning 1 (n):** A shop or place where goods are sold, especially one selling a particular brand.
-  - *Example:* The factory **outlet** sells last season's stock at a discount.
+  - *Example:* The factory **outlet** sells last season's stock at a [discount](../toeic-600/08-marketing-and-advertising.md#16-discount).
 
 ### chain store
 - **IPA:** /ˈtʃeɪn stɔː/
@@ -41,7 +41,7 @@
 ### retail concession
 - **IPA:** /ˈriːteɪl kənˌseʃn/
 - **Meaning 1 (n):** The right to run a small business inside a larger store, or the space used for it.
-  - *Example:* The brand operates a **retail concession** within the department store.
+  - *Example:* The brand [operates](../toeic-600/10-manufacturing-and-production.md#13-operate) a **retail concession** within the [department store](16-retail-and-store-operations.md#department-store).
 
 ### shopfitting
 - **IPA:** /ˈʃɒpfɪtɪŋ/
@@ -63,7 +63,7 @@
 - **Meaning 1 (n):** An arrangement of goods intended to attract customers.
   - *Example:* The new **display** near the till lifted impulse sales.
 - **Meaning 2 (v):** To put something where people can see it.
-  - *Example:* Seasonal items are **displayed** at the front of the store.
+  - *Example:* [Seasonal](../toeic-600/16-restaurants-and-dining.md#28-seasonal) items are **displayed** at the front of the store.
 
 ### fixture
 - **IPA:** /ˈfɪkstʃə/
@@ -83,7 +83,7 @@
 ### checkout
 - **IPA:** /ˈtʃekaʊt/
 - **Meaning 1 (n):** The place in a shop where customers pay for goods.
-  - *Example:* Long queues at the **checkout** drive shoppers away.
+  - *Example:* Long queues at the **checkout** drive [shoppers](35-shopping-and-consumer-life.md#shopper) away.
 
 ### till
 - **IPA:** /tɪl/
@@ -93,7 +93,7 @@
 ### cash register
 - **IPA:** /ˈkæʃ ˌredʒɪstə/
 - **Meaning 1 (n):** A machine that records sales and holds cash.
-  - *Example:* The **cash register** prints a receipt for every sale.
+  - *Example:* The **cash register** prints a [receipt](../toeic-600/03-accounting-and-budgeting.md#5-receipt) for every sale.
 
 ### point of sale
 - **IPA:** /ˌpɔɪnt əv ˈseɪl/
@@ -118,17 +118,17 @@
 ### conversion rate
 - **IPA:** /kənˈvɜːʒn reɪt/
 - **Meaning 1 (n):** The percentage of visitors who make a purchase.
-  - *Example:* Better displays raised the **conversion rate** from 18% to 24%.
+  - *Example:* Better [displays](16-retail-and-store-operations.md#display) raised the **conversion rate** from 18% to 24%.
 
 ### basket size
 - **IPA:** /ˈbɑːskɪt saɪz/
 - **Meaning 1 (n):** The average value or number of items in a single purchase.
-  - *Example:* Meal deals increased the average **basket size**.
+  - *Example:* Meal deals increased the [average](07-data-reports-and-analysis.md#average) **basket size**.
 
 ### upsell
 - **IPA:** /ˌʌpˈsel/
 - **Meaning 1 (v):** To persuade a customer to buy a more expensive item or add-on.
-  - *Example:* Staff are trained to **upsell** a warranty with each laptop.
+  - *Example:* Staff are trained to **upsell** a [warranty](../toeic-600/01-contracts-and-agreements.md#17-warranty) with each laptop.
 
 ### cross-sell
 - **IPA:** /ˌkrɒsˈsel/
@@ -178,7 +178,7 @@
 ### shoplifting
 - **IPA:** /ˈʃɒplɪftɪŋ/
 - **Meaning 1 (n):** The crime of stealing goods from a shop.
-  - *Example:* Security tags reduced **shoplifting** of the smaller items.
+  - *Example:* [Security](12-banking-and-investment.md#security) tags reduced **shoplifting** of the smaller items.
 
 ### stocktake
 - **IPA:** /ˈstɒkteɪk/
@@ -208,7 +208,7 @@
 ### store manager
 - **IPA:** /ˈstɔː ˌmænɪdʒə/
 - **Meaning 1 (n):** The person in charge of running a single shop.
-  - *Example:* The **store manager** handles staffing, stock, and takings.
+  - *Example:* The **store manager** handles [staffing](../toeic-600/04-human-resources-and-recruitment.md#30-staffing), stock, and takings.
 
 ### opening hours
 - **IPA:** /ˈəʊpənɪŋ ˌaʊəz/
@@ -243,7 +243,7 @@
 ### exchange policy
 - **IPA:** /ɪksˈtʃeɪndʒ ˌpɒləsi/
 - **Meaning 1 (n):** A shop's rules on swapping a purchased item for a different one.
-  - *Example:* The **exchange policy** allows swaps within 30 days with a receipt.
+  - *Example:* The **exchange policy** allows swaps within 30 days with a [receipt](../toeic-600/03-accounting-and-budgeting.md#5-receipt).
 
 ### refund policy
 - **IPA:** /ˈriːfʌnd ˌpɒləsi/
@@ -253,7 +253,7 @@
 ### warranty card
 - **IPA:** /ˈwɒrənti kɑːd/
 - **Meaning 1 (n):** A card packed with a product that records its guarantee.
-  - *Example:* Keep the **warranty card** and the receipt together.
+  - *Example:* Keep the **warranty card** and the [receipt](../toeic-600/03-accounting-and-budgeting.md#5-receipt) together.
 
 ### window display
 - **IPA:** /ˈwɪndəʊ dɪˌspleɪ/
@@ -268,7 +268,7 @@
 ### signage
 - **IPA:** /ˈsaɪnɪdʒ/
 - **Meaning 1 (n):** The signs in a shop or public place, taken together.
-  - *Example:* Clear **signage** helped shoppers find each department.
+  - *Example:* Clear **signage** helped [shoppers](35-shopping-and-consumer-life.md#shopper) find each [department](31-government-and-public-services.md#department).
 
 ### foot-traffic count
 - **IPA:** /ˈfʊt ˌtræfɪk kaʊnt/
@@ -278,12 +278,12 @@
 ### dwell time
 - **IPA:** /ˈdwel taɪm/
 - **Meaning 1 (n):** The length of time a customer spends in a shop or area.
-  - *Example:* A seating area increased **dwell time** and spending.
+  - *Example:* A [seating](../toeic-600/16-restaurants-and-dining.md#12-seating) area increased **dwell time** and [spending](35-shopping-and-consumer-life.md#spending).
 
 ### store layout
 - **IPA:** /ˈstɔː ˌleɪaʊt/
 - **Meaning 1 (n):** The way aisles, departments, and displays are arranged in a shop.
-  - *Example:* A new **store layout** guided shoppers past the bakery first.
+  - *Example:* A new **store layout** guided [shoppers](35-shopping-and-consumer-life.md#shopper) past the bakery first.
 
 ### back of house
 - **IPA:** /ˌbæk əv ˈhaʊs/
@@ -323,7 +323,7 @@
 ### high street
 - **IPA:** /ˈhaɪ striːt/
 - **Meaning 1 (n):** The main shopping street of a town.
-  - *Example:* Online shopping has hit **high street** sales hard.
+  - *Example:* [Online shopping](35-shopping-and-consumer-life.md#online-shopping) has hit **high street** sales hard.
 
 ### cashier
 - **IPA:** /kæˈʃɪə/
@@ -333,7 +333,7 @@
 ### price point
 - **IPA:** /ˈpraɪs pɔɪnt/
 - **Meaning 1 (n):** A particular price at which a product is offered, chosen to suit a market.
-  - *Example:* The new range hits a lower **price point** for students.
+  - *Example:* The new range hits a lower **price point** for [students](30-education-and-training.md#student).
 
 ### product range
 - **IPA:** /ˈprɒdʌkt reɪndʒ/
@@ -348,7 +348,7 @@
 ### sales floor
 - **IPA:** /ˈseɪlz flɔː/
 - **Meaning 1 (n):** The area of a shop where goods are displayed and sold to customers.
-  - *Example:* Staff move stock from the stockroom to the **sales floor** each morning.
+  - *Example:* Staff move stock from the [stockroom](../toeic-600/11-logistics-shipping-and-warehousing.md#16-stockroom) to the **sales floor** each morning.
 
 ### in-store
 - **IPA:** /ˌɪn ˈstɔː/
@@ -358,7 +358,7 @@
 ### retail space
 - **IPA:** /ˈriːteɪl speɪs/
 - **Meaning 1 (n):** Floor area used or available for selling goods to the public.
-  - *Example:* The mall has 20,000 square metres of **retail space**.
+  - *Example:* The mall has 20,000 [square metres](22-real-estate-and-property-development.md#square-metre) of **retail space**.
 
 ### footprint
 - **IPA:** /ˈfʊtprɪnt/

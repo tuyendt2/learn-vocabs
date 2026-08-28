@@ -11,28 +11,28 @@
 ### subsidiary
 - **IPA:** /səbˈsɪdiəri/
 - **Meaning 1 (n):** A company controlled by another, larger company.
-  - *Example:* The bank sold its insurance **subsidiary** last year.
+  - *Example:* The bank sold its [insurance](../toeic-600/17-health-and-medical.md#9-insurance) **subsidiary** last year.
 - **Meaning 2 (adj):** Less important than something else; connected but secondary.
-  - *Example:* Staffing was a **subsidiary** issue at the meeting.
+  - *Example:* [Staffing](../toeic-600/04-human-resources-and-recruitment.md#30-staffing) was a **subsidiary** issue at the [meeting](../toeic-600/06-meetings-and-presentations.md#1-meeting).
 
 ### affiliate
 - **IPA:** /əˈfɪliət/ (n) · /əˈfɪlieɪt/ (v)
 - **Meaning 1 (n):** A company or organisation officially connected with a larger one.
-  - *Example:* The research lab is an **affiliate** of the state university.
+  - *Example:* The [research](27-science-and-research.md#research) lab is an **affiliate** of the state university.
 - **Meaning 2 (v):** To connect or associate one organisation with another.
-  - *Example:* The clinic is **affiliated** with a national hospital group.
+  - *Example:* The clinic is **affiliated** with a national [hospital](29-health-medicine-and-wellness.md#hospital) group.
 
 ### branch
 - **IPA:** /brɑːntʃ/
 - **Meaning 1 (n):** A local office or shop belonging to a larger company.
   - *Example:* The company opened a new **branch** in the north of the city.
 - **Meaning 2 (n):** A division or part of a larger organisation or field.
-  - *Example:* She works in the finance **branch** of the ministry.
+  - *Example:* She works in the finance **branch** of the [ministry](31-government-and-public-services.md#ministry).
 
 ### division
 - **IPA:** /dɪˈvɪʒn/
 - **Meaning 1 (n):** A large, self-contained section of a company responsible for one area.
-  - *Example:* The consumer products **division** reported record profits.
+  - *Example:* The [consumer](../toeic-600/08-marketing-and-advertising.md#6-consumer) products **division** reported record profits.
 - **Meaning 2 (n):** The act of separating something into parts.
   - *Example:* A clear **division** of duties prevents confusion.
 
@@ -54,7 +54,7 @@
 ### reporting line
 - **IPA:** /rɪˈpɔːtɪŋ laɪn/
 - **Meaning 1 (n):** The formal relationship showing who an employee reports to.
-  - *Example:* After the [restructure](#restructure), her **reporting line** changed to the COO.
+  - *Example:* After the [restructure](02-company-organization-and-departments.md#restructure), her **reporting line** changed to the COO.
 
 ### span of control
 - **IPA:** /ˌspæn əv kənˈtrəʊl/
@@ -64,7 +64,7 @@
 ### flat structure
 - **IPA:** /ˌflæt ˈstrʌktʃə/
 - **Meaning 1 (n):** An organisation with few levels of management between staff and leaders.
-  - *Example:* The [startup](#startup) kept a **flat structure** as it grew.
+  - *Example:* The [startup](02-company-organization-and-departments.md#startup) kept a **flat structure** as it grew.
 
 ### matrix structure
 - **IPA:** /ˈmeɪtrɪks ˌstrʌktʃə/
@@ -74,7 +74,7 @@
 ### centralized
 - **IPA:** /ˈsentrəlaɪzd/
 - **Meaning 1 (adj):** Controlled from a single main location or authority.
-  - *Example:* Purchasing is **centralized** to get better prices.
+  - *Example:* [Purchasing](../toeic-600/09-sales-and-purchasing.md#1-purchase) is **centralized** to get better prices.
 
 ### decentralized
 - **IPA:** /ˌdiːˈsentrəlaɪzd/
@@ -89,29 +89,29 @@
 ### shareholder
 - **IPA:** /ˈʃeəhəʊldə/
 - **Meaning 1 (n):** A person or organisation that owns shares in a company.
-  - *Example:* **Shareholders** voted against the proposed [merger](#merger).
+  - *Example:* **Shareholders** voted against the proposed merger.
 
 ### stakeholder
 - **IPA:** /ˈsteɪkhəʊldə/
 - **Meaning 1 (n):** A person or group with an interest in a project or organisation's success.
-  - *Example:* Every **stakeholder** was consulted before the plan was approved.
+  - *Example:* Every **stakeholder** was consulted before the plan was [approved](03-management-and-leadership.md#approve).
 
 ### chief executive
 - **IPA:** /ˌtʃiːf ɪɡˈzekjətɪv/
 - **Meaning 1 (n):** The most senior manager, responsible for running a whole company.
-  - *Example:* The **chief executive** answers directly to the [board of directors](#board-of-directors).
+  - *Example:* The **chief executive** answers directly to the [board of directors](02-company-organization-and-departments.md#board-of-directors).
 
 ### executive
 - **IPA:** /ɪɡˈzekjətɪv/
 - **Meaning 1 (n):** A senior manager with authority to make important decisions.
   - *Example:* Two **executives** flew in for the contract signing.
 - **Meaning 2 (adj):** Relating to the management and decision-making part of an organisation.
-  - *Example:* The proposal needs **executive** approval.
+  - *Example:* The [proposal](../toeic-600/06-meetings-and-presentations.md#13-proposal) needs **executive** [approval](06-projects-and-deadlines.md#approval).
 
 ### founder
 - **IPA:** /ˈfaʊndə/
 - **Meaning 1 (n):** A person who establishes an organisation or company.
-  - *Example:* The **founder** still owns 40% of the [enterprise](#enterprise).
+  - *Example:* The **founder** still owns 40% of the [enterprise](02-company-organization-and-departments.md#enterprise).
 
 ### proprietor
 - **IPA:** /prəˈpraɪətə/
@@ -121,7 +121,7 @@
 ### partnership
 - **IPA:** /ˈpɑːtnəʃɪp/
 - **Meaning 1 (n):** A business owned and run by two or more people who share profits and risks.
-  - *Example:* The two architects set up a **partnership** in 2015.
+  - *Example:* The two [architects](18-construction-and-building-trades.md#architect) set up a **partnership** in 2015.
 - **Meaning 2 (n):** A cooperative relationship between organisations working toward a shared aim.
   - *Example:* The city formed a **partnership** with a transport firm.
 
@@ -138,7 +138,7 @@
 ### enterprise
 - **IPA:** /ˈentəpraɪz/
 - **Meaning 1 (n):** A company or business, especially a bold new one.
-  - *Example:* The family runs a small farming **enterprise**.
+  - *Example:* The family runs a small [farming](20-agriculture-and-food-supply.md#farming) **enterprise**.
 - **Meaning 2 (n):** Willingness to take risks and start new projects.
   - *Example:* The award rewards **enterprise** among young business owners.
 
@@ -147,7 +147,7 @@
 - **Meaning 1 (n):** A company or business, especially one providing professional services.
   - *Example:* She joined a law **firm** straight after her [diploma](01-career-and-professional-development.md#diploma).
 - **Meaning 2 (adj):** Fixed and unlikely to change; strong.
-  - *Example:* We have a **firm** offer from the supplier.
+  - *Example:* We have a **firm** offer from the [supplier](../toeic-600/09-sales-and-purchasing.md#2-supplier).
 
 ### startup
 - **IPA:** /ˈstɑːtʌp/
@@ -157,7 +157,7 @@
 ### incorporation
 - **IPA:** /ɪnˌkɔːpəˈreɪʃn/
 - **Meaning 1 (n):** The legal process of forming a company as a corporate body.
-  - *Example:* **Incorporation** limits the owners' personal [liability](14-law-and-compliance.md#liability).
+  - *Example:* **Incorporation** limits the owners' personal [liability](../toeic-600/01-contracts-and-agreements.md#16-liability).
 
 ### charter
 - **IPA:** /ˈtʃɑːtə/
@@ -191,19 +191,19 @@
 ### merger
 - **IPA:** /ˈmɜːdʒə/
 - **Meaning 1 (n):** The joining of two companies into one.
-  - *Example:* The **merger** created the country's largest carrier.
+  - *Example:* The **merger** created the country's largest [carrier](../toeic-600/11-logistics-shipping-and-warehousing.md#5-carrier).
 
 ### acquisition
 - **IPA:** /ˌækwɪˈzɪʃn/
 - **Meaning 1 (n):** The act of one company buying another, or the company that is bought.
-  - *Example:* The software house was the group's third **acquisition** this year.
+  - *Example:* The [software](../toeic-600/13-technology-and-computers.md#1-software) house was the group's third **acquisition** this year.
 - **Meaning 2 (n):** Something obtained, especially a useful person or asset.
   - *Example:* The new designer is a valuable **acquisition** for the studio.
 
 ### spin-off
 - **IPA:** /ˈspɪn ɒf/
 - **Meaning 1 (n):** A new, independent company formed from part of an existing one.
-  - *Example:* The research group became a **spin-off** with its own investors.
+  - *Example:* The [research](27-science-and-research.md#research) group became a **spin-off** with its own investors.
 
 ### takeover
 - **IPA:** /ˈteɪkəʊvə/
@@ -228,12 +228,12 @@
 ### outsource
 - **IPA:** /ˈaʊtsɔːs/
 - **Meaning 1 (v):** To arrange for work to be done by an outside company.
-  - *Example:* They **outsource** payroll to a specialist provider.
+  - *Example:* They **outsource** [payroll](../toeic-600/03-accounting-and-budgeting.md#17-payroll) to a [specialist](../toeic-600/17-health-and-medical.md#15-specialist) provider.
 
 ### offshore
 - **IPA:** /ˌɒfˈʃɔː/
 - **Meaning 1 (adj/adv):** Located or done in another country, usually to reduce cost or tax.
-  - *Example:* Part of the support team was moved **offshore**.
+  - *Example:* Part of the [support](04-teamwork-and-workplace-relationships.md#support) team was moved **offshore**.
 
 ### satellite office
 - **IPA:** /ˈsætəlaɪt ˌɒfɪs/
@@ -250,12 +250,12 @@
 ### franchisee
 - **IPA:** /ˌfræntʃaɪˈziː/
 - **Meaning 1 (n):** A person or company that buys and runs a franchise.
-  - *Example:* Each **franchisee** pays a monthly fee to head office.
+  - *Example:* Each **franchisee** pays a monthly fee to [head office](02-company-organization-and-departments.md#head-office).
 
 ### franchisor
 - **IPA:** /ˈfræntʃaɪzə/
 - **Meaning 1 (n):** The company that sells franchises to others.
-  - *Example:* The **franchisor** provides training and branded supplies.
+  - *Example:* The **franchisor** provides training and branded [supplies](../toeic-600/05-office-procedures-and-equipment.md#7-supplies).
 
 ### regional office
 - **IPA:** /ˈriːdʒənl ˌɒfɪs/
@@ -265,17 +265,17 @@
 ### head office
 - **IPA:** /ˌhed ˈɒfɪs/
 - **Meaning 1 (n):** The main office of a company, where senior management works.
-  - *Example:* The request has to be approved by **head office**.
+  - *Example:* The request has to be [approved](03-management-and-leadership.md#approve) by **head office**.
 
 ### parent company
 - **IPA:** /ˈpeərənt ˌkʌmpəni/
 - **Meaning 1 (n):** A company that owns or controls one or more other companies.
-  - *Example:* Profits are passed up to the **parent company** each quarter.
+  - *Example:* Profits are passed up to the **parent company** each [quarter](../toeic-600/03-accounting-and-budgeting.md#12-quarter).
 
 ### sister company
 - **IPA:** /ˈsɪstə ˌkʌmpəni/
 - **Meaning 1 (n):** One of two or more companies owned by the same parent.
-  - *Example:* We share a warehouse with a **sister company**.
+  - *Example:* We share a [warehouse](../toeic-600/11-logistics-shipping-and-warehousing.md#15-warehouse) with a **sister company**.
 
 ### holding company
 - **IPA:** /ˈhəʊldɪŋ ˌkʌmpəni/
@@ -310,7 +310,7 @@
 ### secretariat
 - **IPA:** /ˌsekrəˈteəriət/
 - **Meaning 1 (n):** A permanent office or staff that administers a large organisation or committee.
-  - *Example:* The conference **secretariat** handles registration and papers.
+  - *Example:* The [conference](../toeic-600/06-meetings-and-presentations.md#2-conference) **secretariat** handles registration and papers.
 
 ### committee
 - **IPA:** /kəˈmɪti/
@@ -325,24 +325,24 @@
 ### working group
 - **IPA:** /ˈwɜːkɪŋ ɡruːp/
 - **Meaning 1 (n):** A small group set up to study a question and report back.
-  - *Example:* The **working group** will present its findings in June.
+  - *Example:* The **working group** will present its [findings](07-data-reports-and-analysis.md#findings) in June.
 
 ### steering committee
 - **IPA:** /ˈstɪərɪŋ kəˌmɪti/
 - **Meaning 1 (n):** A senior group that sets direction and priorities for a project or programme.
-  - *Example:* The **steering committee** approved the next phase of the [project](06-projects-and-deadlines.md#project).
+  - *Example:* The **steering committee** [approved](03-management-and-leadership.md#approve) the next phase of the project.
 
 ### administration
 - **IPA:** /ədˌmɪnɪˈstreɪʃn/
 - **Meaning 1 (n):** The activities involved in managing and running an organisation.
   - *Example:* Too much of her day goes on **administration**.
 - **Meaning 2 (n):** The people who manage a company or institution.
-  - *Example:* The college **administration** approved the new timetable.
+  - *Example:* The college **administration** [approved](03-management-and-leadership.md#approve) the new [timetable](40-travel-commuting-and-getting-around.md#timetable).
 
 ### operations
 - **IPA:** /ˌɒpəˈreɪʃnz/
 - **Meaning 1 (n):** The everyday activities involved in producing goods or delivering services.
-  - *Example:* The head of **operations** oversees three plants.
+  - *Example:* The head of **operations** [oversees](03-management-and-leadership.md#oversee) three plants.
 
 ### facilities management
 - **IPA:** /fəˈsɪlətiz ˌmænɪdʒmənt/
@@ -357,12 +357,12 @@
 ### human capital
 - **IPA:** /ˌhjuːmən ˈkæpɪtl/
 - **Meaning 1 (n):** The skills, knowledge, and experience of an organisation's people, seen as an asset.
-  - *Example:* Training is an investment in **human capital**.
+  - *Example:* Training is an [investment](../toeic-600/02-finance-and-banking.md#14-investment) in **human capital**.
 
 ### corporate
 - **IPA:** /ˈkɔːpərət/
 - **Meaning 1 (adj):** Relating to a large company or to business in general.
-  - *Example:* The change came from **corporate** headquarters, not the branch.
+  - *Example:* The change came from **corporate** [headquarters](02-company-organization-and-departments.md#headquarters), not the branch.
 
 ### entity
 - **IPA:** /ˈentəti/
@@ -377,14 +377,14 @@
 ### remit
 - **IPA:** /ˈriːmɪt/ (n) · /rɪˈmɪt/ (v)
 - **Meaning 1 (n):** The area of activity or authority given to a person or group.
-  - *Example:* Marketing is outside the finance team's **remit**.
+  - *Example:* [Marketing](../toeic-600/08-marketing-and-advertising.md#1-marketing) is outside the finance team's **remit**.
 - **Meaning 2 (v):** To send money in payment.
   - *Example:* Please **remit** the balance within 30 days.
 
 ### reporting structure
 - **IPA:** /rɪˈpɔːtɪŋ ˌstrʌktʃə/
 - **Meaning 1 (n):** The overall pattern of who reports to whom in an organisation.
-  - *Example:* The **reporting structure** was simplified after the [merger](#merger).
+  - *Example:* The **reporting structure** was simplified after the merger.
 
 ### portfolio company
 - **IPA:** /pɔːtˈfəʊliəʊ ˌkʌmpəni/
@@ -406,4 +406,4 @@
 ### wholly owned
 - **IPA:** /ˌhəʊli ˈəʊnd/
 - **Meaning 1 (adj):** Completely owned by one parent company, with no other shareholders.
-  - *Example:* The factory is a **wholly owned** subsidiary of the group.
+  - *Example:* The factory is a **wholly owned** [subsidiary](02-company-organization-and-departments.md#subsidiary) of the group.

@@ -22,7 +22,7 @@
 ### 4. arrival
 - **IPA:** /əˈraɪvl/
 - **Meaning 1 (n):** The act of reaching a place at the end of a journey.
-  - *Example:* On **arrival**, please go straight to the front desk.
+  - *Example:* On **arrival**, please go straight to the [front desk](15-hotels-and-accommodation.md#13-front-desk).
 
 ### 5. boarding pass
 - **IPA:** /ˈbɔːdɪŋ pɑːs/
@@ -39,10 +39,10 @@
 - **Meaning 1 (n):** A small bag you take onto the plane rather than check in.
   - *Example:* Liquids in your **carry-on** must be under 100 ml.
 
-### 8. customs
-- **IPA:** /ˈkʌstəmz/
-- **Meaning 1 (n):** The place at a border where officials check what travellers bring in.
-  - *Example:* We were stopped at **customs** to open our bags.
+### 8. passport
+- **IPA:** /ˈpɑːspɔːt/
+- **Meaning 1 (n):** An official document that identifies you as a citizen and lets you travel abroad.
+  - *Example:* Your **passport** must be valid for six months after the trip.
 
 ### 9. commute
 - **IPA:** /kəˈmjuːt/
@@ -68,7 +68,7 @@
 - **Meaning 1 (n):** A period of waiting caused by a problem.
   - *Example:* There was a two-hour **delay** because of fog.
 - **Meaning 2 (v):** To make something late or slow.
-  - *Example:* Bad weather **delayed** the connecting flight.
+  - *Example:* Bad weather **delayed** the [connecting flight](14-travel-and-transportation.md#23-connecting-flight).
 
 ### 13. shuttle
 - **IPA:** /ˈʃʌtl/
@@ -98,7 +98,7 @@
 ### 18. excursion
 - **IPA:** /ɪkˈskɜːʃn/
 - **Meaning 1 (n):** A short trip, usually for pleasure and with a group.
-  - *Example:* The conference included an **excursion** to the old town.
+  - *Example:* The [conference](06-meetings-and-presentations.md#2-conference) included an **excursion** to the old town.
 
 ### 19. voucher
 - **IPA:** /ˈvaʊtʃə/
@@ -115,7 +115,7 @@
 - **Meaning 1 (v):** To get on a plane, ship, train, or bus.
   - *Example:* We will start to **board** at 6:40.
 - **Meaning 2 (n):** A group of people who manage a company.
-  - *Example:* The **board** approved the travel budget.
+  - *Example:* The **board** [approved](../toeic-3000/03-management-and-leadership.md#approve) the travel budget.
 
 ### 22. check in
 - **IPA:** /ˌtʃek ˈɪn/
@@ -127,10 +127,10 @@
 - **Meaning 1 (n):** A second flight that a passenger takes to reach a final destination.
   - *Example:* We missed our **connecting flight** by ten minutes.
 
-### 24. accommodation
-- **IPA:** /əˌkɒməˈdeɪʃn/
-- **Meaning 1 (n):** A place to stay, such as a hotel room.
-  - *Example:* The company arranges **accommodation** for visiting staff.
+### 24. stopover
+- **IPA:** /ˈstɒpəʊvə/
+- **Meaning 1 (n):** A short stay somewhere between two parts of a journey.
+  - *Example:* We had a two-day **stopover** in Dubai on the way to Sydney.
 
 ### 25. per diem
 - **IPA:** /pə ˈdiːem/
@@ -145,19 +145,19 @@
 ### 27. detour
 - **IPA:** /ˈdiːtʊə/
 - **Meaning 1 (n):** A longer route taken to avoid a problem on the usual road.
-  - *Example:* Roadworks forced a **detour** through the village.
+  - *Example:* [Roadworks](../toeic-3000/40-travel-commuting-and-getting-around.md#roadworks) forced a **detour** through the village.
 
 ### 28. expense report
 - **IPA:** /ɪkˈspens rɪˌpɔːt/
 - **Meaning 1 (n):** A form listing money spent on business travel, to be paid back.
   - *Example:* Submit your **expense report** within a week of returning.
 
-### 29. transfer
-- **IPA:** /ˈtrænsfɜː/
-- **Meaning 1 (n):** Transport arranged between an airport and a hotel or other point.
-  - *Example:* The package includes airport **transfers**.
+### 29. boarding gate
+- **IPA:** /ˈbɔːdɪŋ ɡeɪt/
+- **Meaning 1 (n):** The place in an airport where passengers get on a plane.
+  - *Example:* A last-minute change moved the flight to **boarding gate** 42.
 
 ### 30. valid
 - **IPA:** /ˈvælɪd/
 - **Meaning 1 (adj):** Legally or officially acceptable; able to be used.
-  - *Example:* Your passport must be **valid** for six months after arrival.
+  - *Example:* Your [passport](14-travel-and-transportation.md#8-passport) must be **valid** for six months after [arrival](14-travel-and-transportation.md#4-arrival).

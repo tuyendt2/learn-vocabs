@@ -16,7 +16,7 @@
 ### circular
 - **IPA:** /ˈsɜːkjələ/
 - **Meaning 1 (n):** A printed notice or letter sent to a large number of people.
-  - *Example:* Head office sent a **circular** about the new expenses rules.
+  - *Example:* [Head office](02-company-organization-and-departments.md#head-office) sent a **circular** about the new [expenses](../toeic-600/02-finance-and-banking.md#20-expense) rules.
 
 ### notice
 - **IPA:** /ˈnəʊtɪs/
@@ -70,12 +70,12 @@
 ### newsletter
 - **IPA:** /ˈnjuːzletə/
 - **Meaning 1 (n):** A regular printed or emailed report sent to members or customers.
-  - *Example:* The monthly **newsletter** features one customer story.
+  - *Example:* The monthly **newsletter** [features](32-media-news-and-publishing.md#feature) one customer story.
 
 ### digest
 - **IPA:** /ˈdaɪdʒest/ (n) · /daɪˈdʒest/ (v)
 - **Meaning 1 (n):** A short summary of longer pieces of writing or news.
-  - *Example:* A weekly **digest** collects the main industry headlines.
+  - *Example:* A weekly **digest** collects the main industry [headlines](32-media-news-and-publishing.md#headline).
 - **Meaning 2 (v):** To think about information until you fully understand it.
   - *Example:* Give the team a day to **digest** the report.
 
@@ -97,7 +97,7 @@
 ### reminder
 - **IPA:** /rɪˈmaɪndə/
 - **Meaning 1 (n):** A message that helps someone remember to do something.
-  - *Example:* A **reminder** goes out two days before the deadline.
+  - *Example:* A **reminder** goes out two days before the [deadline](../toeic-600/01-contracts-and-agreements.md#13-deadline).
 
 ### confirmation
 - **IPA:** /ˌkɒnfəˈmeɪʃn/
@@ -112,7 +112,7 @@
 ### disclaimer
 - **IPA:** /dɪsˈkleɪmə/
 - **Meaning 1 (n):** A statement that limits legal responsibility or denies a connection.
-  - *Example:* The email carries a standard confidentiality **disclaimer**.
+  - *Example:* The email carries a [standard](../toeic-600/12-quality-control-and-standards.md#3-standard) [confidentiality](../toeic-600/01-contracts-and-agreements.md#26-confidentiality) **disclaimer**.
 
 ### footer
 - **IPA:** /ˈfʊtə/
@@ -157,7 +157,7 @@
 ### concise
 - **IPA:** /kənˈsaɪs/
 - **Meaning 1 (adj):** Giving a lot of information clearly in few words.
-  - *Example:* Keep the update **concise**: three bullet points at most.
+  - *Example:* Keep the update **concise**: three [bullet points](08-business-communication.md#bullet-point) at most.
 
 ### verbose
 - **IPA:** /vɜːˈbəʊs/
@@ -197,7 +197,7 @@
 ### persuasive
 - **IPA:** /pəˈsweɪsɪv/
 - **Meaning 1 (adj):** Good at making people agree or believe something.
-  - *Example:* The proposal made a **persuasive** case for more staff.
+  - *Example:* The [proposal](../toeic-600/06-meetings-and-presentations.md#13-proposal) made a **persuasive** case for more staff.
 
 ### coherent
 - **IPA:** /kəʊˈhɪərənt/
@@ -227,7 +227,7 @@
 ### quote
 - **IPA:** /kwəʊt/
 - **Meaning 1 (v):** To repeat words exactly as someone said or wrote them.
-  - *Example:* The article **quotes** the CEO directly.
+  - *Example:* The [article](32-media-news-and-publishing.md#article) **quotes** the CEO directly.
 - **Meaning 2 (n):** A price stated for a job before it is done.
   - *Example:* We got a **quote** of £900 for the repair.
 
@@ -249,12 +249,12 @@
 ### on the record
 - **IPA:** /ˌɒn ðə ˈrekɔːd/
 - **Meaning 1 (phr):** Said openly and able to be quoted or reported.
-  - *Example:* The spokesperson would not comment **on the record**.
+  - *Example:* The [spokesperson](03-management-and-leadership.md#spokesperson) would not comment **on the record**.
 
 ### talking points
 - **IPA:** /ˈtɔːkɪŋ pɔɪnts/
 - **Meaning 1 (n):** A short list of the main points a speaker wants to make.
-  - *Example:* Managers were sent **talking points** for the staff meeting.
+  - *Example:* Managers were sent **talking points** for the staff [meeting](../toeic-600/06-meetings-and-presentations.md#1-meeting).
 
 ### key message
 - **IPA:** /ˌkiː ˈmesɪdʒ/
@@ -269,7 +269,7 @@
 ### town hall
 - **IPA:** /ˌtaʊn ˈhɔːl/
 - **Meaning 1 (n):** A large meeting where leaders share news and staff can ask questions.
-  - *Example:* The quarterly **town hall** is streamed to all sites.
+  - *Example:* The [quarterly](32-media-news-and-publishing.md#quarterly) **town hall** is streamed to all sites.
 
 ### all-hands
 - **IPA:** /ˌɔːl ˈhændz/
@@ -289,7 +289,7 @@
 ### circulate
 - **IPA:** /ˈsɜːkjəleɪt/
 - **Meaning 1 (v):** To pass something around to a group of people.
-  - *Example:* Please **circulate** the draft to the whole committee.
+  - *Example:* Please **circulate** the draft to the whole [committee](02-company-organization-and-departments.md#committee).
 
 ### disseminate
 - **IPA:** /dɪˈsemɪneɪt/
@@ -299,7 +299,7 @@
 ### convey
 - **IPA:** /kənˈveɪ/
 - **Meaning 1 (v):** To communicate an idea, feeling, or piece of information.
-  - *Example:* The letter failed to **convey** how serious the problem was.
+  - *Example:* The letter failed to **convey** how serious the [problem](10-problem-solving-and-decision-making.md#problem) was.
 
 ### relay
 - **IPA:** /ˈriːleɪ/ (n) · /rɪˈleɪ/ (v)
@@ -309,17 +309,17 @@
 ### memorandum
 - **IPA:** /ˌmeməˈrændəm/
 - **Meaning 1 (n):** A formal written note recording something or communicating within an organisation.
-  - *Example:* A **memorandum** set out the new approval limits.
+  - *Example:* A **memorandum** set out the new [approval](06-projects-and-deadlines.md#approval) limits.
 
 ### communiqué
 - **IPA:** /kəˈmjuːnɪkeɪ/
 - **Meaning 1 (n):** An official announcement or statement, especially to the press or public.
-  - *Example:* A joint **communiqué** confirmed the two firms would cooperate.
+  - *Example:* A joint **communiqué** confirmed the two firms would [cooperate](04-teamwork-and-workplace-relationships.md#cooperate).
 
 ### briefing note
 - **IPA:** /ˈbriːfɪŋ nəʊt/
 - **Meaning 1 (n):** A short document summarising an issue and options for a decision-maker.
-  - *Example:* The **briefing note** gave the minister three choices.
+  - *Example:* The **briefing note** gave the [minister](31-government-and-public-services.md#minister) three choices.
 
 ### plain language
 - **IPA:** /ˌpleɪn ˈlæŋɡwɪdʒ/
@@ -329,7 +329,7 @@
 ### bullet point
 - **IPA:** /ˈbʊlɪt pɔɪnt/
 - **Meaning 1 (n):** A short item in a list, usually marked with a small symbol.
-  - *Example:* Summarise each section in three **bullet points**.
+  - *Example:* [Summarise](../toeic-600/06-meetings-and-presentations.md#10-summarise) each section in three **bullet points**.
 
 ### subheading
 - **IPA:** /ˈsʌbhedɪŋ/
@@ -369,7 +369,7 @@
 ### status note
 - **IPA:** /ˈsteɪtəs nəʊt/
 - **Meaning 1 (n):** A brief written update on the current state of a task or issue.
-  - *Example:* A daily **status note** keeps the client informed without a call.
+  - *Example:* A daily **status note** keeps the client [informed](10-problem-solving-and-decision-making.md#informed) without a call.
 
 ### messaging
 - **IPA:** /ˈmesɪdʒɪŋ/

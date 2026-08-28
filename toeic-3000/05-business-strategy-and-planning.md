@@ -18,14 +18,14 @@
 ### goal
 - **IPA:** /ɡəʊl/
 - **Meaning 1 (n):** An aim or result that a person or organisation works toward.
-  - *Example:* The **goal** for this quarter is to cut returns by 10%.
+  - *Example:* The **goal** for this [quarter](../toeic-600/03-accounting-and-budgeting.md#12-quarter) is to cut returns by 10%.
 
 ### target
 - **IPA:** /ˈtɑːɡɪt/
 - **Meaning 1 (n):** A specific level or result that is aimed for.
   - *Example:* The team beat its sales **target** by a wide margin.
 - **Meaning 2 (v):** To direct effort or resources at a particular group or aim.
-  - *Example:* The campaign **targets** small business owners.
+  - *Example:* The [campaign](../toeic-600/08-marketing-and-advertising.md#3-campaign) **targets** small business owners.
 
 ### roadmap
 - **IPA:** /ˈrəʊdmæp/
@@ -62,7 +62,7 @@
 ### mission
 - **IPA:** /ˈmɪʃn/
 - **Meaning 1 (n):** The central purpose or most important aim of an organisation.
-  - *Example:* Affordable healthcare is the charity's **mission**.
+  - *Example:* Affordable [healthcare](29-health-medicine-and-wellness.md#healthcare) is the charity's **mission**.
 
 ### timeline
 - **IPA:** /ˈtaɪmlaɪn/
@@ -87,12 +87,12 @@
 ### alignment
 - **IPA:** /əˈlaɪnmənt/
 - **Meaning 1 (n):** Agreement between different plans, teams, or goals so they support each other.
-  - *Example:* There is now full **alignment** between sales and production targets.
+  - *Example:* There is now full **alignment** between sales and [production](../toeic-600/10-manufacturing-and-production.md#3-production) targets.
 
 ### positioning
 - **IPA:** /pəˈzɪʃənɪŋ/
 - **Meaning 1 (n):** The way a company presents its product relative to competitors in the market.
-  - *Example:* The **positioning** is premium quality at a mid-range price.
+  - *Example:* The **positioning** is [premium](../toeic-600/18-employee-benefits-and-insurance.md#2-premium) quality at a mid-range price.
 
 ### differentiation
 - **IPA:** /ˌdɪfəˌrenʃiˈeɪʃn/
@@ -102,7 +102,7 @@
 ### competitive edge
 - **IPA:** /kəmˌpetətɪv ˈedʒ/
 - **Meaning 1 (n):** An advantage that lets a company do better than its rivals.
-  - *Example:* Local warehousing gives them a **competitive edge** on delivery.
+  - *Example:* Local [warehousing](../toeic-600/11-logistics-shipping-and-warehousing.md#15-warehouse) gives them a **competitive edge** on delivery.
 
 ### value proposition
 - **IPA:** /ˈvæljuː ˌprɒpəzɪʃn/
@@ -112,7 +112,7 @@
 ### core competency
 - **IPA:** /ˌkɔː ˈkɒmpɪtənsi/
 - **Meaning 1 (n):** A central strength or ability that gives a company its advantage.
-  - *Example:* Precision engineering is the firm's **core competency**.
+  - *Example:* [Precision engineering](17-manufacturing-and-engineering.md#precision-engineering) is the firm's **core competency**.
 
 ### capability
 - **IPA:** /ˌkeɪpəˈbɪləti/
@@ -132,7 +132,7 @@
 ### scenario
 - **IPA:** /səˈnɑːriəʊ/
 - **Meaning 1 (n):** A description of a possible future situation, used for planning.
-  - *Example:* Planners modelled a worst-case **scenario** of a six-month downturn.
+  - *Example:* Planners modelled a [worst-case](10-problem-solving-and-decision-making.md#worst-case) **scenario** of a six-month [downturn](11-economics-and-markets.md#downturn).
 
 ### outlook
 - **IPA:** /ˈaʊtlʊk/
@@ -152,12 +152,12 @@
 ### expansion
 - **IPA:** /ɪkˈspænʃn/
 - **Meaning 1 (n):** The process of becoming larger in size, number, or scope.
-  - *Example:* Rapid **expansion** put a strain on the supply chain.
+  - *Example:* Rapid **expansion** put a strain on the [supply chain](21-transportation-and-shipping.md#supply-chain).
 
 ### diversification
 - **IPA:** /daɪˌvɜːsɪfɪˈkeɪʃn/
 - **Meaning 1 (n):** The act of increasing the range of products, services, or markets.
-  - *Example:* **Diversification** into services reduced the firm's reliance on hardware.
+  - *Example:* **Diversification** into services reduced the firm's reliance on [hardware](../toeic-600/13-technology-and-computers.md#2-hardware).
 
 ### consolidation
 - **IPA:** /kənˌsɒlɪˈdeɪʃn/
@@ -172,12 +172,12 @@
 ### market entry
 - **IPA:** /ˈmɑːkɪt ˌentri/
 - **Meaning 1 (n):** The act of starting to sell in a new market.
-  - *Example:* A local partner made **market entry** in Japan much faster.
+  - *Example:* A local [partner](04-teamwork-and-workplace-relationships.md#partner) made **market entry** in Japan much faster.
 
 ### first-mover
 - **IPA:** /ˌfɜːst ˈmuːvə/
 - **Meaning 1 (n):** A company that is first to sell a new type of product, gaining an early advantage.
-  - *Example:* As a **first-mover**, it set the standard others had to follow.
+  - *Example:* As a **first-mover**, it set the [standard](../toeic-600/12-quality-control-and-standards.md#3-standard) others had to follow.
 
 ### disruptor
 - **IPA:** /dɪsˈrʌptə/
@@ -199,7 +199,7 @@
 ### tailwind
 - **IPA:** /ˈteɪlwɪnd/
 - **Meaning 1 (n):** A condition that helps progress or growth.
-  - *Example:* A weak currency was a **tailwind** for exporters.
+  - *Example:* A weak [currency](../toeic-600/02-finance-and-banking.md#12-currency) was a **tailwind** for exporters.
 
 ### economies of scale
 - **IPA:** /ɪˌkɒnəmiz əv ˈskeɪl/
@@ -224,19 +224,19 @@
 ### review cycle
 - **IPA:** /rɪˈvjuː ˌsaɪkl/
 - **Meaning 1 (n):** A regular period after which plans or performance are re-examined.
-  - *Example:* The plan is checked against results each quarterly **review cycle**.
+  - *Example:* The plan is checked against results each [quarterly](32-media-news-and-publishing.md#quarterly) **review cycle**.
 
 ### pivot
 - **IPA:** /ˈpɪvət/
 - **Meaning 1 (v):** To change strategy or direction significantly.
-  - *Example:* The startup **pivoted** from selling software to selling data.
+  - *Example:* The [startup](02-company-organization-and-departments.md#startup) **pivoted** from selling [software](../toeic-600/13-technology-and-computers.md#1-software) to selling data.
 - **Meaning 2 (n):** A significant change of strategy.
-  - *Example:* The **pivot** to subscriptions saved the business.
+  - *Example:* The **pivot** to [subscriptions](32-media-news-and-publishing.md#subscription) saved the business.
 
 ### iterate
 - **IPA:** /ˈɪtəreɪt/
 - **Meaning 1 (v):** To repeat a process, improving the result each time.
-  - *Example:* The team **iterates** on the design after each round of feedback.
+  - *Example:* The team **iterates** on the design after each round of [feedback](../toeic-600/06-meetings-and-presentations.md#14-feedback).
 
 ### scale up
 - **IPA:** /ˌskeɪl ˈʌp/
@@ -251,12 +251,12 @@
 ### long-term
 - **IPA:** /ˌlɒŋ ˈtɜːm/
 - **Meaning 1 (adj):** Happening or existing over a long period of time.
-  - *Example:* The investment only makes sense as a **long-term** bet.
+  - *Example:* The [investment](../toeic-600/02-finance-and-banking.md#14-investment) only makes sense as a **long-term** bet.
 
 ### short-term
 - **IPA:** /ˌʃɔːt ˈtɜːm/
 - **Meaning 1 (adj):** Lasting or intended for only a short period.
-  - *Example:* Cutting training gave a **short-term** saving but a long-term cost.
+  - *Example:* Cutting training gave a **short-term** saving but a [long-term](05-business-strategy-and-planning.md#long-term) cost.
 
 ### mid-term
 - **IPA:** /ˌmɪd ˈtɜːm/
@@ -276,12 +276,12 @@
 ### stakeholder mapping
 - **IPA:** /ˈsteɪkhəʊldə ˌmæpɪŋ/
 - **Meaning 1 (n):** The activity of identifying everyone affected by a plan and their level of interest.
-  - *Example:* **Stakeholder mapping** showed the regulator was the key group to convince.
+  - *Example:* **Stakeholder mapping** showed the [regulator](31-government-and-public-services.md#regulator) was the key group to [convince](09-negotiation-and-persuasion.md#convince).
 
 ### SWOT
 - **IPA:** /swɒt/
 - **Meaning 1 (n):** An analysis of Strengths, Weaknesses, Opportunities, and Threats.
-  - *Example:* The **SWOT** highlighted an ageing workforce as a weakness.
+  - *Example:* The **SWOT** highlighted an ageing [workforce](../toeic-600/04-human-resources-and-recruitment.md#21-workforce) as a weakness.
 
 ### gap analysis
 - **IPA:** /ˈɡæp əˌnæləsɪs/
@@ -301,7 +301,7 @@
 ### roadmapping
 - **IPA:** /ˈrəʊdmæpɪŋ/
 - **Meaning 1 (n):** The activity of creating and maintaining a plan of future steps and timing.
-  - *Example:* Quarterly **roadmapping** keeps every team working to the same schedule.
+  - *Example:* [Quarterly](32-media-news-and-publishing.md#quarterly) **roadmapping** keeps every team working to the same schedule.
 
 ### strategic
 - **IPA:** /strəˈtiːdʒɪk/
@@ -321,7 +321,7 @@
 ### action plan
 - **IPA:** /ˈækʃn plæn/
 - **Meaning 1 (n):** A detailed list of the steps needed to reach a goal, with owners and dates.
-  - *Example:* Each finding came with an **action plan** and a deadline.
+  - *Example:* Each finding came with an **action plan** and a [deadline](../toeic-600/01-contracts-and-agreements.md#13-deadline).
 
 ### strategic priority
 - **IPA:** /strəˌtiːdʒɪk praɪˈɒrəti/
@@ -331,12 +331,12 @@
 ### market position
 - **IPA:** /ˈmɑːkɪt pəˌzɪʃn/
 - **Meaning 1 (n):** The place a company holds in a market compared with its competitors.
-  - *Example:* The price cut strengthened its **market position** among students.
+  - *Example:* The price cut strengthened its **market position** among [students](30-education-and-training.md#student).
 
 ### barrier to entry
 - **IPA:** /ˌbæriə tu ˈentri/
 - **Meaning 1 (n):** Something that makes it hard for new companies to enter a market.
-  - *Example:* High equipment costs are a **barrier to entry** in the industry.
+  - *Example:* High [equipment](../toeic-600/05-office-procedures-and-equipment.md#26-equipment) costs are a **barrier to entry** in the industry.
 
 ### value chain
 - **IPA:** /ˈvæljuː tʃeɪn/
@@ -351,7 +351,7 @@
 ### strategic partnership
 - **IPA:** /strəˌtiːdʒɪk ˈpɑːtnəʃɪp/
 - **Meaning 1 (n):** A long-term agreement between companies to work together for mutual benefit.
-  - *Example:* A **strategic partnership** with a carrier secured cheaper freight.
+  - *Example:* A **strategic partnership** with a [carrier](../toeic-600/11-logistics-shipping-and-warehousing.md#5-carrier) secured cheaper [freight](../toeic-600/11-logistics-shipping-and-warehousing.md#2-freight).
 
 ### long-range plan
 - **IPA:** /ˌlɒŋ reɪndʒ ˈplæn/
@@ -381,7 +381,7 @@
 ### mission-critical
 - **IPA:** /ˌmɪʃn ˈkrɪtɪkl/
 - **Meaning 1 (adj):** Essential to the success or survival of an operation.
-  - *Example:* The booking system is **mission-critical**, so it has a full backup.
+  - *Example:* The [booking](../toeic-600/15-hotels-and-accommodation.md#16-booking) system is **mission-critical**, so it has a full backup.
 
 ### strategic goal
 - **IPA:** /strəˌtiːdʒɪk ˈɡəʊl/

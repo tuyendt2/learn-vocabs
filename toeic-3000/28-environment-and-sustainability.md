@@ -6,7 +6,7 @@
 ### sustainability
 - **IPA:** /səˌsteɪnəˈbɪləti/
 - **Meaning 1 (n):** The use of resources in a way that can continue without harming the future.
-  - *Example:* **Sustainability** is now part of every purchasing decision.
+  - *Example:* **Sustainability** is now part of every [purchasing](../toeic-600/09-sales-and-purchasing.md#1-purchase) decision.
 
 ### conservation
 - **IPA:** /ˌkɒnsəˈveɪʃn/
@@ -18,7 +18,7 @@
 ### biodiversity
 - **IPA:** /ˌbaɪəʊdaɪˈvɜːsəti/
 - **Meaning 1 (n):** The variety of plant and animal life in a place.
-  - *Example:* Clearing the forest sharply reduced local **biodiversity**.
+  - *Example:* [Clearing](12-banking-and-investment.md#clearing) the forest sharply reduced local **biodiversity**.
 
 ### ecosystem
 - **IPA:** /ˈiːkəʊsɪstəm/
@@ -58,7 +58,7 @@
 ### degradation
 - **IPA:** /ˌdeɡrəˈdeɪʃn/
 - **Meaning 1 (n):** The lowering of the quality or condition of the environment.
-  - *Example:* Years of pollution led to serious **degradation** of the river.
+  - *Example:* Years of [pollution](28-environment-and-sustainability.md#pollution) led to serious **degradation** of the river.
 
 ### pollution
 - **IPA:** /pəˈluːʃn/
@@ -78,7 +78,7 @@
 ### greenhouse gas
 - **IPA:** /ˈɡriːnhaʊs ɡæs/
 - **Meaning 1 (n):** A gas that traps heat in the atmosphere, such as carbon dioxide or methane.
-  - *Example:* Agriculture is a major source of **greenhouse gas**.
+  - *Example:* [Agriculture](20-agriculture-and-food-supply.md#agriculture) is a major source of **greenhouse gas**.
 
 ### carbon dioxide
 - **IPA:** /ˌkɑːbən daɪˈɒksaɪd/
@@ -88,12 +88,12 @@
 ### methane
 - **IPA:** /ˈmiːθeɪn/
 - **Meaning 1 (n):** A greenhouse gas released by livestock, landfill, and gas leaks.
-  - *Example:* Capturing **methane** from the landfill provides fuel for the site.
+  - *Example:* Capturing **methane** from the [landfill](28-environment-and-sustainability.md#landfill) provides fuel for the site.
 
 ### carbon footprint
 - **IPA:** /ˈkɑːbən ˌfʊtprɪnt/
 - **Meaning 1 (n):** The total amount of greenhouse gas caused by a person, product, or organisation.
-  - *Example:* Switching suppliers cut the product's **carbon footprint** in half.
+  - *Example:* Switching [suppliers](../toeic-600/09-sales-and-purchasing.md#2-supplier) cut the product's **carbon footprint** in half.
 
 ### carbon offset
 - **IPA:** /ˈkɑːbən ˌɒfset/
@@ -118,12 +118,12 @@
 ### global warming
 - **IPA:** /ˌɡləʊbl ˈwɔːmɪŋ/
 - **Meaning 1 (n):** The gradual rise in the earth's average temperature.
-  - *Example:* **Global warming** has pushed the growing season later into autumn.
+  - *Example:* **Global warming** has pushed the [growing season](20-agriculture-and-food-supply.md#growing-season) later into autumn.
 
 ### sea level
 - **IPA:** /ˈsiː levl/
 - **Meaning 1 (n):** The average height of the ocean's surface, used as a base for measuring land height.
-  - *Example:* Rising **sea level** threatens low-lying farmland.
+  - *Example:* Rising **sea level** threatens low-lying [farmland](20-agriculture-and-food-supply.md#farmland).
 
 ### glacier
 - **IPA:** /ˈɡlæsiə/
@@ -138,7 +138,7 @@
 ### renewable energy
 - **IPA:** /rɪˌnjuːəbl ˈenədʒi/
 - **Meaning 1 (n):** Energy from sources that are naturally replaced, such as sun, wind, and water.
-  - *Example:* **Renewable energy** now supplies most of the grid at midday.
+  - *Example:* **Renewable energy** now [supplies](../toeic-600/05-office-procedures-and-equipment.md#7-supplies) most of the grid at midday.
 
 ### recycling
 - **IPA:** /riːˈsaɪklɪŋ/
@@ -148,7 +148,7 @@
 ### upcycling
 - **IPA:** /ˈʌpsaɪklɪŋ/
 - **Meaning 1 (n):** Turning waste into products of higher quality or value than the original.
-  - *Example:* The workshop makes bags by **upcycling** old advertising banners.
+  - *Example:* The [workshop](../toeic-600/10-manufacturing-and-production.md#16-workshop) makes bags by **upcycling** old [advertising](24-advertising-pr-and-media.md#advertising) banners.
 
 ### compost
 - **IPA:** /ˈkɒmpɒst/
@@ -163,7 +163,7 @@
 ### incineration
 - **IPA:** /ɪnˌsɪnəˈreɪʃn/
 - **Meaning 1 (n):** The burning of waste, sometimes to produce energy.
-  - *Example:* **Incineration** reduces the volume of waste but releases emissions.
+  - *Example:* **Incineration** reduces the volume of waste but [releases](25-information-technology.md#release) [emissions](28-environment-and-sustainability.md#emissions).
 
 ### waste stream
 - **IPA:** /ˈweɪst striːm/
@@ -173,7 +173,7 @@
 ### single-use
 - **IPA:** /ˌsɪŋɡl ˈjuːs/
 - **Meaning 1 (adj):** Designed to be used once and then thrown away.
-  - *Example:* The café replaced **single-use** cups with a deposit scheme.
+  - *Example:* The café replaced **single-use** cups with a [deposit](../toeic-600/02-finance-and-banking.md#2-deposit) scheme.
 
 ### biodegradable
 - **IPA:** /ˌbaɪəʊdɪˈɡreɪdəbl/
@@ -183,12 +183,12 @@
 ### compostable
 - **IPA:** /kəmˈpɒstəbl/
 - **Meaning 1 (adj):** Able to break down into compost under the right conditions.
-  - *Example:* The **compostable** cutlery needs an industrial composting plant.
+  - *Example:* The **compostable** cutlery needs an industrial [composting](28-environment-and-sustainability.md#compost) plant.
 
 ### effluent
 - **IPA:** /ˈefluənt/
 - **Meaning 1 (n):** Liquid waste flowing out of a factory or sewage works.
-  - *Example:* The factory must treat its **effluent** before releasing it.
+  - *Example:* The factory must treat its **effluent** before [releasing](25-information-technology.md#release) it.
 
 ### runoff
 - **IPA:** /ˈrʌnɒf/
@@ -213,7 +213,7 @@
 ### desalination
 - **IPA:** /diːˌsælɪˈneɪʃn/
 - **Meaning 1 (n):** The removal of salt from seawater to make it drinkable.
-  - *Example:* A **desalination** plant now supplies a fifth of the coast's water.
+  - *Example:* A **desalination** plant now [supplies](../toeic-600/05-office-procedures-and-equipment.md#7-supplies) a fifth of the coast's water.
 
 ### air quality
 - **IPA:** /ˈeə ˌkwɒləti/
@@ -233,7 +233,7 @@
 ### ozone layer
 - **IPA:** /ˈəʊzəʊn ˌleɪə/
 - **Meaning 1 (n):** A layer of gas high in the atmosphere that blocks harmful rays from the sun.
-  - *Example:* Bans on certain chemicals helped the **ozone layer** recover.
+  - *Example:* Bans on certain chemicals helped the **ozone layer** [recover](../toeic-600/17-health-and-medical.md#12-recover).
 
 ### acid rain
 - **IPA:** /ˌæsɪd ˈreɪn/
@@ -283,7 +283,7 @@
 ### adaptation
 - **IPA:** /ˌædæpˈteɪʃn/
 - **Meaning 1 (n):** Changes made to cope with new conditions, especially a changing climate.
-  - *Example:* Flood defences are a form of climate **adaptation**.
+  - *Example:* Flood defences are a form of [climate](34-weather-climate-and-natural-events.md#climate) **adaptation**.
 
 ### resilience
 - **IPA:** /rɪˈzɪliəns/
@@ -293,22 +293,22 @@
 ### green procurement
 - **IPA:** /ˌɡriːn prəˈkjʊəmənt/
 - **Meaning 1 (n):** Buying goods and services chosen partly for their low environmental impact.
-  - *Example:* **Green procurement** rules favour suppliers with recycled packaging.
+  - *Example:* **Green procurement** rules favour [suppliers](../toeic-600/09-sales-and-purchasing.md#2-supplier) with recycled packaging.
 
 ### eco-label
 - **IPA:** /ˈiːkəʊ ˌleɪbl/
 - **Meaning 1 (n):** A mark on a product showing it meets certain environmental standards.
-  - *Example:* Shoppers look for the **eco-label** when choosing cleaning products.
+  - *Example:* [Shoppers](35-shopping-and-consumer-life.md#shopper) look for the **eco-label** when choosing cleaning products.
 
 ### emissions trading
 - **IPA:** /ɪˈmɪʃnz ˌtreɪdɪŋ/
 - **Meaning 1 (n):** A system where companies buy and sell permits to release a limited total of greenhouse gas.
-  - *Example:* Under **emissions trading**, cutting pollution lets a firm sell spare permits.
+  - *Example:* Under **emissions trading**, cutting [pollution](28-environment-and-sustainability.md#pollution) lets a firm sell spare permits.
 
 ### sustainability report
 - **IPA:** /səˌsteɪnəˈbɪləti rɪˌpɔːt/
 - **Meaning 1 (n):** A published account of a company's environmental and social performance.
-  - *Example:* The **sustainability report** listed water use, waste, and emissions.
+  - *Example:* The **sustainability report** listed water use, waste, and [emissions](28-environment-and-sustainability.md#emissions).
 
 ### resource depletion
 - **IPA:** /rɪˈsɔːs dɪˌpliːʃn/
@@ -323,7 +323,7 @@
 ### monoculture
 - **IPA:** /ˈmɒnəʊkʌltʃə/
 - **Meaning 1 (n):** The growing of a single crop over a large area, year after year.
-  - *Example:* **Monoculture** leaves fields open to a single pest wiping out the harvest.
+  - *Example:* **Monoculture** leaves fields open to a single pest wiping out the [harvest](20-agriculture-and-food-supply.md#harvest).
 
 ### permaculture
 - **IPA:** /ˈpɜːməkʌltʃə/
@@ -338,17 +338,17 @@
 ### eco-friendly
 - **IPA:** /ˈiːkəʊ ˌfrendli/
 - **Meaning 1 (adj):** Not harmful to the environment.
-  - *Example:* The hotel promotes its **eco-friendly** cleaning and towel policy.
+  - *Example:* The hotel [promotes](../toeic-600/08-marketing-and-advertising.md#7-promote) its **eco-friendly** cleaning and towel policy.
 
 ### greenhouse effect
 - **IPA:** /ˈɡriːnhaʊs ɪˌfekt/
 - **Meaning 1 (n):** The trapping of the sun's heat by gases in the atmosphere.
-  - *Example:* Extra carbon dioxide strengthens the **greenhouse effect**.
+  - *Example:* Extra [carbon dioxide](28-environment-and-sustainability.md#carbon-dioxide) strengthens the **greenhouse effect**.
 
 ### waste management
 - **IPA:** /ˈweɪst ˌmænɪdʒmənt/
 - **Meaning 1 (n):** The collection, treatment, and disposal of rubbish.
-  - *Example:* The town hired a new **waste management** contractor.
+  - *Example:* The town hired a new **waste management** [contractor](18-construction-and-building-trades.md#contractor).
 
 ### recyclable
 - **IPA:** /riːˈsaɪkləbl/
@@ -358,7 +358,7 @@
 ### environmental protection
 - **IPA:** /ɪnˌvaɪrənmentl prəˈtekʃn/
 - **Meaning 1 (n):** Action taken to prevent damage to the natural world.
-  - *Example:* A dedicated agency oversees **environmental protection**.
+  - *Example:* A dedicated agency [oversees](03-management-and-leadership.md#oversee) **environmental protection**.
 
 ### carbon tax
 - **IPA:** /ˈkɑːbən tæks/
@@ -368,7 +368,7 @@
 ### clean energy
 - **IPA:** /ˌkliːn ˈenədʒi/
 - **Meaning 1 (n):** Energy that produces little or no pollution or greenhouse gas.
-  - *Example:* The region attracts investment in **clean energy** projects.
+  - *Example:* The region attracts [investment](../toeic-600/02-finance-and-banking.md#14-investment) in **clean energy** projects.
 
 ### environmental footprint
 - **IPA:** /ɪnˌvaɪrənmentl ˈfʊtprɪnt/

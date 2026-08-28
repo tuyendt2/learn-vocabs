@@ -6,14 +6,14 @@
 ### taxation
 - **IPA:** /tækˈseɪʃn/
 - **Meaning 1 (n):** The system by which a government collects money from people and businesses.
-  - *Example:* Company **taxation** rules changed for the new financial year.
+  - *Example:* Company **taxation** rules changed for the new [financial year](13-accounting-and-auditing.md#financial-year).
 
 ### levy
 - **IPA:** /ˈlevi/
 - **Meaning 1 (n):** An amount of money charged by a government or authority.
-  - *Example:* A training **levy** on large employers funds apprenticeships.
+  - *Example:* A training **levy** on large employers funds [apprenticeships](01-career-and-professional-development.md#apprenticeship).
 - **Meaning 2 (v):** To officially impose and collect a tax or charge.
-  - *Example:* The council **levied** a small charge on single-use bags.
+  - *Example:* The [council](31-government-and-public-services.md#council) **levied** a small charge on [single-use](28-environment-and-sustainability.md#single-use) bags.
 
 ### excise
 - **IPA:** /ˈeksaɪz/
@@ -28,7 +28,7 @@
 ### corporate tax
 - **IPA:** /ˈkɔːpərət tæks/
 - **Meaning 1 (n):** A tax on the profits of a company.
-  - *Example:* A lower **corporate tax** rate attracted new head offices.
+  - *Example:* A lower **corporate tax** rate attracted new [head offices](02-company-organization-and-departments.md#head-office).
 
 ### value-added tax
 - **IPA:** /ˌvæljuː ædɪd ˈtæks/
@@ -43,17 +43,17 @@
 ### withholding tax
 - **IPA:** /wɪðˈhəʊldɪŋ tæks/
 - **Meaning 1 (n):** Tax deducted at source from a payment, such as interest or dividends, before it reaches the recipient.
-  - *Example:* A 15% **withholding tax** applied to the dividend paid abroad.
+  - *Example:* A 15% **withholding tax** applied to the [dividend](12-banking-and-investment.md#dividend) paid abroad.
 
 ### capital gains tax
 - **IPA:** /ˌkæpɪtl ˈɡeɪnz tæks/
 - **Meaning 1 (n):** A tax on the profit made when an asset is sold for more than its cost.
-  - *Example:* Selling the second property triggered **capital gains tax**.
+  - *Example:* Selling the second [property](../toeic-600/19-real-estate-and-property.md#1-property) [triggered](10-problem-solving-and-decision-making.md#trigger) **capital gains tax**.
 
 ### property tax
 - **IPA:** /ˈprɒpəti tæks/
 - **Meaning 1 (n):** A tax based on the value of land and buildings owned.
-  - *Example:* **Property tax** on the warehouse rose after the revaluation.
+  - *Example:* **Property tax** on the [warehouse](../toeic-600/11-logistics-shipping-and-warehousing.md#15-warehouse) rose after the revaluation.
 
 ### payroll tax
 - **IPA:** /ˈpeɪrəʊl tæks/
@@ -68,7 +68,7 @@
 ### taxable income
 - **IPA:** /ˌtæksəbl ˈɪnkʌm/
 - **Meaning 1 (n):** The part of a person's or company's income on which tax must be paid.
-  - *Example:* Pension contributions reduce your **taxable income**.
+  - *Example:* [Pension contributions](36-personal-finance-and-household-budget.md#pension-contribution) reduce your **taxable income**.
 
 ### tax return
 - **IPA:** /ˈtæks rɪˌtɜːn/
@@ -98,7 +98,7 @@
 ### relief
 - **IPA:** /rɪˈliːf/
 - **Meaning 1 (n):** A reduction in the amount of tax owed for a particular reason.
-  - *Example:* Investment in equipment qualifies for tax **relief**.
+  - *Example:* [Investment](../toeic-600/02-finance-and-banking.md#14-investment) in [equipment](../toeic-600/05-office-procedures-and-equipment.md#26-equipment) qualifies for tax **relief**.
 - **Meaning 2 (n):** A feeling of reassurance after worry or difficulty.
   - *Example:* It was a **relief** when the audit was over.
 
@@ -110,7 +110,7 @@
 ### tax assessment
 - **IPA:** /ˈtæks əˌsesmənt/
 - **Meaning 1 (n):** An official calculation of how much tax a person or company must pay.
-  - *Example:* They disputed the **tax assessment** and asked for a review.
+  - *Example:* They [disputed](../toeic-600/20-customer-service-and-complaints.md#28-dispute) the **tax assessment** and asked for a review.
 
 ### tax evasion
 - **IPA:** /ˈtæks ɪˌveɪʒn/
@@ -125,12 +125,12 @@
 ### loophole
 - **IPA:** /ˈluːphəʊl/
 - **Meaning 1 (n):** A gap in the wording of a law that lets people avoid its intent.
-  - *Example:* The budget closed a **loophole** used by property investors.
+  - *Example:* The budget closed a **loophole** used by [property](../toeic-600/19-real-estate-and-property.md#1-property) investors.
 
 ### shelter
 - **IPA:** /ˈʃeltə/
 - **Meaning 1 (n):** An arrangement that legally protects income or assets from tax.
-  - *Example:* Pensions act as a **shelter** for long-term savings.
+  - *Example:* [Pensions](../toeic-600/18-employee-benefits-and-insurance.md#7-pension) act as a **shelter** for [long-term](05-business-strategy-and-planning.md#long-term) [savings](36-personal-finance-and-household-budget.md#savings).
 - **Meaning 2 (v):** To protect income or money from taxation.
   - *Example:* The structure **shelters** overseas profits from local tax.
 
@@ -152,12 +152,12 @@
 ### transfer pricing
 - **IPA:** /ˈtrænsfɜː ˌpraɪsɪŋ/
 - **Meaning 1 (n):** The prices charged between parts of the same company in different countries, watched closely by tax authorities.
-  - *Example:* Regulators questioned the group's **transfer pricing** on software licences.
+  - *Example:* [Regulators](31-government-and-public-services.md#regulator) questioned the group's **transfer pricing** on [software](../toeic-600/13-technology-and-computers.md#1-software) [licences](01-career-and-professional-development.md#licence).
 
 ### declaration
 - **IPA:** /ˌdekləˈreɪʃn/
 - **Meaning 1 (n):** An official statement of income, goods, or facts to an authority.
-  - *Example:* Travellers must make a customs **declaration** for goods over the limit.
+  - *Example:* Travellers must make a [customs](../toeic-600/11-logistics-shipping-and-warehousing.md#13-customs) **declaration** for goods over the limit.
 
 ### self-assessment
 - **IPA:** /ˌself əˈsesmənt/
@@ -167,7 +167,7 @@
 ### surcharge
 - **IPA:** /ˈsɜːtʃɑːdʒ/
 - **Meaning 1 (n):** An extra charge added to the normal amount, often as a penalty.
-  - *Example:* A **surcharge** is added for returns filed after the deadline.
+  - *Example:* A **surcharge** is added for returns filed after the [deadline](../toeic-600/01-contracts-and-agreements.md#13-deadline).
 
 ### interest charge
 - **IPA:** /ˈɪntrəst tʃɑːdʒ/
@@ -192,12 +192,12 @@
 ### revenue authority
 - **IPA:** /ˈrevənjuː ɔːˌθɒrəti/
 - **Meaning 1 (n):** The government body responsible for collecting taxes.
-  - *Example:* The **revenue authority** opened an inquiry into the accounts.
+  - *Example:* The **revenue authority** opened an [inquiry](../toeic-600/07-correspondence-and-email.md#5-inquiry) into the accounts.
 
 ### inspector
 - **IPA:** /ɪnˈspektə/
 - **Meaning 1 (n):** An official who examines records or premises to check that rules are followed.
-  - *Example:* A tax **inspector** visited to review three years of invoices.
+  - *Example:* A tax **inspector** visited to review three years of [invoices](../toeic-600/09-sales-and-purchasing.md#6-invoice).
 
 ### holiday
 - **IPA:** /ˈhɒlədeɪ/
@@ -207,7 +207,7 @@
 ### zone
 - **IPA:** /zəʊn/
 - **Meaning 1 (n):** An area given special rules, such as reduced tax or fewer regulations.
-  - *Example:* Firms in the enterprise **zone** pay lower business rates.
+  - *Example:* Firms in the [enterprise](02-company-organization-and-departments.md#enterprise) **zone** pay lower business rates.
 
 ### flat rate
 - **IPA:** /ˌflæt ˈreɪt/
@@ -222,7 +222,7 @@
 ### regressive
 - **IPA:** /rɪˈɡresɪv/
 - **Meaning 1 (adj):** (of a tax) Taking a larger percentage from lower incomes.
-  - *Example:* Sales taxes are often called **regressive**.
+  - *Example:* [Sales taxes](15-taxation-and-regulation.md#sales-tax) are often called **regressive**.
 
 ### gross
 - **IPA:** /ɡrəʊs/
@@ -237,7 +237,7 @@
 ### deductible
 - **IPA:** /dɪˈdʌktəbl/
 - **Meaning 1 (adj):** Able to be subtracted from income before tax is calculated.
-  - *Example:* Business travel is **deductible**, but commuting is not.
+  - *Example:* Business travel is **deductible**, but [commuting](40-travel-commuting-and-getting-around.md#commute) is not.
 
 ### non-deductible
 - **IPA:** /ˌnɒn dɪˈdʌktəbl/
@@ -277,7 +277,7 @@
 ### fiscal drag
 - **IPA:** /ˌfɪskl ˈdræɡ/
 - **Meaning 1 (n):** The effect of inflation pushing incomes into higher tax bands when thresholds do not rise.
-  - *Example:* **Fiscal drag** raised the average tax bill without any change in rates.
+  - *Example:* **Fiscal drag** raised the [average](07-data-reports-and-analysis.md#average) tax bill without any change in rates.
 
 ### regulatory burden
 - **IPA:** /ˈreɡjələtri ˌbɜːdn/
@@ -297,12 +297,12 @@
 ### tax break
 - **IPA:** /ˈtæks breɪk/
 - **Meaning 1 (n):** A reduction in tax given to encourage a particular activity.
-  - *Example:* A **tax break** for research spending helped fund the lab.
+  - *Example:* A **tax break** for [research](27-science-and-research.md#research) [spending](35-shopping-and-consumer-life.md#spending) helped fund the lab.
 
 ### tax burden
 - **IPA:** /ˈtæks ˌbɜːdn/
 - **Meaning 1 (n):** The total amount of tax paid by a person, business, or country, relative to income.
-  - *Example:* The reforms shifted the **tax burden** from earnings to property.
+  - *Example:* The reforms shifted the **tax burden** from earnings to [property](../toeic-600/19-real-estate-and-property.md#1-property).
 
 ### tax cut
 - **IPA:** /ˈtæks kʌt/
@@ -322,52 +322,52 @@
 ### tax rate
 - **IPA:** /ˈtæks reɪt/
 - **Meaning 1 (n):** The percentage at which income or a transaction is taxed.
-  - *Example:* The standard **tax rate** on services is 20%.
+  - *Example:* The [standard](../toeic-600/12-quality-control-and-standards.md#3-standard) **tax rate** on services is 20%.
 
 ### marginal rate
 - **IPA:** /ˌmɑːdʒɪnl ˈreɪt/
 - **Meaning 1 (n):** The rate of tax paid on the next unit of income earned.
-  - *Example:* Above that threshold, the **marginal rate** jumps to 40%.
+  - *Example:* Above that [threshold](07-data-reports-and-analysis.md#threshold), the **marginal rate** jumps to 40%.
 
 ### effective rate
 - **IPA:** /ɪˌfektɪv ˈreɪt/
 - **Meaning 1 (n):** The average percentage of total income actually paid in tax.
-  - *Example:* Deductions brought the company's **effective rate** down to 14%.
+  - *Example:* [Deductions](../toeic-600/03-accounting-and-budgeting.md#18-deduction) brought the company's **effective rate** down to 14%.
 
 ### taxable
 - **IPA:** /ˈtæksəbl/
 - **Meaning 1 (adj):** Subject to tax.
-  - *Example:* Interest on the savings account is **taxable**.
+  - *Example:* Interest on the [savings account](36-personal-finance-and-household-budget.md#savings-account) is **taxable**.
 
 ### tax-exempt
 - **IPA:** /ˈtæks ɪɡˌzempt/
 - **Meaning 1 (adj):** Not required to be taxed.
-  - *Example:* Certain government bonds are **tax-exempt**.
+  - *Example:* Certain [government](31-government-and-public-services.md#government) bonds are **tax-exempt**.
 
 ### input tax
 - **IPA:** /ˈɪnpʊt tæks/
 - **Meaning 1 (n):** Value-added tax a business pays on its purchases, which it can usually reclaim.
-  - *Example:* The firm reclaimed the **input tax** on the new machinery.
+  - *Example:* The firm reclaimed the **input tax** on the new [machinery](../toeic-600/10-manufacturing-and-production.md#12-machinery).
 
 ### output tax
 - **IPA:** /ˈaʊtpʊt tæks/
 - **Meaning 1 (n):** Value-added tax a business charges on its sales and must pass to the authorities.
-  - *Example:* **Output tax** collected from customers is paid over each quarter.
+  - *Example:* **Output tax** collected from customers is paid over each [quarter](../toeic-600/03-accounting-and-budgeting.md#12-quarter).
 
 ### tax invoice
 - **IPA:** /ˈtæks ˌɪnvɔɪs/
 - **Meaning 1 (n):** An invoice that shows the tax charged and meets legal requirements for reclaiming it.
-  - *Example:* Keep the **tax invoice** to support the reclaim.
+  - *Example:* Keep the **tax invoice** to [support](04-teamwork-and-workplace-relationships.md#support) the reclaim.
 
 ### tax residency
 - **IPA:** /ˈtæks ˌrezɪdənsi/
 - **Meaning 1 (n):** The country whose tax rules apply to a person, based on where they live or work.
-  - *Example:* Spending more than 183 days there changed his **tax residency**.
+  - *Example:* [Spending](35-shopping-and-consumer-life.md#spending) more than 183 days there changed his **tax residency**.
 
 ### tax liability
 - **IPA:** /ˈtæks ˌlaɪəˈbɪləti/
 - **Meaning 1 (n):** The total amount of tax that a person or company owes.
-  - *Example:* Pension contributions cut her **tax liability** for the year.
+  - *Example:* [Pension contributions](36-personal-finance-and-household-budget.md#pension-contribution) cut her **tax liability** for the year.
 
 ### compliance cost
 - **IPA:** /kəmˈplaɪəns kɒst/

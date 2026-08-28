@@ -25,14 +25,14 @@
 ### deliverable
 - **IPA:** /dɪˈlɪvərəbl/
 - **Meaning 1 (n):** A specific item or result that a project must produce.
-  - *Example:* The first **deliverable** is a working prototype.
+  - *Example:* The first **deliverable** is a working [prototype](../toeic-600/10-manufacturing-and-production.md#23-prototype).
 
 ### phase
 - **IPA:** /feɪz/
 - **Meaning 1 (n):** A distinct stage in a process or project.
   - *Example:* Testing begins in the second **phase**.
 - **Meaning 2 (v):** To introduce or remove something gradually (*phase in / phase out*).
-  - *Example:* The old software will be **phased** out by June.
+  - *Example:* The old [software](../toeic-600/13-technology-and-computers.md#1-software) will be **phased** out by June.
 
 ### stage
 - **IPA:** /steɪdʒ/
@@ -44,7 +44,7 @@
 ### sprint
 - **IPA:** /sprɪnt/
 - **Meaning 1 (n):** A short, fixed period in which a team completes a set amount of work.
-  - *Example:* The feature was finished in a two-week **sprint**.
+  - *Example:* The [feature](32-media-news-and-publishing.md#feature) was finished in a two-week **sprint**.
 
 ### iteration
 - **IPA:** /ˌɪtəˈreɪʃn/
@@ -91,7 +91,7 @@
 ### bottleneck
 - **IPA:** /ˈbɒtlnek/
 - **Meaning 1 (n):** A point where progress slows because of limited capacity.
-  - *Example:* Approvals from one manager are the main **bottleneck**.
+  - *Example:* [Approvals](06-projects-and-deadlines.md#approval) from one manager are the main **bottleneck**.
 
 ### blocker
 - **IPA:** /ˈblɒkə/
@@ -160,12 +160,12 @@
 - **Meaning 1 (n):** An amount by which time or cost goes beyond the plan.
   - *Example:* The budget **overrun** reached 20%.
 - **Meaning 2 (v):** To continue beyond an expected time or limit.
-  - *Example:* The meeting **overran** by half an hour.
+  - *Example:* The [meeting](../toeic-600/06-meetings-and-presentations.md#1-meeting) **overran** by half an hour.
 
 ### delay
 - **IPA:** /dɪˈleɪ/
 - **Meaning 1 (n):** A period of time by which something is late.
-  - *Example:* A parts shortage caused a three-week **delay**.
+  - *Example:* A parts [shortage](11-economics-and-markets.md#shortage) caused a three-week **delay**.
 - **Meaning 2 (v):** To make something happen later than planned.
   - *Example:* Bad weather **delayed** the site work.
 
@@ -192,14 +192,14 @@
 ### progress
 - **IPA:** /ˈprəʊɡres/ (n) · /prəˈɡres/ (v)
 - **Meaning 1 (n):** Forward movement toward a goal.
-  - *Example:* We made good **progress** on the backlog this week.
+  - *Example:* We made good **progress** on the [backlog](06-projects-and-deadlines.md#backlog) this week.
 - **Meaning 2 (v):** To move forward or develop over time.
   - *Example:* The talks are **progressing** slowly.
 
 ### status update
 - **IPA:** /ˈsteɪtəs ˌʌpdeɪt/
 - **Meaning 1 (n):** A short report on the current state of a task or project.
-  - *Example:* Send a weekly **status update** to the [sponsor](#sponsor).
+  - *Example:* Send a weekly **status update** to the [sponsor](06-projects-and-deadlines.md#sponsor).
 
 ### checkpoint
 - **IPA:** /ˈtʃekpɔɪnt/
@@ -221,22 +221,22 @@
 ### approval
 - **IPA:** /əˈpruːvl/
 - **Meaning 1 (n):** Official agreement that allows something to happen.
-  - *Example:* Purchases over $1,000 need written **approval**.
+  - *Example:* [Purchases](../toeic-600/09-sales-and-purchasing.md#1-purchase) over $1,000 need written **approval**.
 
 ### escalation
 - **IPA:** /ˌeskəˈleɪʃn/
 - **Meaning 1 (n):** The act of passing a problem to a more senior person for a decision.
-  - *Example:* There is a clear **escalation** path for missed deadlines.
+  - *Example:* There is a clear **escalation** path for missed [deadlines](../toeic-600/01-contracts-and-agreements.md#13-deadline).
 
 ### risk register
 - **IPA:** /ˈrɪsk ˌredʒɪstə/
 - **Meaning 1 (n):** A document listing possible risks, their likelihood, and planned responses.
-  - *Example:* Supplier failure is the top item on the **risk register**.
+  - *Example:* [Supplier](../toeic-600/09-sales-and-purchasing.md#2-supplier) failure is the top item on the **risk register**.
 
 ### mitigation
 - **IPA:** /ˌmɪtɪˈɡeɪʃn/
 - **Meaning 1 (n):** Action taken to reduce the seriousness or likelihood of a problem.
-  - *Example:* As **mitigation**, we lined up a second supplier.
+  - *Example:* As **mitigation**, we lined up a second [supplier](../toeic-600/09-sales-and-purchasing.md#2-supplier).
 
 ### rework
 - **IPA:** /ˈriːwɜːk/
@@ -246,7 +246,7 @@
 ### backlog
 - **IPA:** /ˈbæklɒɡ/
 - **Meaning 1 (n):** A quantity of work that has built up and still needs to be done.
-  - *Example:* The support **backlog** grew during the holidays.
+  - *Example:* The [support](04-teamwork-and-workplace-relationships.md#support) **backlog** grew during the holidays.
 
 ### expedite
 - **IPA:** /ˈekspədaɪt/
@@ -261,12 +261,12 @@
 ### close out
 - **IPA:** /ˌkləʊz ˈaʊt/
 - **Meaning 1 (phr v):** To formally finish a project, settling all open items.
-  - *Example:* Finance can't **close out** the project until every invoice is paid.
+  - *Example:* Finance can't **close out** the project until every [invoice](../toeic-600/09-sales-and-purchasing.md#6-invoice) is paid.
 
 ### post-mortem
 - **IPA:** /ˌpəʊst ˈmɔːtəm/
 - **Meaning 1 (n):** A review after a project or event to analyse what happened and why.
-  - *Example:* The **post-mortem** found that the estimate was too optimistic.
+  - *Example:* The **post-mortem** found that the [estimate](07-data-reports-and-analysis.md#estimate) was too optimistic.
 
 ### lessons learned
 - **IPA:** /ˌlesnz ˈlɜːnd/
@@ -293,7 +293,7 @@
 ### monitor
 - **IPA:** /ˈmɒnɪtə/
 - **Meaning 1 (v):** To watch and check something over a period of time.
-  - *Example:* We **monitor** spending against the budget every week.
+  - *Example:* We **monitor** [spending](35-shopping-and-consumer-life.md#spending) against the budget every week.
 - **Meaning 2 (n):** A screen or device used to display or check information.
   - *Example:* Each desk has two **monitors**.
 
@@ -305,12 +305,12 @@
 ### project charter
 - **IPA:** /ˈprɒdʒekt ˌtʃɑːtə/
 - **Meaning 1 (n):** A short document that formally authorises a project and states its aims.
-  - *Example:* The **project charter** names the sponsor and the budget.
+  - *Example:* The **project charter** names the [sponsor](06-projects-and-deadlines.md#sponsor) and the budget.
 
 ### sponsor
 - **IPA:** /ˈspɒnsə/
 - **Meaning 1 (n):** The senior person who backs a project and is accountable for its success.
-  - *Example:* The **sponsor** approved extra funds after the review.
+  - *Example:* The **sponsor** [approved](03-management-and-leadership.md#approve) extra funds after the review.
 
 ### scope document
 - **IPA:** /ˈskəʊp ˌdɒkjumənt/
@@ -320,7 +320,7 @@
 ### punch list
 - **IPA:** /ˈpʌntʃ lɪst/
 - **Meaning 1 (n):** A list of small tasks or defects to be fixed before final acceptance.
-  - *Example:* The **punch list** had 14 minor items after the walkthrough.
+  - *Example:* The **punch list** had 14 minor items after the [walkthrough](06-projects-and-deadlines.md#walkthrough).
 
 ### project manager
 - **IPA:** /ˈprɒdʒekt ˌmænɪdʒə/
@@ -350,7 +350,7 @@
 ### ramp-up
 - **IPA:** /ˈræmp ʌp/
 - **Meaning 1 (n):** A period of gradually increasing activity or output.
-  - *Example:* The **ramp-up** to full production will take six weeks.
+  - *Example:* The **ramp-up** to full [production](../toeic-600/10-manufacturing-and-production.md#3-production) will take six weeks.
 
 ### time frame
 - **IPA:** /ˈtaɪm freɪm/
@@ -360,7 +360,7 @@
 ### target date
 - **IPA:** /ˈtɑːɡɪt deɪt/
 - **Meaning 1 (n):** The date by which something is aimed to be completed.
-  - *Example:* The **target date** for handover is 30 September.
+  - *Example:* The **target date** for [handover](06-projects-and-deadlines.md#handover) is 30 September.
 
 ### completion
 - **IPA:** /kəmˈpliːʃn/
@@ -385,7 +385,7 @@
 ### project lifecycle
 - **IPA:** /ˈprɒdʒekt ˌlaɪfsaɪkl/
 - **Meaning 1 (n):** The full series of stages a project passes through from start to close.
-  - *Example:* Quality checks happen at every point in the **project lifecycle**.
+  - *Example:* [Quality checks](../toeic-600/12-quality-control-and-standards.md#11-quality-check) happen at every point in the **project lifecycle**.
 
 ### project scope
 - **IPA:** /ˈprɒdʒekt skəʊp/
@@ -395,7 +395,7 @@
 ### deprioritize
 - **IPA:** /ˌdiːpraɪˈɒrətaɪz/
 - **Meaning 1 (v):** To treat something as less important than before.
-  - *Example:* We **deprioritized** the reporting feature to hit the launch date.
+  - *Example:* We **deprioritized** the reporting [feature](32-media-news-and-publishing.md#feature) to hit the launch date.
 
 ### change request
 - **IPA:** /ˈtʃeɪndʒ rɪˌkwest/

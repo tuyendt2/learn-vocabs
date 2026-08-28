@@ -13,12 +13,12 @@
 - **Meaning 1 (n):** A company that provides telephone or internet services.
   - *Example:* Three **operators** compete for mobile customers in the region.
 - **Meaning 2 (n):** A person who works a machine or a switchboard.
-  - *Example:* The **operator** connected the call to the right department.
+  - *Example:* The **operator** connected the call to the right [department](31-government-and-public-services.md#department).
 
 ### subscriber
 - **IPA:** /səbˈskraɪbə/
 - **Meaning 1 (n):** A person who pays regularly for a service such as phone, internet, or streaming.
-  - *Example:* The network added two million **subscribers** last year.
+  - *Example:* The [network](../toeic-600/13-technology-and-computers.md#5-network) added two million **subscribers** last year.
 
 ### handset
 - **IPA:** /ˈhændset/
@@ -53,12 +53,12 @@
 ### spectrum
 - **IPA:** /ˈspektrəm/
 - **Meaning 1 (n):** The range of radio frequencies available for wireless communication.
-  - *Example:* Operators paid billions for a slice of the **spectrum**.
+  - *Example:* [Operators](26-telecommunications-and-networks.md#operator) paid billions for a slice of the **spectrum**.
 
 ### frequency band
 - **IPA:** /ˈfriːkwənsi bænd/
 - **Meaning 1 (n):** A defined range of radio frequencies used for a particular purpose.
-  - *Example:* The new phones support an extra **frequency band** for faster data.
+  - *Example:* The new phones [support](04-teamwork-and-workplace-relationships.md#support) an extra **frequency band** for faster data.
 
 ### broadband
 - **IPA:** /ˈbrɔːdbænd/
@@ -68,12 +68,12 @@
 ### fibre-optic
 - **IPA:** /ˌfaɪbər ˈɒptɪk/
 - **Meaning 1 (adj):** Using thin glass strands to carry data as light, allowing very high speeds.
-  - *Example:* The office was upgraded to a **fibre-optic** line.
+  - *Example:* The office was [upgraded](../toeic-600/13-technology-and-computers.md#4-upgrade) to a **fibre-optic** line.
 
 ### copper line
 - **IPA:** /ˈkɒpə laɪn/
 - **Meaning 1 (n):** A traditional phone line made of copper wire, slower than fibre.
-  - *Example:* The old **copper line** could not deliver the speeds they needed.
+  - *Example:* The old **copper line** could not [deliver](06-projects-and-deadlines.md#deliver) the speeds they needed.
 
 ### leased line
 - **IPA:** /ˌliːst ˈlaɪn/
@@ -83,12 +83,12 @@
 ### dial-up
 - **IPA:** /ˈdaɪəl ʌp/
 - **Meaning 1 (n):** An old, slow internet connection made over a normal phone line.
-  - *Example:* Before broadband, they struggled with **dial-up**.
+  - *Example:* Before [broadband](26-telecommunications-and-networks.md#broadband), they struggled with **dial-up**.
 
 ### jitter
 - **IPA:** /ˈdʒɪtə/
 - **Meaning 1 (n):** Variation in the delay of data packets, which harms voice and video calls.
-  - *Example:* High **jitter** made the video call freeze and stutter.
+  - *Example:* High **jitter** made the [video call](26-telecommunications-and-networks.md#video-call) freeze and stutter.
 
 ### packet
 - **IPA:** /ˈpækɪt/
@@ -103,7 +103,7 @@
 ### router
 - **IPA:** /ˈruːtə/
 - **Meaning 1 (n):** A device that directs data between networks, such as between a home and the internet.
-  - *Example:* Restarting the **router** restored the connection.
+  - *Example:* Restarting the **router** restored the [connection](40-travel-commuting-and-getting-around.md#connection).
 
 ### switch
 - **IPA:** /swɪtʃ/
@@ -113,7 +113,7 @@
 ### modem
 - **IPA:** /ˈməʊdem/
 - **Meaning 1 (n):** A device that connects a local network to an internet service over phone or cable lines.
-  - *Example:* The provider sent a new **modem** for the fibre connection.
+  - *Example:* The provider sent a new **modem** for the fibre [connection](40-travel-commuting-and-getting-around.md#connection).
 
 ### gateway
 - **IPA:** /ˈɡeɪtweɪ/
@@ -133,7 +133,7 @@
 ### mesh network
 - **IPA:** /ˈmeʃ ˌnetwɜːk/
 - **Meaning 1 (n):** A network in which each node relays data, so there are many possible paths.
-  - *Example:* A **mesh network** of small units gave wifi to the whole warehouse.
+  - *Example:* A **mesh network** of small units gave wifi to the whole [warehouse](../toeic-600/11-logistics-shipping-and-warehousing.md#15-warehouse).
 
 ### backbone
 - **IPA:** /ˈbækbəʊn/
@@ -143,7 +143,7 @@
 ### uplink
 - **IPA:** /ˈʌplɪŋk/
 - **Meaning 1 (n):** The connection used to send data from a user or device to the network.
-  - *Example:* Video calls need a strong **uplink**, not just a fast download.
+  - *Example:* [Video calls](26-telecommunications-and-networks.md#video-call) need a strong **uplink**, not just a fast [download](../toeic-600/13-technology-and-computers.md#17-download).
 
 ### downlink
 - **IPA:** /ˈdaʊnlɪŋk/
@@ -163,12 +163,12 @@
 ### data plan
 - **IPA:** /ˈdeɪtə plæn/
 - **Meaning 1 (n):** A mobile contract that includes a set amount of internet data each month.
-  - *Example:* Streaming video used up her **data plan** in a week.
+  - *Example:* [Streaming](32-media-news-and-publishing.md#streaming) video used up her **data plan** in a week.
 
 ### data cap
 - **IPA:** /ˈdeɪtə kæp/
 - **Meaning 1 (n):** A limit on how much data can be used before charges or slowdowns apply.
-  - *Example:* Going over the **data cap** triggered an extra fee.
+  - *Example:* Going over the **data cap** [triggered](10-problem-solving-and-decision-making.md#trigger) an extra fee.
 
 ### throttling
 - **IPA:** /ˈθrɒtlɪŋ/
@@ -188,7 +188,7 @@
 ### SIM card
 - **IPA:** /ˈsɪm kɑːd/
 - **Meaning 1 (n):** A small card in a mobile phone that identifies the subscriber to the network.
-  - *Example:* He bought a local **SIM card** on arrival to avoid roaming fees.
+  - *Example:* He bought a local **SIM card** on [arrival](../toeic-600/14-travel-and-transportation.md#4-arrival) to avoid [roaming](26-telecommunications-and-networks.md#roaming) fees.
 
 ### prepaid
 - **IPA:** /ˌpriːˈpeɪd/
@@ -253,7 +253,7 @@
 ### switchboard
 - **IPA:** /ˈswɪtʃbɔːd/
 - **Meaning 1 (n):** The system that connects incoming calls to the right internal phone.
-  - *Example:* The **switchboard** was jammed with calls after the announcement.
+  - *Example:* The **switchboard** was jammed with calls after the [announcement](08-business-communication.md#announcement).
 
 ### PBX
 - **IPA:** /ˌpiː biː ˈeks/
@@ -268,7 +268,7 @@
 ### interconnection
 - **IPA:** /ˌɪntəkəˈnekʃn/
 - **Meaning 1 (n):** The linking of two networks so their users can communicate.
-  - *Example:* **Interconnection** fees are paid when a call crosses from one network to another.
+  - *Example:* **Interconnection** fees are paid when a call crosses from one [network](../toeic-600/13-technology-and-computers.md#5-network) to another.
 
 ### peering
 - **IPA:** /ˈpɪərɪŋ/
@@ -283,7 +283,7 @@
 ### network congestion
 - **IPA:** /ˈnetwɜːk kənˌdʒestʃən/
 - **Meaning 1 (n):** A slowdown caused by too much traffic for the network to carry.
-  - *Example:* Evening **network congestion** slowed downloads to a crawl.
+  - *Example:* Evening **network congestion** slowed [downloads](../toeic-600/13-technology-and-computers.md#17-download) to a crawl.
 
 ### quality of service
 - **IPA:** /ˌkwɒləti əv ˈsɜːvɪs/
@@ -318,17 +318,17 @@
 ### network carrier
 - **IPA:** /ˈnetwɜːk ˌkæriə/
 - **Meaning 1 (n):** A company that owns and operates a telecommunications network.
-  - *Example:* Smaller providers rent capacity from a large **network carrier**.
+  - *Example:* Smaller providers rent [capacity](06-projects-and-deadlines.md#capacity) from a large **network carrier**.
 
 ### telecoms
 - **IPA:** /ˈtelikɒmz/
 - **Meaning 1 (n):** The telecommunications industry, or its technology, for short.
-  - *Example:* She works in **telecoms**, selling network equipment.
+  - *Example:* She works in **telecoms**, selling [network](../toeic-600/13-technology-and-computers.md#5-network) [equipment](../toeic-600/05-office-procedures-and-equipment.md#26-equipment).
 
 ### mobile network
 - **IPA:** /ˈməʊbaɪl ˌnetwɜːk/
 - **Meaning 1 (n):** The system of towers and equipment that provides service to mobile phones.
-  - *Example:* The whole **mobile network** went down for two hours after the power cut.
+  - *Example:* The whole **mobile network** went down for two hours after the [power cut](19-energy-and-utilities.md#power-cut).
 
 ### signal
 - **IPA:** /ˈsɪɡnl/
@@ -338,7 +338,7 @@
 ### wireless
 - **IPA:** /ˈwaɪələs/
 - **Meaning 1 (adj):** Working without connecting cables, using radio waves instead.
-  - *Example:* The whole building is covered by a **wireless** network.
+  - *Example:* The whole building is covered by a **wireless** [network](../toeic-600/13-technology-and-computers.md#5-network).
 
 ### connectivity
 - **IPA:** /ˌkɒnekˈtɪvəti/
@@ -368,7 +368,7 @@
 ### network outage
 - **IPA:** /ˈnetwɜːk ˌaʊtɪdʒ/
 - **Meaning 1 (n):** A period when a network stops working and users lose service.
-  - *Example:* A software fault caused a nationwide **network outage**.
+  - *Example:* A [software](../toeic-600/13-technology-and-computers.md#1-software) fault caused a nationwide **network outage**.
 
 ### bit rate
 - **IPA:** /ˈbɪt reɪt/
@@ -378,4 +378,4 @@
 ### network provider
 - **IPA:** /ˈnetwɜːk prəˌvaɪdə/
 - **Meaning 1 (n):** A company that supplies phone or internet network services to customers.
-  - *Example:* Complaints about the **network provider** rose after the price increase.
+  - *Example:* [Complaints](../toeic-600/20-customer-service-and-complaints.md#1-complaint) about the **network provider** rose after the price increase.

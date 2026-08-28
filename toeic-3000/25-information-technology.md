@@ -6,21 +6,21 @@
 ### application
 - **IPA:** /ˌæplɪˈkeɪʃn/
 - **Meaning 1 (n):** A program designed to do a particular job for the user.
-  - *Example:* The finance team uses a single **application** for all invoicing.
+  - *Example:* The finance team uses a single **application** for all [invoicing](../toeic-600/09-sales-and-purchasing.md#6-invoice).
 - **Meaning 2 (n):** A formal request, for a job, place, or permission.
   - *Example:* Her **application** for the grant was successful.
 
-### platform
-- **IPA:** /ˈplætfɔːm/
+### software platform
+- **IPA:** /ˈsɒftweə ˌplætfɔːm/
 - **Meaning 1 (n):** The hardware or software environment on which programs run.
-  - *Example:* The app runs on both mobile **platforms**.
-- **Meaning 2 (n):** A service that connects groups of users, such as a marketplace or social network.
-  - *Example:* The company sells through its own online **platform**.
+  - *Example:* The app runs on both mobile **software platforms**.
+- **Meaning 2 (n):** An online service that connects groups of users, such as a marketplace or social network.
+  - *Example:* The company sells through its own **software platform**.
 
 ### operating system
 - **IPA:** /ˈɒpəreɪtɪŋ ˌsɪstəm/
 - **Meaning 1 (n):** The core software that manages a computer's hardware and other programs.
-  - *Example:* An **operating system** update fixed the battery problem.
+  - *Example:* An **operating system** update fixed the battery [problem](10-problem-solving-and-decision-making.md#problem).
 
 ### kernel
 - **IPA:** /ˈkɜːnl/
@@ -30,7 +30,7 @@
 ### driver
 - **IPA:** /ˈdraɪvə/
 - **Meaning 1 (n):** A small program that lets the operating system communicate with a device.
-  - *Example:* Installing the right printer **driver** solved the issue.
+  - *Example:* [Installing](../toeic-600/13-technology-and-computers.md#3-install) the right printer **driver** solved the issue.
 
 ### firmware
 - **IPA:** /ˈfɜːmweə/
@@ -40,7 +40,7 @@
 ### middleware
 - **IPA:** /ˈmɪdlweə/
 - **Meaning 1 (n):** Software that connects different applications or services so they can work together.
-  - *Example:* **Middleware** passes orders from the website to the warehouse system.
+  - *Example:* **Middleware** passes orders from the website to the [warehouse](../toeic-600/11-logistics-shipping-and-warehousing.md#15-warehouse) system.
 
 ### code library
 - **IPA:** /ˈkəʊd ˌlaɪbrəri/
@@ -127,7 +127,7 @@
 ### failover
 - **IPA:** /ˈfeɪləʊvə/
 - **Meaning 1 (n):** The automatic switch to a backup system when the main one fails.
-  - *Example:* **Failover** to the second data centre took eight seconds.
+  - *Example:* **Failover** to the second [data centre](25-information-technology.md#data-centre) took eight seconds.
 
 ### scalability
 - **IPA:** /ˌskeɪləˈbɪləti/
@@ -142,7 +142,7 @@
 ### cluster
 - **IPA:** /ˈklʌstə/
 - **Meaning 1 (n):** A group of computers working together as a single system.
-  - *Example:* The database runs on a three-node **cluster**.
+  - *Example:* The [database](../toeic-600/13-technology-and-computers.md#7-database) runs on a three-node **cluster**.
 
 ### node
 - **IPA:** /nəʊd/
@@ -152,17 +152,17 @@
 ### endpoint
 - **IPA:** /ˈendpɔɪnt/
 - **Meaning 1 (n):** A device or address at the end of a network connection, or a specific address in an API.
-  - *Example:* Each **endpoint** on the network must run the security agent.
+  - *Example:* Each **endpoint** on the [network](../toeic-600/13-technology-and-computers.md#5-network) must run the [security](12-banking-and-investment.md#security) agent.
 
 ### protocol
 - **IPA:** /ˈprəʊtəkɒl/
 - **Meaning 1 (n):** A set of rules that governs how data is exchanged between systems.
-  - *Example:* The devices communicate using a standard **protocol**.
+  - *Example:* The devices communicate using a [standard](../toeic-600/12-quality-control-and-standards.md#3-standard) **protocol**.
 
 ### API
 - **IPA:** /ˌeɪ piː ˈaɪ/
 - **Meaning 1 (n):** A defined way for one program to request data or services from another.
-  - *Example:* The shop connects to the courier through its **API**.
+  - *Example:* The shop connects to the [courier](../toeic-600/11-logistics-shipping-and-warehousing.md#18-courier) through its **API**.
 
 ### integration
 - **IPA:** /ˌɪntɪˈɡreɪʃn/
@@ -192,12 +192,12 @@
 ### hashing
 - **IPA:** /ˈhæʃɪŋ/
 - **Meaning 1 (n):** Converting data into a fixed-length code, often used to store passwords safely.
-  - *Example:* Passwords are kept only as a **hashing** result, never as plain text.
+  - *Example:* [Passwords](../toeic-600/13-technology-and-computers.md#11-password) are kept only as a **hashing** result, never as plain text.
 
 ### vulnerability
 - **IPA:** /ˌvʌlnərəˈbɪləti/
 - **Meaning 1 (n):** A weakness in a system that an attacker could use.
-  - *Example:* A researcher reported a **vulnerability** in the login page.
+  - *Example:* A [researcher](27-science-and-research.md#researcher) reported a **vulnerability** in the login page.
 
 ### exploit
 - **IPA:** /ˈeksplɔɪt/ (n) · /ɪkˈsplɔɪt/ (v)
@@ -229,7 +229,7 @@
 ### sandbox
 - **IPA:** /ˈsændbɒks/
 - **Meaning 1 (n):** An isolated area where code can run without affecting the rest of the system.
-  - *Example:* Suspicious attachments are opened in a **sandbox** first.
+  - *Example:* Suspicious [attachments](../toeic-600/07-correspondence-and-email.md#2-attachment) are opened in a **sandbox** first.
 
 ### firewall rule
 - **IPA:** /ˈfaɪəwɔːl ruːl/
@@ -244,7 +244,7 @@
 ### VPN
 - **IPA:** /ˌviː piː ˈen/
 - **Meaning 1 (n):** A virtual private network: an encrypted connection over the internet.
-  - *Example:* Remote staff connect to the office network through a **VPN**.
+  - *Example:* Remote staff connect to the office [network](../toeic-600/13-technology-and-computers.md#5-network) through a **VPN**.
 
 ### bandwidth cap
 - **IPA:** /ˈbændwɪdθ kæp/
@@ -254,7 +254,7 @@
 ### cache
 - **IPA:** /kæʃ/
 - **Meaning 1 (n):** A store of data kept close at hand so it can be served quickly.
-  - *Example:* Clearing the **cache** fixed the outdated prices on the page.
+  - *Example:* [Clearing](12-banking-and-investment.md#clearing) the **cache** fixed the outdated prices on the page.
 
 ### cookie
 - **IPA:** /ˈkʊki/
@@ -279,7 +279,7 @@
 ### schema
 - **IPA:** /ˈskiːmə/
 - **Meaning 1 (n):** The structure that defines how data is organised in a database.
-  - *Example:* A change to the **schema** required updating three applications.
+  - *Example:* A change to the **schema** required updating three [applications](25-information-technology.md#application).
 
 ### migration
 - **IPA:** /maɪˈɡreɪʃn/
@@ -289,12 +289,12 @@
 ### provisioning
 - **IPA:** /prəˈvɪʒənɪŋ/
 - **Meaning 1 (n):** The setting up of servers, accounts, or services ready for use.
-  - *Example:* Automated **provisioning** spins up a new server in minutes.
+  - *Example:* [Automated](../toeic-600/13-technology-and-computers.md#30-automate) **provisioning** spins up a new server in minutes.
 
 ### orchestration
 - **IPA:** /ˌɔːkɪˈstreɪʃn/
 - **Meaning 1 (n):** The automated coordination of many services or tasks so they run in the right order.
-  - *Example:* **Orchestration** software restarts failed services on its own.
+  - *Example:* **Orchestration** [software](../toeic-600/13-technology-and-computers.md#1-software) restarts failed services on its own.
 
 ### on-premises
 - **IPA:** /ˌɒn ˈpremɪsɪz/
@@ -304,12 +304,12 @@
 ### hybrid cloud
 - **IPA:** /ˈhaɪbrɪd klaʊd/
 - **Meaning 1 (n):** A setup that combines on-premises systems with public cloud services.
-  - *Example:* A **hybrid cloud** keeps core data in-house but bursts to the cloud at peak times.
+  - *Example:* A **hybrid cloud** keeps core data [in-house](02-company-organization-and-departments.md#in-house) but bursts to the cloud at peak times.
 
 ### SaaS
 - **IPA:** /sæs/
 - **Meaning 1 (n):** Software as a service: software used over the internet for a subscription.
-  - *Example:* The firm replaced its old install with a **SaaS** product.
+  - *Example:* The firm replaced its old [install](../toeic-600/13-technology-and-computers.md#3-install) with a **SaaS** product.
 
 ### incident response
 - **IPA:** /ˈɪnsɪdənt rɪˌspɒns/
@@ -319,7 +319,7 @@
 ### service level agreement
 - **IPA:** /ˈsɜːvɪs levl əˌɡriːmənt/
 - **Meaning 1 (n):** A contract stating the level of service a provider promises, such as uptime and response time.
-  - *Example:* The **service level agreement** guarantees 99.9% uptime.
+  - *Example:* The **service level agreement** [guarantees](../toeic-600/01-contracts-and-agreements.md#18-guarantee) 99.9% uptime.
 
 ### help desk ticket
 - **IPA:** /ˈhelp desk ˌtɪkɪt/
@@ -329,7 +329,7 @@
 ### root access
 - **IPA:** /ˈruːt ˌækses/
 - **Meaning 1 (n):** The highest level of control over a system, allowing any change.
-  - *Example:* Only two engineers have **root access** to the production servers.
+  - *Example:* Only two engineers have **root access** to the [production](../toeic-600/10-manufacturing-and-production.md#3-production) servers.
 
 ### back-end
 - **IPA:** /ˈbæk end/
@@ -344,7 +344,7 @@
 ### codebase
 - **IPA:** /ˈkəʊdbeɪs/
 - **Meaning 1 (n):** The whole collection of source code for a project.
-  - *Example:* New developers spend a week learning the **codebase**.
+  - *Example:* New [developers](18-construction-and-building-trades.md#developer) spend a week learning the **codebase**.
 
 ### continuous integration
 - **IPA:** /kənˌtɪnjuəs ˌɪntɪˈɡreɪʃn/
@@ -354,7 +354,7 @@
 ### staging environment
 - **IPA:** /ˈsteɪdʒɪŋ ɪnˌvaɪrənmənt/
 - **Meaning 1 (n):** A copy of the live system used to test changes before release.
-  - *Example:* The update passed every check in the **staging environment**.
+  - *Example:* The update passed every [check in](../toeic-600/14-travel-and-transportation.md#22-check-in) the **staging environment**.
 
 ### tech stack
 - **IPA:** /ˈtek stæk/

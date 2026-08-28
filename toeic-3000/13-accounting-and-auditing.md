@@ -6,12 +6,12 @@
 ### journal entry
 - **IPA:** /ˈdʒɜːnl ˌentri/
 - **Meaning 1 (n):** A record of a single financial transaction in the accounting books.
-  - *Example:* Each sale creates a **journal entry** for revenue and for cash.
+  - *Example:* Each sale creates a **journal entry** for [revenue](../toeic-600/02-finance-and-banking.md#19-revenue) and for cash.
 
 ### accounts payable
 - **IPA:** /əˌkaʊnts ˈpeɪəbl/
 - **Meaning 1 (n):** Money a company owes to its suppliers for goods or services received.
-  - *Example:* **Accounts payable** rose as the firm delayed paying invoices.
+  - *Example:* **Accounts payable** rose as the firm delayed paying [invoices](../toeic-600/09-sales-and-purchasing.md#6-invoice).
 
 ### accounts receivable
 - **IPA:** /əˌkaʊnts rɪˈsiːvəbl/
@@ -26,27 +26,27 @@
 ### prepayment
 - **IPA:** /ˌpriːˈpeɪmənt/
 - **Meaning 1 (n):** A payment made in advance for goods or services to be received later.
-  - *Example:* The annual insurance is treated as a **prepayment** and spread over 12 months.
+  - *Example:* The annual [insurance](../toeic-600/17-health-and-medical.md#9-insurance) is treated as a **prepayment** and spread over 12 months.
 
 ### provision
 - **IPA:** /prəˈvɪʒn/
 - **Meaning 1 (n):** An amount set aside in the accounts for a likely future cost or loss.
-  - *Example:* The company made a **provision** for warranty claims.
+  - *Example:* The company made a **provision** for [warranty claims](../toeic-600/09-sales-and-purchasing.md#28-warranty-claim).
 
 ### write-down
 - **IPA:** /ˈraɪt daʊn/
 - **Meaning 1 (n):** A reduction in the recorded value of an asset.
-  - *Example:* A **write-down** of the old machinery cut reported profit.
+  - *Example:* A **write-down** of the old [machinery](../toeic-600/10-manufacturing-and-production.md#12-machinery) cut reported profit.
 
 ### impairment
 - **IPA:** /ɪmˈpeəmənt/
 - **Meaning 1 (n):** A permanent fall in the value of an asset below its recorded amount.
-  - *Example:* The firm took a $30 million **impairment** on the failed acquisition.
+  - *Example:* The firm took a $30 million **impairment** on the failed [acquisition](02-company-organization-and-departments.md#acquisition).
 
 ### amortization
 - **IPA:** /əˌmɔːtaɪˈzeɪʃn/
 - **Meaning 1 (n):** The spreading of the cost of an intangible asset over its useful life.
-  - *Example:* **Amortization** of the software licence runs over five years.
+  - *Example:* **Amortization** of the [software](../toeic-600/13-technology-and-computers.md#1-software) [licence](01-career-and-professional-development.md#licence) runs over five years.
 
 ### capital expenditure
 - **IPA:** /ˌkæpɪtl ɪkˈspendɪtʃə/
@@ -61,12 +61,12 @@
 ### cost of goods sold
 - **IPA:** /ˌkɒst əv ɡʊdz ˈsəʊld/
 - **Meaning 1 (n):** The direct cost of producing the goods a company has sold.
-  - *Example:* A cheaper supplier reduced the **cost of goods sold**.
+  - *Example:* A cheaper [supplier](../toeic-600/09-sales-and-purchasing.md#2-supplier) reduced the **cost of goods sold**.
 
 ### gross margin
 - **IPA:** /ˌɡrəʊs ˈmɑːdʒɪn/
 - **Meaning 1 (n):** Sales revenue minus the cost of goods sold, as a percentage of sales.
-  - *Example:* The **gross margin** on accessories is far higher than on hardware.
+  - *Example:* The **gross margin** on accessories is far higher than on [hardware](../toeic-600/13-technology-and-computers.md#2-hardware).
 
 ### net margin
 - **IPA:** /ˌnet ˈmɑːdʒɪn/
@@ -81,7 +81,7 @@
 ### retained earnings
 - **IPA:** /rɪˌteɪnd ˈɜːnɪŋz/
 - **Meaning 1 (n):** Profits kept in the business rather than paid out as dividends.
-  - *Example:* The expansion was funded from **retained earnings**.
+  - *Example:* The [expansion](05-business-strategy-and-planning.md#expansion) was funded from **retained earnings**.
 
 ### working capital
 - **IPA:** /ˌwɜːkɪŋ ˈkæpɪtl/
@@ -91,7 +91,7 @@
 ### current asset
 - **IPA:** /ˌkʌrənt ˈæset/
 - **Meaning 1 (n):** An asset expected to be turned into cash within a year, such as stock or debtors.
-  - *Example:* Cash and inventory are the firm's main **current assets**.
+  - *Example:* Cash and [inventory](../toeic-600/09-sales-and-purchasing.md#15-inventory) are the firm's main **current assets**.
 
 ### fixed asset
 - **IPA:** /ˌfɪkst ˈæset/
@@ -106,22 +106,22 @@
 ### provision for tax
 - **IPA:** /prəˌvɪʒn fə ˈtæks/
 - **Meaning 1 (n):** An amount set aside in the accounts to cover expected tax owed.
-  - *Example:* The **provision for tax** was based on the year's estimated profit.
+  - *Example:* The **provision for tax** was based on the year's [estimated](07-data-reports-and-analysis.md#estimate) profit.
 
 ### reconciliation
 - **IPA:** /ˌrekənsɪliˈeɪʃn/
 - **Meaning 1 (n):** The process of checking that two sets of records agree.
-  - *Example:* The monthly bank **reconciliation** found a missing deposit.
+  - *Example:* The monthly bank **reconciliation** found a missing [deposit](../toeic-600/02-finance-and-banking.md#2-deposit).
 
 ### general ledger
 - **IPA:** /ˌdʒenrəl ˈledʒə/
 - **Meaning 1 (n):** The main accounting record containing all of a company's accounts.
-  - *Example:* Every transaction ends up posted to the **general ledger**.
+  - *Example:* Every [transaction](../toeic-600/02-finance-and-banking.md#10-transaction) ends up posted to the **general ledger**.
 
 ### chart of accounts
 - **IPA:** /ˌtʃɑːt əv əˈkaʊnts/
 - **Meaning 1 (n):** The full list of accounts a company uses to record transactions.
-  - *Example:* A new **chart of accounts** made department reporting easier.
+  - *Example:* A new **chart of accounts** made [department](31-government-and-public-services.md#department) reporting easier.
 
 ### fiscal period
 - **IPA:** /ˈfɪskl ˌpɪəriəd/
@@ -131,7 +131,7 @@
 ### closing entry
 - **IPA:** /ˈkləʊzɪŋ ˌentri/
 - **Meaning 1 (n):** A journal entry made at the end of a period to transfer balances and reset accounts.
-  - *Example:* **Closing entries** move the year's profit into retained earnings.
+  - *Example:* **Closing entries** move the year's profit into [retained earnings](13-accounting-and-auditing.md#retained-earnings).
 
 ### audit trail
 - **IPA:** /ˈɔːdɪt treɪl/
@@ -141,7 +141,7 @@
 ### internal control
 - **IPA:** /ɪnˌtɜːnl kənˈtrəʊl/
 - **Meaning 1 (n):** A procedure inside a company designed to prevent errors and fraud.
-  - *Example:* Requiring two signatures is a basic **internal control**.
+  - *Example:* Requiring two [signatures](../toeic-600/01-contracts-and-agreements.md#12-signature) is a basic **internal control**.
 
 ### external auditor
 - **IPA:** /ɪkˌstɜːnl ˈɔːdɪtə/
@@ -151,12 +151,12 @@
 ### statutory audit
 - **IPA:** /ˌstætʃətri ˈɔːdɪt/
 - **Meaning 1 (n):** An audit required by law for certain companies each year.
-  - *Example:* The **statutory audit** must be completed within six months of year-end.
+  - *Example:* The **statutory audit** must be completed within six months of [year-end](13-accounting-and-auditing.md#year-end).
 
 ### materiality
 - **IPA:** /məˌtɪəriˈæləti/
 - **Meaning 1 (n):** The idea that an error matters only if it could affect users' decisions.
-  - *Example:* A $50 mistake is below the **materiality** threshold.
+  - *Example:* A $50 mistake is below the **materiality** [threshold](07-data-reports-and-analysis.md#threshold).
 
 ### going concern
 - **IPA:** /ˌɡəʊɪŋ kənˈsɜːn/
@@ -186,7 +186,7 @@
 ### cost centre
 - **IPA:** /ˈkɒst ˌsentə/
 - **Meaning 1 (n):** A part of a business to which costs can be charged but which does not earn revenue.
-  - *Example:* The IT department is run as a **cost centre**.
+  - *Example:* The IT [department](31-government-and-public-services.md#department) is run as a **cost centre**.
 
 ### profit centre
 - **IPA:** /ˈprɒfɪt ˌsentə/
@@ -211,7 +211,7 @@
 ### marginal cost
 - **IPA:** /ˌmɑːdʒɪnl ˈkɒst/
 - **Meaning 1 (n):** The cost of producing one more unit of a good or service.
-  - *Example:* Once the software is built, the **marginal cost** of another copy is tiny.
+  - *Example:* Once the [software](../toeic-600/13-technology-and-computers.md#1-software) is built, the **marginal cost** of another copy is tiny.
 
 ### contribution margin
 - **IPA:** /ˌkɒntrɪˈbjuːʃn ˌmɑːdʒɪn/
@@ -226,22 +226,22 @@
 ### cash equivalent
 - **IPA:** /ˈkæʃ ɪˌkwɪvələnt/
 - **Meaning 1 (n):** A very safe, short-term investment that can quickly be turned into a known amount of cash.
-  - *Example:* Money-market funds are treated as **cash equivalents** on the balance sheet.
+  - *Example:* Money-market funds are treated as **cash equivalents** on the [balance sheet](../toeic-600/03-accounting-and-budgeting.md#6-balance-sheet).
 
 ### petty cash
 - **IPA:** /ˌpeti ˈkæʃ/
 - **Meaning 1 (n):** A small amount of cash kept for minor everyday expenses.
-  - *Example:* She took the taxi fare from **petty cash** and kept the receipt.
+  - *Example:* She took the taxi fare from **petty cash** and kept the [receipt](../toeic-600/03-accounting-and-budgeting.md#5-receipt).
 
 ### expense claim
 - **IPA:** /ɪkˈspens kleɪm/
 - **Meaning 1 (n):** A request by an employee to be repaid money spent on the company's behalf.
-  - *Example:* Submit the **expense claim** with all receipts attached.
+  - *Example:* Submit the **expense claim** with all [receipts](../toeic-600/03-accounting-and-budgeting.md#5-receipt) attached.
 
 ### invoice matching
 - **IPA:** /ˈɪnvɔɪs ˌmætʃɪŋ/
 - **Meaning 1 (n):** Checking that an invoice agrees with the purchase order and the goods received.
-  - *Example:* **Invoice matching** caught a supplier overcharge.
+  - *Example:* **Invoice matching** caught a [supplier](../toeic-600/09-sales-and-purchasing.md#2-supplier) overcharge.
 
 ### aged debtors
 - **IPA:** /ˌeɪdʒd ˈdetəz/
@@ -256,7 +256,7 @@
 ### loss provisioning
 - **IPA:** /ˈlɒs prəˌvɪʒənɪŋ/
 - **Meaning 1 (n):** The act of setting aside amounts in the accounts for expected future losses.
-  - *Example:* Higher **loss provisioning** for bad debts cut the bank's profit.
+  - *Example:* Higher **loss provisioning** for [bad debts](13-accounting-and-auditing.md#bad-debt) cut the bank's profit.
 
 ### capitalize
 - **IPA:** /ˈkæpɪtəlaɪz/
@@ -271,7 +271,7 @@
 ### financial statement
 - **IPA:** /faɪˌnænʃl ˈsteɪtmənt/
 - **Meaning 1 (n):** A formal record of a company's financial activities, such as the balance sheet or income statement.
-  - *Example:* The annual report contains three main **financial statements**.
+  - *Example:* The [annual report](07-data-reports-and-analysis.md#annual-report) contains three main **financial statements**.
 
 ### balance carried forward
 - **IPA:** /ˌbæləns ˌkærid ˈfɔːwəd/
@@ -286,12 +286,12 @@
 ### sundry
 - **IPA:** /ˈsʌndri/
 - **Meaning 1 (adj):** Various small items not important enough to be listed separately.
-  - *Example:* Postage and small fees are recorded under **sundry** expenses.
+  - *Example:* Postage and small fees are recorded under **sundry** [expenses](../toeic-600/02-finance-and-banking.md#20-expense).
 
 ### remittance advice
 - **IPA:** /rɪˈmɪtəns ədˌvaɪs/
 - **Meaning 1 (n):** A note sent with or before a payment saying which invoices it covers.
-  - *Example:* The **remittance advice** listed the six invoices being paid.
+  - *Example:* The **remittance advice** listed the six [invoices](../toeic-600/09-sales-and-purchasing.md#6-invoice) being paid.
 
 ### credit note
 - **IPA:** /ˈkredɪt nəʊt/
@@ -301,22 +301,22 @@
 ### debit note
 - **IPA:** /ˈdebɪt nəʊt/
 - **Meaning 1 (n):** A document showing that an additional amount is owed, often for an undercharge.
-  - *Example:* The supplier sent a **debit note** for the freight left off the invoice.
+  - *Example:* The [supplier](../toeic-600/09-sales-and-purchasing.md#2-supplier) sent a **debit note** for the [freight](../toeic-600/11-logistics-shipping-and-warehousing.md#2-freight) left off the [invoice](../toeic-600/09-sales-and-purchasing.md#6-invoice).
 
 ### double-entry
 - **IPA:** /ˌdʌbl ˈentri/
 - **Meaning 1 (adj):** Describing the bookkeeping system in which every transaction is recorded in two accounts.
-  - *Example:* In **double-entry** bookkeeping, debits must always equal credits.
+  - *Example:* In **double-entry** [bookkeeping](../toeic-600/03-accounting-and-budgeting.md#27-bookkeeping), debits must always equal credits.
 
 ### deferred revenue
 - **IPA:** /dɪˌfɜːd ˈrevənjuː/
 - **Meaning 1 (n):** Money received for goods or services not yet delivered, shown as a liability.
-  - *Example:* Annual subscriptions are booked as **deferred revenue** and released monthly.
+  - *Example:* Annual [subscriptions](32-media-news-and-publishing.md#subscription) are booked as **deferred revenue** and [released](25-information-technology.md#release) monthly.
 
 ### prepaid expense
 - **IPA:** /ˌpriːpeɪd ɪkˈspens/
 - **Meaning 1 (n):** A cost paid in advance and recorded as an asset until it is used.
-  - *Example:* Rent paid for next quarter sits as a **prepaid expense**.
+  - *Example:* Rent paid for next [quarter](../toeic-600/03-accounting-and-budgeting.md#12-quarter) sits as a **prepaid expense**.
 
 ### cost accounting
 - **IPA:** /ˈkɒst əˌkaʊntɪŋ/
@@ -326,7 +326,7 @@
 ### management accounts
 - **IPA:** /ˈmænɪdʒmənt əˌkaʊnts/
 - **Meaning 1 (n):** Internal financial reports prepared for managers, usually monthly.
-  - *Example:* The **management accounts** are reviewed at the first meeting of each month.
+  - *Example:* The **management accounts** are reviewed at the first [meeting](../toeic-600/06-meetings-and-presentations.md#1-meeting) of each month.
 
 ### year-end
 - **IPA:** /ˌjɪər ˈend/
@@ -336,7 +336,7 @@
 ### audit opinion
 - **IPA:** /ˈɔːdɪt əˌpɪnjən/
 - **Meaning 1 (n):** The auditor's formal conclusion about whether the accounts are true and fair.
-  - *Example:* The **audit opinion** appears at the front of the financial statements.
+  - *Example:* The **audit opinion** appears at the front of the [financial statements](13-accounting-and-auditing.md#financial-statement).
 
 ### test of controls
 - **IPA:** /ˌtest əv kənˈtrəʊlz/
@@ -351,7 +351,7 @@
 ### accounting period
 - **IPA:** /əˈkaʊntɪŋ ˌpɪəriəd/
 - **Meaning 1 (n):** The span of time covered by a set of financial statements.
-  - *Example:* Revenue must be recorded in the **accounting period** in which it is earned.
+  - *Example:* [Revenue](../toeic-600/02-finance-and-banking.md#19-revenue) must be recorded in the **accounting period** in which it is earned.
 
 ### accrued expense
 - **IPA:** /əˌkruːd ɪkˈspens/
@@ -371,9 +371,9 @@
 ### accounting standard
 - **IPA:** /əˈkaʊntɪŋ ˌstændəd/
 - **Meaning 1 (n):** An official rule governing how particular transactions must be recorded and reported.
-  - *Example:* A new **accounting standard** changed how leases appear on the balance sheet.
+  - *Example:* A new **accounting standard** changed how leases appear on the [balance sheet](../toeic-600/03-accounting-and-budgeting.md#6-balance-sheet).
 
 ### audit finding
 - **IPA:** /ˈɔːdɪt ˌfaɪndɪŋ/
 - **Meaning 1 (n):** An issue or weakness identified during an audit.
-  - *Example:* Each **audit finding** came with a recommendation and a deadline.
+  - *Example:* Each **audit finding** came with a recommendation and a [deadline](../toeic-600/01-contracts-and-agreements.md#13-deadline).

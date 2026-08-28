@@ -6,17 +6,17 @@
 ### tourism
 - **IPA:** /ˈtʊərɪzəm/
 - **Meaning 1 (n):** The business of providing services for people who travel for pleasure.
-  - *Example:* **Tourism** brings in a quarter of the island's income.
+  - *Example:* **Tourism** brings in a [quarter](../toeic-600/03-accounting-and-budgeting.md#12-quarter) of the island's income.
 
 ### inbound
 - **IPA:** /ˈɪnbaʊnd/
 - **Meaning 1 (adj):** Relating to travellers coming into a country or area.
-  - *Example:* **Inbound** tourism recovered strongly after the border reopened.
+  - *Example:* **Inbound** [tourism](23-hospitality-and-tourism-industry.md#tourism) [recovered](../toeic-600/17-health-and-medical.md#12-recover) strongly after the border reopened.
 
 ### outbound
 - **IPA:** /ˈaʊtbaʊnd/
 - **Meaning 1 (adj):** Relating to travellers leaving a country or area to visit somewhere else.
-  - *Example:* A weaker currency cut **outbound** travel by locals.
+  - *Example:* A weaker [currency](../toeic-600/02-finance-and-banking.md#12-currency) cut **outbound** travel by locals.
 
 ### resort
 - **IPA:** /rɪˈzɔːt/
@@ -76,7 +76,7 @@
 ### tour operator
 - **IPA:** /ˈtʊə ˌɒpəreɪtə/
 - **Meaning 1 (n):** A company that plans and sells holidays, often combining several services.
-  - *Example:* The **tour operator** chartered its own flights for the summer.
+  - *Example:* The **tour operator** [chartered](02-company-organization-and-departments.md#charter) its own flights for the summer.
 
 ### travel agency
 - **IPA:** /ˈtrævl ˌeɪdʒənsi/
@@ -96,7 +96,7 @@
 ### average daily rate
 - **IPA:** /ˌævərɪdʒ ˌdeɪli ˈreɪt/
 - **Meaning 1 (n):** The average price paid for a hotel room per night over a period.
-  - *Example:* The **average daily rate** rose during the festival.
+  - *Example:* The **average daily rate** rose during the [festival](33-arts-culture-and-entertainment.md#festival).
 
 ### revenue per available room
 - **IPA:** /ˌrevənjuː pər əˌveɪləbl ˈruːm/
@@ -131,7 +131,7 @@
 ### room block
 - **IPA:** /ˈruːm blɒk/
 - **Meaning 1 (n):** A group of rooms reserved together, often for a conference or wedding.
-  - *Example:* The organisers held a **room block** of 80 rooms for delegates.
+  - *Example:* The organisers held a **room block** of 80 rooms for [delegates](../toeic-600/04-human-resources-and-recruitment.md#26-delegate).
 
 ### group rate
 - **IPA:** /ˈɡruːp reɪt/
@@ -201,12 +201,12 @@
 ### guest experience
 - **IPA:** /ˈɡest ɪkˌspɪəriəns/
 - **Meaning 1 (n):** The overall impression a visitor forms from every contact with a hotel or venue.
-  - *Example:* Staff training focuses on the whole **guest experience**, not just check-in.
+  - *Example:* Staff training focuses on the whole **guest experience**, not just [check-in](03-management-and-leadership.md#check-in).
 
 ### loyalty tier
 - **IPA:** /ˈlɔɪəlti tɪə/
 - **Meaning 1 (n):** A level in a rewards programme that gives more benefits as members spend more.
-  - *Example:* At the top **loyalty tier**, guests get free upgrades and late checkout.
+  - *Example:* At the top **loyalty tier**, guests get free [upgrades](../toeic-600/13-technology-and-computers.md#4-upgrade) and late [checkout](16-retail-and-store-operations.md#checkout).
 
 ### upgrade voucher
 - **IPA:** /ˈʌpɡreɪd ˌvaʊtʃə/
@@ -226,7 +226,7 @@
 ### hospitality suite
 - **IPA:** /ˌhɒspɪˈtæləti swiːt/
 - **Meaning 1 (n):** A private room at an event or hotel used to entertain guests or clients.
-  - *Example:* The sponsor booked a **hospitality suite** overlooking the pitch.
+  - *Example:* The [sponsor](06-projects-and-deadlines.md#sponsor) booked a **hospitality suite** overlooking the pitch.
 
 ### visitor centre
 - **IPA:** /ˈvɪzɪtə ˌsentə/
@@ -241,7 +241,7 @@
 ### heritage site
 - **IPA:** /ˈherɪtɪdʒ saɪt/
 - **Meaning 1 (n):** A place of historical or cultural importance that is protected.
-  - *Example:* The old harbour is a protected **heritage site**.
+  - *Example:* The old [harbour](21-transportation-and-shipping.md#harbour) is a protected **heritage site**.
 
 ### ecotourism
 - **IPA:** /ˈiːkəʊtʊərɪzəm/
@@ -261,7 +261,7 @@
 ### travel advisory
 - **IPA:** /ˈtrævl ədˌvaɪzəri/
 - **Meaning 1 (n):** An official warning about the safety of visiting a particular place.
-  - *Example:* A **travel advisory** after the storm cut bookings for weeks.
+  - *Example:* A **travel advisory** after the storm cut [bookings](../toeic-600/15-hotels-and-accommodation.md#16-booking) for weeks.
 
 ### visa on arrival
 - **IPA:** /ˌviːzə ɒn əˈraɪvl/
@@ -276,7 +276,7 @@
 ### tourist board
 - **IPA:** /ˈtʊərɪst bɔːd/
 - **Meaning 1 (n):** An official body that promotes travel to a country or region.
-  - *Example:* The national **tourist board** ran a campaign to attract winter visitors.
+  - *Example:* The national **tourist board** ran a [campaign](../toeic-600/08-marketing-and-advertising.md#3-campaign) to attract winter visitors.
 
 ### hospitality management
 - **IPA:** /ˌhɒspɪˈtæləti ˌmænɪdʒmənt/
@@ -316,7 +316,7 @@
 ### reception team
 - **IPA:** /rɪˈsepʃn tiːm/
 - **Meaning 1 (n):** The staff who check guests in and out and handle their requests at the front desk.
-  - *Example:* The **reception team** is trained to solve most problems on the spot.
+  - *Example:* The **reception team** is trained to solve most [problems](10-problem-solving-and-decision-making.md#problem) on the spot.
 
 ### tour bus
 - **IPA:** /ˈtʊə bʌs/
@@ -336,7 +336,7 @@
 ### hospitality staff
 - **IPA:** /ˌhɒspɪˈtæləti stɑːf/
 - **Meaning 1 (n):** Workers who serve guests in hotels, restaurants, and event venues.
-  - *Example:* A shortage of **hospitality staff** forced some hotels to close floors.
+  - *Example:* A [shortage](11-economics-and-markets.md#shortage) of **hospitality staff** forced some hotels to close floors.
 
 ### guided tour
 - **IPA:** /ˌɡaɪdɪd ˈtʊə/
@@ -356,7 +356,7 @@
 ### room occupancy
 - **IPA:** /ˈruːm ˌɒkjəpənsi/
 - **Meaning 1 (n):** The proportion of a hotel's rooms that are booked and used.
-  - *Example:* **Room occupancy** averaged 82% over the summer.
+  - *Example:* **Room occupancy** [averaged](07-data-reports-and-analysis.md#average) 82% over the summer.
 
 ### check-in time
 - **IPA:** /ˈtʃek ɪn taɪm/
@@ -371,7 +371,7 @@
 ### business traveller
 - **IPA:** /ˈbɪznəs ˌtrævlə/
 - **Meaning 1 (n):** A person travelling for work.
-  - *Example:* **Business travellers** value fast check-in and reliable wifi above all.
+  - *Example:* **Business travellers** value fast [check-in](03-management-and-leadership.md#check-in) and [reliable](07-data-reports-and-analysis.md#reliable) wifi above all.
 
 ### tourist trap
 - **IPA:** /ˈtʊərɪst træp/

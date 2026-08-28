@@ -36,7 +36,7 @@
 ### jurisdiction
 - **IPA:** /ˌdʒʊərɪsˈdɪkʃn/
 - **Meaning 1 (n):** The official power to make legal decisions, or the area in which that power applies.
-  - *Example:* The dispute falls under the **jurisdiction** of the English courts.
+  - *Example:* The [dispute](../toeic-600/20-customer-service-and-complaints.md#28-dispute) falls under the **jurisdiction** of the English courts.
 
 ### venue
 - **IPA:** /ˈvenjuː/
@@ -46,17 +46,17 @@
 ### plaintiff
 - **IPA:** /ˈpleɪntɪf/
 - **Meaning 1 (n):** The person who brings a case against another in a civil court.
-  - *Example:* The **plaintiff** claimed damages for lost earnings.
+  - *Example:* The **plaintiff** claimed [damages](14-law-and-compliance.md#damages) for lost earnings.
 
 ### defendant
 - **IPA:** /dɪˈfendənt/
 - **Meaning 1 (n):** The person or organisation being sued or accused in court.
-  - *Example:* The **defendant** denied breaking the agreement.
+  - *Example:* The **defendant** denied breaking the [agreement](../toeic-600/01-contracts-and-agreements.md#2-agreement).
 
 ### litigant
 - **IPA:** /ˈlɪtɪɡənt/
 - **Meaning 1 (n):** A person involved in a lawsuit, either bringing or defending it.
-  - *Example:* Both **litigants** were ordered to try mediation first.
+  - *Example:* Both **litigants** were ordered to try [mediation](14-law-and-compliance.md#mediation) first.
 
 ### counsel
 - **IPA:** /ˈkaʊnsl/
@@ -81,12 +81,12 @@
 ### paralegal
 - **IPA:** /ˌpærəˈliːɡl/
 - **Meaning 1 (n):** A trained assistant who does legal work but is not a qualified lawyer.
-  - *Example:* A **paralegal** gathered the documents for disclosure.
+  - *Example:* A **paralegal** gathered the documents for [disclosure](08-business-communication.md#disclosure).
 
 ### affidavit
 - **IPA:** /ˌæfɪˈdeɪvɪt/
 - **Meaning 1 (n):** A written statement of facts sworn to be true, used as evidence in court.
-  - *Example:* The manager signed an **affidavit** describing the meeting.
+  - *Example:* The manager signed an **affidavit** describing the [meeting](../toeic-600/06-meetings-and-presentations.md#1-meeting).
 
 ### deposition
 - **IPA:** /ˌdepəˈzɪʃn/
@@ -153,7 +153,7 @@
 ### mediation
 - **IPA:** /ˌmiːdiˈeɪʃn/
 - **Meaning 1 (n):** A process in which a neutral person helps two sides reach agreement without a trial.
-  - *Example:* **Mediation** settled the dispute in a single day.
+  - *Example:* **Mediation** settled the [dispute](../toeic-600/20-customer-service-and-complaints.md#28-dispute) in a single day.
 
 ### tribunal
 - **IPA:** /traɪˈbjuːnl/
@@ -163,7 +163,7 @@
 ### litigation
 - **IPA:** /ˌlɪtɪˈɡeɪʃn/
 - **Meaning 1 (n):** The process of taking legal action through the courts.
-  - *Example:* **Litigation** would cost more than the amount in dispute.
+  - *Example:* **Litigation** would cost more than the amount in [dispute](../toeic-600/20-customer-service-and-complaints.md#28-dispute).
 
 ### class action
 - **IPA:** /ˌklɑːs ˈækʃn/
@@ -183,7 +183,7 @@
 ### trademark
 - **IPA:** /ˈtreɪdmɑːk/
 - **Meaning 1 (n):** A name, symbol, or design legally registered to identify a company's products.
-  - *Example:* The logo is a registered **trademark**.
+  - *Example:* The logo is a [registered](08-business-communication.md#register) **trademark**.
 
 ### copyright
 - **IPA:** /ˈkɒpiraɪt/
@@ -193,7 +193,7 @@
 ### licensing
 - **IPA:** /ˈlaɪsnsɪŋ/
 - **Meaning 1 (n):** The granting of official permission to use property, a name, or a right, usually for a fee.
-  - *Example:* **Licensing** the brand to overseas partners brought in steady income.
+  - *Example:* **Licensing** the brand to overseas [partners](04-teamwork-and-workplace-relationships.md#partner) brought in steady income.
 
 ### infringement
 - **IPA:** /ɪnˈfrɪndʒmənt/
@@ -203,12 +203,12 @@
 ### non-disclosure
 - **IPA:** /ˌnɒn dɪsˈkləʊʒə/
 - **Meaning 1 (n):** An agreement or duty not to reveal certain information.
-  - *Example:* Contractors sign a **non-disclosure** agreement before the briefing.
+  - *Example:* [Contractors](18-construction-and-building-trades.md#contractor) sign a **non-disclosure** [agreement](../toeic-600/01-contracts-and-agreements.md#2-agreement) before the [briefing](08-business-communication.md#briefing).
 
 ### confidentiality clause
 - **IPA:** /ˌkɒnfɪdenʃiˈæləti klɔːz/
 - **Meaning 1 (n):** A part of a contract requiring the parties to keep certain information secret.
-  - *Example:* A **confidentiality clause** covers the settlement amount.
+  - *Example:* A **confidentiality clause** covers the [settlement](09-negotiation-and-persuasion.md#settlement) amount.
 
 ### non-compete
 - **IPA:** /ˌnɒn kəmˈpiːt/
@@ -218,46 +218,46 @@
 ### governing law
 - **IPA:** /ˌɡʌvənɪŋ ˈlɔː/
 - **Meaning 1 (n):** The country's or state's law chosen to apply to a contract.
-  - *Example:* The **governing law** of the agreement is that of Singapore.
+  - *Example:* The **governing law** of the [agreement](../toeic-600/01-contracts-and-agreements.md#2-agreement) is that of Singapore.
 
 ### force majeure
 - **IPA:** /ˌfɔːs mæˈʒɜː/
 - **Meaning 1 (n):** A contract clause freeing parties from liability when an extraordinary event prevents performance.
-  - *Example:* The supplier claimed **force majeure** after the port was closed by a storm.
+  - *Example:* The [supplier](../toeic-600/09-sales-and-purchasing.md#2-supplier) claimed **force majeure** after the port was closed by a storm.
 
 ### compliance officer
 - **IPA:** /kəmˈplaɪəns ˌɒfɪsə/
 - **Meaning 1 (n):** An employee responsible for making sure a company follows laws and rules.
-  - *Example:* The **compliance officer** reviews every new marketing claim.
+  - *Example:* The **compliance officer** reviews every new [marketing](../toeic-600/08-marketing-and-advertising.md#1-marketing) claim.
 
 ### regulatory body
 - **IPA:** /ˈreɡjələtri ˌbɒdi/
 - **Meaning 1 (n):** An official organisation that supervises and enforces rules in an industry.
-  - *Example:* The **regulatory body** can suspend a licence for serious breaches.
+  - *Example:* The **regulatory body** can suspend a [licence](01-career-and-professional-development.md#licence) for serious breaches.
 
 ### sanction
 - **IPA:** /ˈsæŋkʃn/
 - **Meaning 1 (n):** A penalty imposed for breaking a rule or law.
   - *Example:* The firm faced **sanctions** for late reporting.
 - **Meaning 2 (v):** To give official permission or approval for something.
-  - *Example:* The board **sanctioned** the extra spending.
+  - *Example:* The board **sanctioned** the extra [spending](35-shopping-and-consumer-life.md#spending).
 
 ### penalty
 - **IPA:** /ˈpenəlti/
 - **Meaning 1 (n):** A punishment, often a payment, for breaking a rule or contract.
-  - *Example:* There is a **penalty** for cancelling the order after dispatch.
+  - *Example:* There is a **penalty** for cancelling the order after [dispatch](../toeic-600/11-logistics-shipping-and-warehousing.md#8-dispatch).
 
 ### fine
 - **IPA:** /faɪn/
 - **Meaning 1 (n):** A sum of money that must be paid as punishment.
-  - *Example:* The company was given a large **fine** for the data breach.
+  - *Example:* The company was given a large **fine** for the [data breach](../toeic-600/13-technology-and-computers.md#29-data-breach).
 - **Meaning 2 (v):** To make someone pay money as a punishment.
-  - *Example:* The regulator **fined** the bank $50 million.
+  - *Example:* The [regulator](31-government-and-public-services.md#regulator) **fined** the bank $50 million.
 
 ### whistleblower
 - **IPA:** /ˈwɪslbləʊə/
 - **Meaning 1 (n):** A person who reports illegal or unethical activity within an organisation.
-  - *Example:* A **whistleblower** alerted the regulator to the false accounts.
+  - *Example:* A **whistleblower** alerted the [regulator](31-government-and-public-services.md#regulator) to the false accounts.
 
 ### anti-bribery
 - **IPA:** /ˌænti ˈbraɪbəri/
@@ -267,7 +267,7 @@
 ### money laundering
 - **IPA:** /ˈmʌni ˌlɔːndərɪŋ/
 - **Meaning 1 (n):** The act of hiding the illegal origin of money by passing it through legitimate businesses.
-  - *Example:* Banks must report transactions that look like **money laundering**.
+  - *Example:* Banks must report [transactions](../toeic-600/02-finance-and-banking.md#10-transaction) that look like **money laundering**.
 
 ### data protection
 - **IPA:** /ˈdeɪtə prəˌtekʃn/
@@ -309,7 +309,7 @@
 ### by-law
 - **IPA:** /ˈbaɪ lɔː/
 - **Meaning 1 (n):** A rule made by a local authority or organisation for its own area or members.
-  - *Example:* A parking **by-law** bans overnight lorries on residential streets.
+  - *Example:* A parking **by-law** bans overnight lorries on [residential](../toeic-600/19-real-estate-and-property.md#9-residential) streets.
 
 ### enactment
 - **IPA:** /ɪˈnæktmənt/
@@ -319,7 +319,7 @@
 ### hearing
 - **IPA:** /ˈhɪərɪŋ/
 - **Meaning 1 (n):** A meeting at which a court or official body listens to evidence and arguments.
-  - *Example:* The **hearing** was adjourned until the following month.
+  - *Example:* The **hearing** was [adjourned](../toeic-600/06-meetings-and-presentations.md#17-adjourn) until the following month.
 
 ### court trial
 - **IPA:** /ˈkɔːt ˌtraɪəl/
@@ -349,7 +349,7 @@
 ### recourse
 - **IPA:** /rɪˈkɔːs/
 - **Meaning 1 (n):** A source of help or a legal right to obtain a remedy.
-  - *Example:* Customers have **recourse** to the ombudsman if the complaint is not settled.
+  - *Example:* Customers have **recourse** to the [ombudsman](31-government-and-public-services.md#ombudsman) if the [complaint](../toeic-600/20-customer-service-and-complaints.md#1-complaint) is not settled.
 
 ### redress
 - **IPA:** /rɪˈdres/
@@ -379,7 +379,7 @@
 ### legal proceedings
 - **IPA:** /ˌliːɡl prəˈsiːdɪŋz/
 - **Meaning 1 (n):** The formal steps taken to settle a dispute or enforce a right through a court.
-  - *Example:* The bank started **legal proceedings** to recover the debt.
+  - *Example:* The bank started **legal proceedings** to [recover](../toeic-600/17-health-and-medical.md#12-recover) the debt.
 
 ### out-of-court settlement
 - **IPA:** /ˌaʊt əv kɔːt ˈsetlmənt/

@@ -5,7 +5,7 @@
 - **Meaning 1 (n):** An advantage or payment given to employees in addition to wages.
   - *Example:* The job comes with excellent health **benefits**.
 - **Meaning 2 (n):** A helpful or good effect.
-  - *Example:* Flexible hours are a real **benefit** for parents.
+  - *Example:* [Flexible](../toeic-3000/09-negotiation-and-persuasion.md#flexible) hours are a real **benefit** for parents.
 - **Meaning 3 (v):** To be helped by something; to gain an advantage.
   - *Example:* Everyone **benefits** from clearer instructions.
 
@@ -47,7 +47,7 @@
 ### 7. pension
 - **IPA:** /ˈpenʃn/
 - **Meaning 1 (n):** Regular money paid to someone after they retire.
-  - *Example:* The company matches your **pension** contributions.
+  - *Example:* The company matches your **pension** [contributions](18-employee-benefits-and-insurance.md#27-contribution).
 
 ### 8. entitlement
 - **IPA:** /ɪnˈtaɪtlmənt/
@@ -59,15 +59,15 @@
 - **Meaning 1 (n):** The payment back of money that someone has spent.
   - *Example:* **Reimbursement** for tuition is available after one year of service.
 
-### 10. compensation
-- **IPA:** /ˌkɒmpenˈseɪʃn/
-- **Meaning 1 (n):** Money paid to someone for loss, injury, or suffering.
-  - *Example:* He received **compensation** for the injury at work.
+### 10. payout
+- **IPA:** /ˈpeɪaʊt/
+- **Meaning 1 (n):** A large sum of money paid out, especially by an insurance company.
+  - *Example:* The [insurance](17-health-and-medical.md#9-insurance) **payout** covered the full cost of the repairs.
 
 ### 11. beneficiary
 - **IPA:** /ˌbenɪˈfɪʃəri/
 - **Meaning 1 (n):** A person who receives money or benefits, especially from insurance or a will.
-  - *Example:* Name a **beneficiary** on your life insurance form.
+  - *Example:* Name a **beneficiary** on your life [insurance](17-health-and-medical.md#9-insurance) form.
 
 ### 12. enrollment
 - **IPA:** /ɪnˈrəʊlmənt/
@@ -116,7 +116,7 @@
 ### 20. vested
 - **IPA:** /ˈvestɪd/
 - **Meaning 1 (adj):** (of a right or benefit) Fully earned and belonging to you.
-  - *Example:* Your pension is fully **vested** after five years.
+  - *Example:* Your [pension](18-employee-benefits-and-insurance.md#7-pension) is fully **vested** after five years.
 
 ### 21. maternity leave
 - **IPA:** /məˈtɜːnəti liːv/
@@ -136,7 +136,7 @@
 ### 24. exclusion
 - **IPA:** /ɪkˈskluːʒn/
 - **Meaning 1 (n):** Something that a policy does not cover.
-  - *Example:* Damage from flooding is a common **exclusion**.
+  - *Example:* Damage from [flooding](../toeic-3000/34-weather-climate-and-natural-events.md#flooding) is a common **exclusion**.
 
 ### 25. renew
 - **IPA:** /rɪˈnjuː/
@@ -153,7 +153,7 @@
 ### 27. contribution
 - **IPA:** /ˌkɒntrɪˈbjuːʃn/
 - **Meaning 1 (n):** A regular payment made toward a pension or fund.
-  - *Example:* Increase your **contribution** to lower your taxable income.
+  - *Example:* Increase your **contribution** to lower your [taxable income](../toeic-3000/15-taxation-and-regulation.md#taxable-income).
 - **Meaning 2 (n):** Something you give or do to help achieve something.
   - *Example:* Her **contribution** to the project was significant.
 
@@ -170,4 +170,4 @@
 ### 30. liability insurance
 - **IPA:** /ˌlaɪəˈbɪləti ɪnˌʃʊərəns/
 - **Meaning 1 (n):** Insurance that covers legal costs and damages if you are found responsible for harm.
-  - *Example:* All contractors must carry **liability insurance**.
+  - *Example:* All [contractors](../toeic-3000/18-construction-and-building-trades.md#contractor) must carry **liability insurance**.

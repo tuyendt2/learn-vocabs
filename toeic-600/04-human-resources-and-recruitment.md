@@ -3,7 +3,7 @@
 ### 1. recruit
 - **IPA:** /rɪˈkruːt/
 - **Meaning 1 (v):** To find and hire new people to work for an organisation.
-  - *Example:* We are **recruiting** three engineers this quarter.
+  - *Example:* We are **recruiting** three engineers this [quarter](03-accounting-and-budgeting.md#12-quarter).
 - **Meaning 2 (n):** A person who has recently joined an organisation.
   - *Example:* The new **recruits** start their training on Monday.
 
@@ -15,14 +15,14 @@
 ### 3. candidate
 - **IPA:** /ˈkændɪdət/
 - **Meaning 1 (n):** A person being considered for a job or position.
-  - *Example:* Three **candidates** were invited to a second interview.
+  - *Example:* Three **candidates** were invited to a second [interview](04-human-resources-and-recruitment.md#6-interview).
 - **Meaning 2 (n):** A person or thing likely to have or get a particular quality.
-  - *Example:* This department is a strong **candidate** for extra funding.
+  - *Example:* This [department](../toeic-3000/31-government-and-public-services.md#department) is a strong **candidate** for extra funding.
 
 ### 4. résumé
 - **IPA:** /ˈrezjumeɪ/
 - **Meaning 1 (n):** A short written summary of your education and work experience.
-  - *Example:* Attach your **résumé** and a cover letter.
+  - *Example:* Attach your **résumé** and a [cover letter](04-human-resources-and-recruitment.md#5-cover-letter).
 
 ### 5. cover letter
 - **IPA:** /ˈkʌvə ˌletə/
@@ -34,7 +34,7 @@
 - **Meaning 1 (n):** A formal meeting where someone is asked questions to see if they are suitable for a job.
   - *Example:* The **interview** lasted about 45 minutes.
 - **Meaning 2 (v):** To ask someone questions in a formal meeting.
-  - *Example:* The panel will **interview** candidates all week.
+  - *Example:* The panel will **interview** [candidates](04-human-resources-and-recruitment.md#3-candidate) all week.
 
 ### 7. qualification
 - **IPA:** /ˌkwɒlɪfɪˈkeɪʃn/
@@ -46,7 +46,7 @@
 ### 8. experience
 - **IPA:** /ɪkˈspɪəriəns/
 - **Meaning 1 (n):** Skill or knowledge gained by doing a job over time.
-  - *Example:* She has ten years' **experience** in logistics.
+  - *Example:* She has ten years' **experience** in [logistics](11-logistics-shipping-and-warehousing.md#7-logistics).
 - **Meaning 2 (n):** An event or activity that affects you.
   - *Example:* Working abroad was a valuable **experience**.
 - **Meaning 3 (v):** To feel or go through something.
@@ -69,7 +69,7 @@
 ### 11. onboarding
 - **IPA:** /ˈɒnbɔːdɪŋ/
 - **Meaning 1 (n):** The process of helping a new employee settle into a job.
-  - *Example:* **Onboarding** now includes a week of shadowing a colleague.
+  - *Example:* **Onboarding** now includes a week of shadowing a [colleague](../toeic-3000/04-teamwork-and-workplace-relationships.md#colleague).
 
 ### 12. probation
 - **IPA:** /prəˈbeɪʃn/
@@ -108,14 +108,14 @@
 ### 18. vacancy
 - **IPA:** /ˈveɪkənsi/
 - **Meaning 1 (n):** A job that is available for someone to take.
-  - *Example:* There is a **vacancy** in the accounts department.
+  - *Example:* There is a **vacancy** in the accounts [department](../toeic-3000/31-government-and-public-services.md#department).
 - **Meaning 2 (n):** A room available in a hotel.
   - *Example:* The sign said "No **Vacancies**."
 
 ### 19. compensation
 - **IPA:** /ˌkɒmpenˈseɪʃn/
 - **Meaning 1 (n):** The total pay and benefits an employee receives.
-  - *Example:* The **compensation** package includes stock options.
+  - *Example:* The **compensation** package includes stock [options](../toeic-3000/12-banking-and-investment.md#options).
 - **Meaning 2 (n):** Money paid to make up for loss, injury, or damage.
   - *Example:* She received **compensation** for the delayed flight.
 
@@ -124,7 +124,7 @@
 - **Meaning 1 (n):** A formal review of an employee's work performance.
   - *Example:* Annual **appraisals** take place every January.
 - **Meaning 2 (n):** A judgement of the value or quality of something.
-  - *Example:* The bank ordered an **appraisal** of the property.
+  - *Example:* The bank ordered an **appraisal** of the [property](19-real-estate-and-property.md#1-property).
 
 ### 21. workforce
 - **IPA:** /ˈwɜːkfɔːs/
@@ -134,7 +134,7 @@
 ### 22. retention
 - **IPA:** /rɪˈtenʃn/
 - **Meaning 1 (n):** The ability of a company to keep its employees or customers.
-  - *Example:* Better benefits improved staff **retention**.
+  - *Example:* Better [benefits](18-employee-benefits-and-insurance.md#1-benefit) improved staff **retention**.
 
 ### 23. personnel
 - **IPA:** /ˌpɜːsəˈnel/
@@ -160,7 +160,7 @@
 - **Meaning 1 (v):** To give a task or responsibility to someone else.
   - *Example:* Learn to **delegate** routine work to junior staff.
 - **Meaning 2 (n):** A person sent to represent a group at a meeting.
-  - *Example:* Each office sent two **delegates** to the conference.
+  - *Example:* Each office sent two **delegates** to the [conference](06-meetings-and-presentations.md#2-conference).
 
 ### 27. incentive
 - **IPA:** /ɪnˈsentɪv/
@@ -170,14 +170,12 @@
 ### 28. workload
 - **IPA:** /ˈwɜːkləʊd/
 - **Meaning 1 (n):** The amount of work a person or team is expected to do.
-  - *Example:* Her **workload** doubled after two colleagues left.
+  - *Example:* Her **workload** doubled after two [colleagues](../toeic-3000/04-teamwork-and-workplace-relationships.md#colleague) left.
 
-### 29. shift
-- **IPA:** /ʃɪft/
-- **Meaning 1 (n):** A set period of work in a day, especially in a factory or hospital.
-  - *Example:* He works the night **shift** three times a week.
-- **Meaning 2 (v):** To move from one position or state to another.
-  - *Example:* The company **shifted** its focus to online sales.
+### 29. job description
+- **IPA:** /ˈdʒɒb dɪˌskrɪpʃn/
+- **Meaning 1 (n):** A written statement of the duties and requirements of a job.
+  - *Example:* The **job description** lists five main responsibilities.
 
 ### 30. staffing
 - **IPA:** /ˈstɑːfɪŋ/

@@ -13,17 +13,17 @@
 ### grid
 - **IPA:** /ɡrɪd/
 - **Meaning 1 (n):** The network of cables that carries electricity across a region or country.
-  - *Example:* Power from the wind farm feeds straight into the **grid**.
+  - *Example:* Power from the [wind farm](19-energy-and-utilities.md#wind-farm) feeds straight into the **grid**.
 
 ### power plant
 - **IPA:** /ˈpaʊə plɑːnt/
 - **Meaning 1 (n):** A large facility where electricity is generated.
-  - *Example:* The gas-fired **power plant** supplies half a million homes.
+  - *Example:* The gas-fired **power plant** [supplies](../toeic-600/05-office-procedures-and-equipment.md#7-supplies) half a million homes.
 
 ### generator
 - **IPA:** /ˈdʒenəreɪtə/
 - **Meaning 1 (n):** A machine that turns mechanical energy into electricity.
-  - *Example:* A diesel **generator** kept the hospital running during the cut.
+  - *Example:* A diesel **generator** kept the [hospital](29-health-medicine-and-wellness.md#hospital) running during the cut.
 
 ### turbine
 - **IPA:** /ˈtɜːbaɪn/
@@ -38,7 +38,7 @@
 ### substation
 - **IPA:** /ˈsʌbsteɪʃn/
 - **Meaning 1 (n):** A local site where high-voltage electricity is stepped down for distribution.
-  - *Example:* The **substation** was upgraded to handle the new housing estate.
+  - *Example:* The **substation** was [upgraded](../toeic-600/13-technology-and-computers.md#4-upgrade) to handle the new housing estate.
 
 ### transmission
 - **IPA:** /trænzˈmɪʃn/
@@ -48,7 +48,7 @@
 ### voltage
 - **IPA:** /ˈvəʊltɪdʒ/
 - **Meaning 1 (n):** The force that pushes an electric current through a circuit, measured in volts.
-  - *Example:* The equipment runs on a **voltage** of 240.
+  - *Example:* The [equipment](../toeic-600/05-office-procedures-and-equipment.md#26-equipment) runs on a **voltage** of 240.
 
 ### current
 - **IPA:** /ˈkʌrənt/
@@ -73,7 +73,7 @@
 ### meter reading
 - **IPA:** /ˈmiːtə ˌriːdɪŋ/
 - **Meaning 1 (n):** The figure shown on a utility meter, recorded for billing.
-  - *Example:* Submit a **meter reading** to avoid an estimated bill.
+  - *Example:* Submit a **meter reading** to avoid an [estimated](07-data-reports-and-analysis.md#estimate) bill.
 
 ### off-peak
 - **IPA:** /ˌɒf ˈpiːk/
@@ -108,12 +108,12 @@
 ### backup generator
 - **IPA:** /ˈbækʌp ˌdʒenəreɪtə/
 - **Meaning 1 (n):** A generator that starts automatically when the main supply fails.
-  - *Example:* The data centre has two **backup generators** and stored fuel for a week.
+  - *Example:* The [data centre](25-information-technology.md#data-centre) has two **backup generators** and stored fuel for a week.
 
 ### uninterruptible supply
 - **IPA:** /ˌʌnɪntəˈrʌptəbl səˌplaɪ/
 - **Meaning 1 (n):** A battery system that keeps power flowing for a short time during a failure.
-  - *Example:* An **uninterruptible supply** keeps the servers alive until the generator starts.
+  - *Example:* An **uninterruptible supply** keeps the servers alive until the [generator](19-energy-and-utilities.md#generator) starts.
 
 ### fossil fuel
 - **IPA:** /ˌfɒsl ˈfjuːəl/
@@ -128,7 +128,7 @@
 ### natural gas
 - **IPA:** /ˌnætʃrəl ˈɡæs/
 - **Meaning 1 (n):** A gas found underground, used for heating and generating electricity.
-  - *Example:* **Natural gas** prices spiked after the pipeline was shut.
+  - *Example:* **Natural gas** prices spiked after the [pipeline](19-energy-and-utilities.md#pipeline) was shut.
 
 ### crude oil
 - **IPA:** /ˌkruːd ˈɔɪl/
@@ -138,7 +138,7 @@
 ### refinery
 - **IPA:** /rɪˈfaɪnəri/
 - **Meaning 1 (n):** A plant where crude oil is processed into fuels and other products.
-  - *Example:* A fire at the **refinery** cut national fuel supplies.
+  - *Example:* A fire at the **refinery** cut national fuel [supplies](../toeic-600/05-office-procedures-and-equipment.md#7-supplies).
 
 ### pipeline
 - **IPA:** /ˈpaɪplaɪn/
@@ -153,7 +153,7 @@
 ### extraction
 - **IPA:** /ɪkˈstrækʃn/
 - **Meaning 1 (n):** The process of removing a natural resource from the ground.
-  - *Example:* The cost of **extraction** rises as the easy reserves run out.
+  - *Example:* The cost of **extraction** rises as the easy [reserves](19-energy-and-utilities.md#reserves) run out.
 
 ### reserves
 - **IPA:** /rɪˈzɜːvz/
@@ -178,7 +178,7 @@
 ### wind farm
 - **IPA:** /ˈwɪnd fɑːm/
 - **Meaning 1 (n):** A group of wind turbines used to generate electricity.
-  - *Example:* The offshore **wind farm** powers 300,000 homes.
+  - *Example:* The [offshore](02-company-organization-and-departments.md#offshore) **wind farm** powers 300,000 homes.
 
 ### hydroelectric
 - **IPA:** /ˌhaɪdrəʊɪˈlektrɪk/
@@ -223,7 +223,7 @@
 ### net metering
 - **IPA:** /ˌnet ˈmiːtərɪŋ/
 - **Meaning 1 (n):** A billing system that offsets the power you export against the power you import.
-  - *Example:* Under **net metering**, the summer surplus covers winter use.
+  - *Example:* Under **net metering**, the summer [surplus](../toeic-600/03-accounting-and-budgeting.md#13-surplus) covers winter use.
 
 ### base load
 - **IPA:** /ˈbeɪs ləʊd/
@@ -233,12 +233,12 @@
 ### peak load
 - **IPA:** /ˈpiːk ləʊd/
 - **Meaning 1 (n):** The maximum level of demand on a grid, met by fast-starting plants.
-  - *Example:* Gas turbines are switched on to cover the evening **peak load**.
+  - *Example:* Gas [turbines](19-energy-and-utilities.md#turbine) are switched on to cover the evening **peak load**.
 
 ### energy audit
 - **IPA:** /ˈenədʒi ˌɔːdɪt/
 - **Meaning 1 (n):** A survey of how a building or business uses energy and where it could save.
-  - *Example:* The **energy audit** recommended sealing draughts and adding timers.
+  - *Example:* The **energy audit** recommended sealing [draughts](37-home-housing-and-maintenance.md#draught) and adding timers.
 
 ### wastage
 - **IPA:** /ˈweɪstɪdʒ/
@@ -268,7 +268,7 @@
 ### heat exchanger
 - **IPA:** /ˈhiːt ɪksˌtʃeɪndʒə/
 - **Meaning 1 (n):** A device that transfers heat from one fluid to another without mixing them.
-  - *Example:* A **heat exchanger** recovers warmth from the outgoing air.
+  - *Example:* A **heat exchanger** [recovers](../toeic-600/17-health-and-medical.md#12-recover) warmth from the outgoing air.
 
 ### district heating
 - **IPA:** /ˈdɪstrɪkt ˌhiːtɪŋ/
@@ -278,7 +278,7 @@
 ### off-grid
 - **IPA:** /ˌɒf ˈɡrɪd/
 - **Meaning 1 (adj):** Not connected to the main electricity network.
-  - *Example:* The remote lodge is **off-grid**, running on solar and a generator.
+  - *Example:* The remote lodge is **off-grid**, running on solar and a [generator](19-energy-and-utilities.md#generator).
 
 ### microgrid
 - **IPA:** /ˈmaɪkrəʊɡrɪd/
@@ -313,7 +313,7 @@
 ### national grid
 - **IPA:** /ˌnæʃnəl ˈɡrɪd/
 - **Meaning 1 (n):** The country-wide network that carries electricity from generators to users.
-  - *Example:* Surplus wind power is sent into the **national grid**.
+  - *Example:* [Surplus](../toeic-600/03-accounting-and-budgeting.md#13-surplus) wind power is sent into the **national grid**.
 
 ### power line
 - **IPA:** /ˈpaʊə laɪn/
@@ -328,7 +328,7 @@
 ### megawatt
 - **IPA:** /ˈmeɡəwɒt/
 - **Meaning 1 (n):** A unit of power equal to one million watts, used for power stations.
-  - *Example:* The new solar farm has a capacity of 50 **megawatts**.
+  - *Example:* The new solar farm has a [capacity](06-projects-and-deadlines.md#capacity) of 50 **megawatts**.
 
 ### energy provider
 - **IPA:** /ˈenədʒi prəˌvaɪdə/
@@ -338,12 +338,12 @@
 ### energy mix
 - **IPA:** /ˈenədʒi mɪks/
 - **Meaning 1 (n):** The combination of different sources used to supply a country's or company's energy.
-  - *Example:* Renewables now make up 40% of the national **energy mix**.
+  - *Example:* [Renewables](19-energy-and-utilities.md#renewable) now make up 40% of the national **energy mix**.
 
 ### grid connection
 - **IPA:** /ˈɡrɪd kəˌnekʃn/
 - **Meaning 1 (n):** The physical and contractual link between a generator or user and the grid.
-  - *Example:* The wind farm waited two years for a **grid connection**.
+  - *Example:* The [wind farm](19-energy-and-utilities.md#wind-farm) waited two years for a **grid connection**.
 
 ### power output
 - **IPA:** /ˈpaʊər ˌaʊtpʊt/

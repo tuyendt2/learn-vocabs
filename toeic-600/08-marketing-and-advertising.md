@@ -3,7 +3,7 @@
 ### 1. marketing
 - **IPA:** /ˈmɑːkɪtɪŋ/
 - **Meaning 1 (n):** The activity of promoting and selling products or services.
-  - *Example:* The **marketing** team is planning a spring campaign.
+  - *Example:* The **marketing** team is planning a spring [campaign](08-marketing-and-advertising.md#3-campaign).
 
 ### 2. advertisement
 - **IPA:** /ədˈvɜːtɪsmənt/
@@ -37,11 +37,11 @@
 ### 7. promote
 - **IPA:** /prəˈməʊt/
 - **Meaning 1 (v):** To try to increase sales or public awareness of something.
-  - *Example:* Influencers were paid to **promote** the app.
+  - *Example:* [Influencers](../toeic-3000/24-advertising-pr-and-media.md#influencer) were paid to **promote** the app.
 - **Meaning 2 (v):** To move someone to a higher rank or job.
   - *Example:* He was **promoted** to sales director.
 - **Meaning 3 (v):** To support or encourage something to develop.
-  - *Example:* The scheme **promotes** recycling in offices.
+  - *Example:* The scheme **promotes** [recycling](../toeic-3000/28-environment-and-sustainability.md#recycling) in offices.
 
 ### 8. slogan
 - **IPA:** /ˈsləʊɡən/
@@ -58,14 +58,14 @@
 ### 10. survey
 - **IPA:** /ˈsɜːveɪ/ (n) · /səˈveɪ/ (v)
 - **Meaning 1 (n):** A set of questions used to find out people's opinions or habits.
-  - *Example:* The customer **survey** showed high satisfaction.
+  - *Example:* The customer **survey** showed high [satisfaction](20-customer-service-and-complaints.md#12-satisfaction).
 - **Meaning 2 (v):** To ask people questions to gather information.
-  - *Example:* We **surveyed** 500 shoppers about the new layout.
+  - *Example:* We **surveyed** 500 [shoppers](../toeic-3000/35-shopping-and-consumer-life.md#shopper) about the new layout.
 
 ### 11. demographic
 - **IPA:** /ˌdeməˈɡræfɪk/
 - **Meaning 1 (n):** A group of people with shared characteristics such as age or income.
-  - *Example:* The magazine appeals to a young, urban **demographic**.
+  - *Example:* The [magazine](../toeic-3000/32-media-news-and-publishing.md#magazine) appeals to a young, urban **demographic**.
 
 ### 12. endorsement
 - **IPA:** /ɪnˈdɔːsmənt/
@@ -84,10 +84,10 @@
 - **Meaning 1 (n):** Public attention given to someone or something through the media.
   - *Example:* The recall generated a lot of bad **publicity**.
 
-### 15. incentive
-- **IPA:** /ɪnˈsentɪv/
-- **Meaning 1 (n):** Something offered to encourage people to buy or act.
-  - *Example:* Free delivery is a strong **incentive** to order online.
+### 15. branding
+- **IPA:** /ˈbrændɪŋ/
+- **Meaning 1 (n):** The work of giving a product a distinct name, look, and image.
+  - *Example:* Consistent **branding** across every store built customer trust.
 
 ### 16. discount
 - **IPA:** /ˈdɪskaʊnt/ (n) · /dɪsˈkaʊnt/ (v)
@@ -99,7 +99,7 @@
 ### 17. loyalty
 - **IPA:** /ˈlɔɪəlti/
 - **Meaning 1 (n):** The quality of continuing to support a brand or person.
-  - *Example:* The **loyalty** card gives points on every purchase.
+  - *Example:* The **loyalty** card gives points on every [purchase](09-sales-and-purchasing.md#1-purchase).
 
 ### 18. billboard
 - **IPA:** /ˈbɪlbɔːd/
@@ -119,26 +119,26 @@
 ### 21. testimonial
 - **IPA:** /ˌtestɪˈməʊniəl/
 - **Meaning 1 (n):** A written or spoken statement praising a product or person.
-  - *Example:* The website features **testimonials** from happy clients.
+  - *Example:* The website [features](../toeic-3000/32-media-news-and-publishing.md#feature) **testimonials** from happy clients.
 
 ### 22. circulation
 - **IPA:** /ˌsɜːkjəˈleɪʃn/
 - **Meaning 1 (n):** The number of copies of a newspaper or magazine sold.
-  - *Example:* The trade journal has a **circulation** of 50,000.
+  - *Example:* The trade [journal](../toeic-3000/27-science-and-research.md#journal) has a **circulation** of 50,000.
 - **Meaning 2 (n):** The movement of something around a system or group.
   - *Example:* The memo is in **circulation** among all managers.
 
 ### 23. exposure
 - **IPA:** /ɪkˈspəʊʒə/
 - **Meaning 1 (n):** The amount of public attention something receives.
-  - *Example:* Sponsoring the event gave the brand wide **exposure**.
+  - *Example:* [Sponsoring](08-marketing-and-advertising.md#28-sponsor) the event gave the brand wide **exposure**.
 - **Meaning 2 (n):** The state of being unprotected from something harmful.
-  - *Example:* Long **exposure** to sunlight damages the packaging.
+  - *Example:* Long **exposure** to sunlight [damages](../toeic-3000/14-law-and-compliance.md#damages) the packaging.
 
 ### 24. niche
 - **IPA:** /niːʃ/ or /nɪtʃ/
 - **Meaning 1 (n):** A small, specialised part of a market.
-  - *Example:* They found a profitable **niche** in eco-friendly toys.
+  - *Example:* They found a profitable **niche** in [eco-friendly](../toeic-3000/28-environment-and-sustainability.md#eco-friendly) toys.
 
 ### 25. rollout
 - **IPA:** /ˈrəʊlaʊt/

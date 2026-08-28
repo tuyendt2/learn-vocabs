@@ -20,7 +20,7 @@
 - **Meaning 1 (n):** A difficult task that tests someone's ability.
   - *Example:* Hiring skilled staff quickly is the biggest **challenge**.
 - **Meaning 2 (v):** To question whether something is true or right.
-  - *Example:* She **challenged** the assumption behind the forecast.
+  - *Example:* She **challenged** the [assumption](07-data-reports-and-analysis.md#assumption) behind the [forecast](07-data-reports-and-analysis.md#forecast).
 
 ### obstacle
 - **IPA:** /ˈɒbstəkl/
@@ -72,12 +72,12 @@
 - **Meaning 1 (n):** An event that causes something else to happen.
   - *Example:* The price rise was the **trigger** for customers to switch.
 - **Meaning 2 (v):** To cause something to start.
-  - *Example:* A single complaint **triggered** a full review.
+  - *Example:* A single [complaint](../toeic-600/20-customer-service-and-complaints.md#1-complaint) **triggered** a full review.
 
 ### factor
 - **IPA:** /ˈfæktə/
 - **Meaning 1 (n):** One of the things that influences a result or decision.
-  - *Example:* Cost was only one **factor** in choosing the supplier.
+  - *Example:* Cost was only one **factor** in choosing the [supplier](../toeic-600/09-sales-and-purchasing.md#2-supplier).
 
 ### dilemma
 - **IPA:** /dɪˈlemə/
@@ -87,7 +87,7 @@
 ### predicament
 - **IPA:** /prɪˈdɪkəmənt/
 - **Meaning 1 (n):** A difficult or unpleasant situation that is hard to get out of.
-  - *Example:* Losing two suppliers at once left us in a real **predicament**.
+  - *Example:* Losing two [suppliers](../toeic-600/09-sales-and-purchasing.md#2-supplier) at once left us in a real **predicament**.
 
 ### workaround
 - **IPA:** /ˈwɜːkəraʊnd/
@@ -97,21 +97,21 @@
 ### remedy
 - **IPA:** /ˈremədi/
 - **Meaning 1 (n):** A way of solving a problem or putting something right.
-  - *Example:* The simplest **remedy** is to add a second checkout.
+  - *Example:* The simplest **remedy** is to add a second [checkout](16-retail-and-store-operations.md#checkout).
 - **Meaning 2 (v):** To put right something that is wrong.
   - *Example:* Extra staff were hired to **remedy** the delays.
 
 ### resolution
 - **IPA:** /ˌrezəˈluːʃn/
 - **Meaning 1 (n):** The act of solving a problem or ending a dispute.
-  - *Example:* Quick **resolution** of complaints keeps customers loyal.
+  - *Example:* Quick **resolution** of [complaints](../toeic-600/20-customer-service-and-complaints.md#1-complaint) keeps customers loyal.
 - **Meaning 2 (n):** A firm decision to do or not do something.
   - *Example:* The board passed a **resolution** to freeze hiring.
 
 ### fix
 - **IPA:** /fɪks/
 - **Meaning 1 (n):** A solution to a problem, often a quick or temporary one.
-  - *Example:* This is a short-term **fix**, not a permanent answer.
+  - *Example:* This is a [short-term](05-business-strategy-and-planning.md#short-term) **fix**, not a permanent answer.
 - **Meaning 2 (v):** To repair something or solve a problem.
   - *Example:* Engineers **fixed** the fault overnight.
 
@@ -128,12 +128,12 @@
 ### preventive action
 - **IPA:** /prɪˌventɪv ˈækʃn/
 - **Meaning 1 (n):** A step taken to stop a problem before it occurs.
-  - *Example:* Regular servicing is a **preventive action** against breakdowns.
+  - *Example:* Regular servicing is a **preventive action** against [breakdowns](07-data-reports-and-analysis.md#breakdown).
 
 ### ideate
 - **IPA:** /ˈaɪdieɪt/
 - **Meaning 1 (v):** To form ideas or think of new possibilities.
-  - *Example:* The team spent an hour **ideating** before choosing a direction.
+  - *Example:* The team spent an hour **ideating** before choosing a [direction](05-business-strategy-and-planning.md#direction).
 
 ### weigh
 - **IPA:** /weɪ/
@@ -148,22 +148,22 @@
 ### rank
 - **IPA:** /ræŋk/
 - **Meaning 1 (v):** To put things in order according to importance or quality.
-  - *Example:* The options were **ranked** by cost and risk.
+  - *Example:* The [options](12-banking-and-investment.md#options) were **ranked** by cost and risk.
 
 ### criteria
 - **IPA:** /kraɪˈtɪəriə/
 - **Meaning 1 (n):** The standards used to judge or decide something.
-  - *Example:* Price, speed, and support were the three **criteria**.
+  - *Example:* Price, speed, and [support](04-teamwork-and-workplace-relationships.md#support) were the three **criteria**.
 
 ### pros and cons
 - **IPA:** /ˌprəʊz ən ˈkɒnz/
 - **Meaning 1 (n):** The advantages and disadvantages of something.
-  - *Example:* She listed the **pros and cons** of moving the warehouse.
+  - *Example:* She listed the **pros and cons** of moving the [warehouse](../toeic-600/11-logistics-shipping-and-warehousing.md#15-warehouse).
 
 ### cost-benefit
 - **IPA:** /ˌkɒst ˈbenɪfɪt/
 - **Meaning 1 (adj):** Comparing the costs of an action with the benefits it brings.
-  - *Example:* A **cost-benefit** analysis showed the machine would pay for itself.
+  - *Example:* A **cost-benefit** [analysis](27-science-and-research.md#analysis) showed the machine would pay for itself.
 
 ### feasibility
 - **IPA:** /ˌfiːzəˈbɪləti/
@@ -178,7 +178,7 @@
 ### risk
 - **IPA:** /rɪsk/
 - **Meaning 1 (n):** The chance that something bad will happen.
-  - *Example:* Relying on one supplier is a serious **risk**.
+  - *Example:* Relying on one [supplier](../toeic-600/09-sales-and-purchasing.md#2-supplier) is a serious **risk**.
 - **Meaning 2 (v):** To do something even though something bad could result.
   - *Example:* Delaying the fix **risks** a bigger failure later.
 
@@ -192,7 +192,7 @@
 - **Meaning 1 (n):** The effect or influence that something has.
   - *Example:* The outage had little **impact** on customers.
 - **Meaning 2 (v):** To have a strong effect on something.
-  - *Example:* The strike **impacted** every shipment that week.
+  - *Example:* The strike **impacted** every [shipment](../toeic-600/11-logistics-shipping-and-warehousing.md#1-shipment) that week.
 
 ### judgement
 - **IPA:** /ˈdʒʌdʒmənt/
@@ -227,12 +227,12 @@
 ### majority
 - **IPA:** /məˈdʒɒrəti/
 - **Meaning 1 (n):** The larger part of a group; more than half.
-  - *Example:* A **majority** of the committee backed the delay.
+  - *Example:* A **majority** of the [committee](02-company-organization-and-departments.md#committee) backed the delay.
 
 ### defer
 - **IPA:** /dɪˈfɜː/
 - **Meaning 1 (v):** To put off a decision or action until later.
-  - *Example:* The board **deferred** the purchase to the next quarter.
+  - *Example:* The board **deferred** the [purchase](../toeic-600/09-sales-and-purchasing.md#1-purchase) to the next [quarter](../toeic-600/03-accounting-and-budgeting.md#12-quarter).
 - **Meaning 2 (v):** To accept another person's opinion or decision because you respect them.
   - *Example:* On safety matters, we **defer** to the engineers.
 
@@ -259,7 +259,7 @@
 ### decisive
 - **IPA:** /dɪˈsaɪsɪv/
 - **Meaning 1 (adj):** Able to make decisions quickly and firmly.
-  - *Example:* A **decisive** response stopped the problem from spreading.
+  - *Example:* A **decisive** response stopped the [problem](10-problem-solving-and-decision-making.md#problem) from spreading.
 - **Meaning 2 (adj):** Settling an issue; producing a clear result.
   - *Example:* The trial gave a **decisive** answer.
 
@@ -271,7 +271,7 @@
 ### deliberate
 - **IPA:** /dɪˈlɪbərət/ (adj) · /dɪˈlɪbəreɪt/ (v)
 - **Meaning 1 (adj):** Done on purpose after careful thought.
-  - *Example:* The slow rollout was a **deliberate** choice.
+  - *Example:* The slow [rollout](05-business-strategy-and-planning.md#rollout) was a **deliberate** choice.
 - **Meaning 2 (v):** To think about or discuss something carefully before deciding.
   - *Example:* The panel **deliberated** for two hours.
 
@@ -288,7 +288,7 @@
 ### diagnose
 - **IPA:** /ˈdaɪəɡnəʊz/
 - **Meaning 1 (v):** To identify the exact cause of a problem after examining it.
-  - *Example:* The technician **diagnosed** a worn belt as the cause.
+  - *Example:* The [technician](17-manufacturing-and-engineering.md#technician) **diagnosed** a worn belt as the cause.
 
 ### pinpoint
 - **IPA:** /ˈpɪnpɔɪnt/
@@ -303,14 +303,14 @@
 ### analyse
 - **IPA:** /ˈænəlaɪz/
 - **Meaning 1 (v):** To examine something in detail to understand or explain it.
-  - *Example:* We **analysed** a year of complaints to spot the pattern.
+  - *Example:* We **analysed** a year of [complaints](../toeic-600/20-customer-service-and-complaints.md#1-complaint) to spot the [pattern](07-data-reports-and-analysis.md#pattern).
 
 ### alternative
 - **IPA:** /ɔːlˈtɜːnətɪv/
 - **Meaning 1 (n):** One of two or more possible choices.
-  - *Example:* If the supplier fails, what is our **alternative**?
+  - *Example:* If the [supplier](../toeic-600/09-sales-and-purchasing.md#2-supplier) fails, what is our **alternative**?
 - **Meaning 2 (adj):** Available as another possibility.
-  - *Example:* An **alternative** route avoids the roadworks.
+  - *Example:* An **alternative** route avoids the [roadworks](40-travel-commuting-and-getting-around.md#roadworks).
 
 ### option
 - **IPA:** /ˈɒpʃn/
@@ -330,7 +330,7 @@
 ### decision matrix
 - **IPA:** /dɪˈsɪʒn ˌmeɪtrɪks/
 - **Meaning 1 (n):** A grid that scores options against weighted criteria to guide a choice.
-  - *Example:* A **decision matrix** made the trade-offs easy to see.
+  - *Example:* A **decision matrix** made the [trade-offs](09-negotiation-and-persuasion.md#trade-off) easy to see.
 
 ### judgement call
 - **IPA:** /ˈdʒʌdʒmənt kɔːl/
@@ -340,29 +340,29 @@
 ### rule out
 - **IPA:** /ˌruːl ˈaʊt/
 - **Meaning 1 (phr v):** To decide that something is not possible or not a cause.
-  - *Example:* Tests **ruled out** a software fault.
+  - *Example:* Tests **ruled out** a [software](../toeic-600/13-technology-and-computers.md#1-software) fault.
 
 ### narrow down
 - **IPA:** /ˌnærəʊ ˈdaʊn/
 - **Meaning 1 (phr v):** To reduce a number of choices by removing the less suitable ones.
-  - *Example:* We **narrowed down** the list to three candidates.
+  - *Example:* We **narrowed down** the list to three [candidates](../toeic-600/04-human-resources-and-recruitment.md#3-candidate).
 
 ### tackle
 - **IPA:** /ˈtækl/
 - **Meaning 1 (v):** To make a determined effort to deal with a problem.
-  - *Example:* The plan **tackles** waste at every stage of production.
+  - *Example:* The plan **tackles** waste at every stage of [production](../toeic-600/10-manufacturing-and-production.md#3-production).
 
 ### overcome
 - **IPA:** /ˌəʊvəˈkʌm/
 - **Meaning 1 (v):** To successfully deal with or control a problem or difficulty.
-  - *Example:* The team **overcame** the parts shortage by redesigning the unit.
+  - *Example:* The team **overcame** the parts [shortage](11-economics-and-markets.md#shortage) by redesigning the unit.
 
 ### settle
 - **IPA:** /ˈsetl/
 - **Meaning 1 (v):** To end an argument or decide something finally.
   - *Example:* A quick vote **settled** the matter.
 - **Meaning 2 (v):** To pay an amount that is owed.
-  - *Example:* The invoice was **settled** within a week.
+  - *Example:* The [invoice](../toeic-600/09-sales-and-purchasing.md#6-invoice) was **settled** within a week.
 
 ### sort out
 - **IPA:** /ˌsɔːt ˈaʊt/
@@ -392,7 +392,7 @@
 ### worst-case
 - **IPA:** /ˌwɜːst ˈkeɪs/
 - **Meaning 1 (adj):** Relating to the most unfavourable outcome that could happen.
-  - *Example:* In the **worst-case** scenario, we lose a month of production.
+  - *Example:* In the **worst-case** [scenario](05-business-strategy-and-planning.md#scenario), we lose a month of [production](../toeic-600/10-manufacturing-and-production.md#3-production).
 
 ### best-case
 - **IPA:** /ˌbest ˈkeɪs/

@@ -13,22 +13,22 @@
 ### 3. shredder
 - **IPA:** /ˈʃredə/
 - **Meaning 1 (n):** A machine that cuts paper into thin strips so it cannot be read.
-  - *Example:* Confidential files must go in the **shredder**.
+  - *Example:* [Confidential](07-correspondence-and-email.md#25-confidential) files must go in the **shredder**.
 
 ### 4. scanner
 - **IPA:** /ˈskænə/
 - **Meaning 1 (n):** A device that copies documents or images into a computer.
-  - *Example:* Use the **scanner** to send a digital copy of the invoice.
+  - *Example:* Use the **scanner** to send a digital copy of the [invoice](09-sales-and-purchasing.md#6-invoice).
 
 ### 5. projector
 - **IPA:** /prəˈdʒektə/
 - **Meaning 1 (n):** A device that displays images or slides onto a screen or wall.
-  - *Example:* The **projector** bulb needs replacing before the presentation.
+  - *Example:* The **projector** bulb needs replacing before the [presentation](06-meetings-and-presentations.md#4-presentation).
 
 ### 6. stationery
 - **IPA:** /ˈsteɪʃənri/
 - **Meaning 1 (n):** Materials for writing, such as paper, pens, and envelopes.
-  - *Example:* Order more **stationery** from the usual supplier.
+  - *Example:* Order more **stationery** from the usual [supplier](09-sales-and-purchasing.md#2-supplier).
 
 ### 7. supplies
 - **IPA:** /səˈplaɪz/
@@ -45,12 +45,12 @@
 - **Meaning 1 (n):** A list of items to be discussed at a meeting.
   - *Example:* The budget is the first item on the **agenda**.
 - **Meaning 2 (n):** A set of aims or plans that someone wants to achieve.
-  - *Example:* Cost-cutting is high on the new director's **agenda**.
+  - *Example:* [Cost-cutting](../toeic-3000/36-personal-finance-and-household-budget.md#cost-cutting) is high on the new director's **agenda**.
 
 ### 10. minutes
 - **IPA:** /ˈmɪnɪts/
 - **Meaning 1 (n):** A written record of what was said and decided at a meeting.
-  - *Example:* Please circulate the **minutes** within two days.
+  - *Example:* Please [circulate](../toeic-3000/08-business-communication.md#circulate) the **minutes** within two days.
 
 ### 11. schedule
 - **IPA:** /ˈʃedjuːl/ or /ˈskedʒuːl/
@@ -83,10 +83,10 @@
 - **Meaning 1 (n):** A flat paper container for a letter or document.
   - *Example:* Seal the contract in a padded **envelope**.
 
-### 16. courier
-- **IPA:** /ˈkʊriə/
-- **Meaning 1 (n):** A person or company that delivers packages quickly.
-  - *Example:* The documents were sent by **courier** overnight.
+### 16. fax machine
+- **IPA:** /ˈfæks məˌʃiːn/
+- **Meaning 1 (n):** A machine that sends and receives copies of documents over a phone line.
+  - *Example:* The signed form came through on the **fax machine**.
 
 ### 17. reception
 - **IPA:** /rɪˈsepʃn/
@@ -95,7 +95,7 @@
 - **Meaning 2 (n):** The way people react to something.
   - *Example:* The new policy got a cool **reception** from staff.
 - **Meaning 3 (n):** A formal social event to welcome someone.
-  - *Example:* There will be a **reception** for the delegates at 6 p.m.
+  - *Example:* There will be a **reception** for the [delegates](04-human-resources-and-recruitment.md#26-delegate) at 6 p.m.
 
 ### 18. cubicle
 - **IPA:** /ˈkjuːbɪkl/
@@ -105,12 +105,12 @@
 ### 19. workstation
 - **IPA:** /ˈwɜːksteɪʃn/
 - **Meaning 1 (n):** A desk and computer where one person works.
-  - *Example:* Each **workstation** has two monitors.
+  - *Example:* Each **workstation** has two [monitors](../toeic-3000/06-projects-and-deadlines.md#monitor).
 
 ### 20. intercom
 - **IPA:** /ˈɪntəkɒm/
 - **Meaning 1 (n):** A system that lets people in different rooms speak to each other.
-  - *Example:* Reception called the warehouse over the **intercom**.
+  - *Example:* Reception called the [warehouse](11-logistics-shipping-and-warehousing.md#15-warehouse) over the **intercom**.
 
 ### 21. whiteboard
 - **IPA:** /ˈwaɪtbɔːd/
@@ -120,7 +120,7 @@
 ### 22. clipboard
 - **IPA:** /ˈklɪpbɔːd/
 - **Meaning 1 (n):** A small board with a clip at the top for holding papers.
-  - *Example:* The inspector walked around with a **clipboard**.
+  - *Example:* The [inspector](../toeic-3000/15-taxation-and-regulation.md#inspector) walked around with a **clipboard**.
 - **Meaning 2 (n):** A temporary storage area for copied computer data.
   - *Example:* Copy the address to the **clipboard** and paste it below.
 
@@ -149,19 +149,17 @@
 - **Meaning 1 (n):** A building or place provided for a particular purpose.
   - *Example:* The new **facility** can process twice the volume.
 - **Meaning 2 (n):** A service or feature that makes something possible or easier.
-  - *Example:* The account offers an overdraft **facility**.
+  - *Example:* The account offers an [overdraft](02-finance-and-banking.md#28-overdraft) **facility**.
 
-### 28. premises
-- **IPA:** /ˈpremɪsɪz/
-- **Meaning 1 (n):** The land and buildings owned or used by a business.
-  - *Example:* Smoking is not allowed anywhere on the **premises**.
+### 28. letterhead
+- **IPA:** /ˈletəhed/
+- **Meaning 1 (n):** The printed name and address of a company at the top of its writing paper.
+  - *Example:* Official letters must be printed on company **letterhead**.
 
-### 29. inventory
-- **IPA:** /ˈɪnvəntri/
-- **Meaning 1 (n):** A complete list of goods or items in stock.
-  - *Example:* Staff take a full **inventory** at the end of each month.
-- **Meaning 2 (n):** The goods a business currently has in stock.
-  - *Example:* Excess **inventory** is tying up cash.
+### 29. filing cabinet
+- **IPA:** /ˈfaɪlɪŋ ˌkæbɪnət/
+- **Meaning 1 (n):** A piece of office furniture with drawers for storing documents.
+  - *Example:* The signed contracts are kept in the locked **filing cabinet**.
 
 ### 30. logbook
 - **IPA:** /ˈlɒɡbʊk/

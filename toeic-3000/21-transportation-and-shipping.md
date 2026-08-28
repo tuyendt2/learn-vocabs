@@ -26,7 +26,7 @@
 ### consignee
 - **IPA:** /ˌkɒnsaɪˈniː/
 - **Meaning 1 (n):** The person or company to whom a shipment is sent.
-  - *Example:* Delivery cannot be made without the **consignee**'s signature.
+  - *Example:* Delivery cannot be made without the **consignee**'s [signature](../toeic-600/01-contracts-and-agreements.md#12-signature).
 
 ### dispatcher
 - **IPA:** /dɪˈspætʃə/
@@ -36,12 +36,12 @@
 ### logistics provider
 - **IPA:** /ləˈdʒɪstɪks prəˌvaɪdə/
 - **Meaning 1 (n):** A company that manages transport, storage, and distribution for clients.
-  - *Example:* An outside **logistics provider** runs the whole warehouse operation.
+  - *Example:* An outside **logistics provider** runs the whole [warehouse](../toeic-600/11-logistics-shipping-and-warehousing.md#15-warehouse) operation.
 
 ### third-party logistics
 - **IPA:** /ˌθɜːd pɑːti ləˈdʒɪstɪks/
 - **Meaning 1 (n):** The outsourcing of warehousing and distribution to a specialist company.
-  - *Example:* Moving to **third-party logistics** freed up capital tied in warehouses.
+  - *Example:* Moving to **third-party logistics** freed up capital tied in [warehouses](../toeic-600/11-logistics-shipping-and-warehousing.md#15-warehouse).
 
 ### container
 - **IPA:** /kənˈteɪnə/
@@ -61,7 +61,7 @@
 ### tanker
 - **IPA:** /ˈtæŋkə/
 - **Meaning 1 (n):** A ship or truck built to carry liquids such as oil or chemicals.
-  - *Example:* The **tanker** discharged its crude oil at the refinery berth.
+  - *Example:* The **tanker** [discharged](../toeic-600/17-health-and-medical.md#30-discharge) its [crude oil](19-energy-and-utilities.md#crude-oil) at the [refinery](19-energy-and-utilities.md#refinery) berth.
 
 ### barge
 - **IPA:** /bɑːdʒ/
@@ -71,7 +71,7 @@
 ### port
 - **IPA:** /pɔːt/
 - **Meaning 1 (n):** A town or area with a harbour where ships load and unload.
-  - *Example:* Congestion at the **port** delayed every container by days.
+  - *Example:* Congestion at the **port** delayed every [container](21-transportation-and-shipping.md#container) by days.
 
 ### harbour
 - **IPA:** /ˈhɑːbə/
@@ -86,7 +86,7 @@
 ### quay
 - **IPA:** /kiː/
 - **Meaning 1 (n):** A solid structure along the water's edge where ships are loaded and unloaded.
-  - *Example:* Cranes line the **quay** at the container terminal.
+  - *Example:* Cranes line the **quay** at the [container terminal](21-transportation-and-shipping.md#container-terminal).
 
 ### wharf
 - **IPA:** /wɔːf/
@@ -96,7 +96,7 @@
 ### dock
 - **IPA:** /dɒk/
 - **Meaning 1 (n):** An enclosed area of water where ships are loaded, unloaded, or repaired.
-  - *Example:* The ship went into **dock** for a hull inspection.
+  - *Example:* The ship went into **dock** for a hull [inspection](../toeic-600/12-quality-control-and-standards.md#2-inspection).
 - **Meaning 2 (v):** (of a ship) To come into a dock and stop.
   - *Example:* The ferry **docks** at 6 a.m.
 
@@ -108,7 +108,7 @@
 ### gantry crane
 - **IPA:** /ˈɡæntri kreɪn/
 - **Meaning 1 (n):** A large crane on a raised frame that lifts containers on and off ships.
-  - *Example:* Each **gantry crane** can move 30 containers an hour.
+  - *Example:* Each **gantry crane** can move 30 [containers](21-transportation-and-shipping.md#container) an hour.
 
 ### containerization
 - **IPA:** /kənˌteɪnəraɪˈzeɪʃn/
@@ -118,7 +118,7 @@
 ### break-bulk
 - **IPA:** /ˈbreɪk bʌlk/
 - **Meaning 1 (n):** Cargo that is loaded piece by piece rather than in containers.
-  - *Example:* Heavy machinery is shipped as **break-bulk** on special vessels.
+  - *Example:* Heavy [machinery](../toeic-600/10-manufacturing-and-production.md#12-machinery) is shipped as **break-bulk** on special vessels.
 
 ### palletization
 - **IPA:** /ˌpælətaɪˈzeɪʃn/
@@ -138,7 +138,7 @@
 ### drayage
 - **IPA:** /ˈdreɪɪdʒ/
 - **Meaning 1 (n):** The short-distance transport of goods, especially containers to and from a port.
-  - *Example:* **Drayage** from the terminal to the warehouse added $150 per container.
+  - *Example:* **Drayage** from the [terminal](../toeic-600/14-travel-and-transportation.md#11-terminal) to the [warehouse](../toeic-600/11-logistics-shipping-and-warehousing.md#15-warehouse) added $150 per [container](21-transportation-and-shipping.md#container).
 
 ### last mile
 - **IPA:** /ˌlɑːst ˈmaɪl/
@@ -173,12 +173,12 @@
 ### manifest
 - **IPA:** /ˈmænɪfest/
 - **Meaning 1 (n):** A list of all the cargo or passengers carried by a ship, plane, or truck.
-  - *Example:* Customs checked the goods against the **manifest**.
+  - *Example:* [Customs](../toeic-600/11-logistics-shipping-and-warehousing.md#13-customs) checked the goods against the **manifest**.
 
 ### customs declaration
 - **IPA:** /ˈkʌstəmz ˌdekləreɪʃn/
 - **Meaning 1 (n):** An official statement of goods being imported or exported, for tax and control.
-  - *Example:* An error on the **customs declaration** held the shipment for a week.
+  - *Example:* An error on the **customs declaration** held the [shipment](../toeic-600/11-logistics-shipping-and-warehousing.md#1-shipment) for a week.
 
 ### tariff code
 - **IPA:** /ˈtærɪf kəʊd/
@@ -223,12 +223,12 @@
 ### chartering
 - **IPA:** /ˈtʃɑːtərɪŋ/
 - **Meaning 1 (n):** The hiring of a ship or aircraft for a voyage or a period.
-  - *Example:* **Chartering** a whole vessel made sense for the large one-off shipment.
+  - *Example:* **Chartering** a whole vessel made sense for the large one-off [shipment](../toeic-600/11-logistics-shipping-and-warehousing.md#1-shipment).
 
 ### freight rate
 - **IPA:** /ˈfreɪt reɪt/
 - **Meaning 1 (n):** The price charged for transporting goods.
-  - *Example:* **Freight rates** on the Asia route tripled during the shortage.
+  - *Example:* **Freight rates** on the Asia route tripled during the [shortage](11-economics-and-markets.md#shortage).
 
 ### fuel surcharge
 - **IPA:** /ˈfjuːəl ˌsɜːtʃɑːdʒ/
@@ -268,12 +268,12 @@
 ### road haulage
 - **IPA:** /ˈrəʊd ˌhɔːlɪdʒ/
 - **Meaning 1 (n):** The business of transporting goods by truck.
-  - *Example:* **Road haulage** still carries most freight within the country.
+  - *Example:* **Road haulage** still carries most [freight](../toeic-600/11-logistics-shipping-and-warehousing.md#2-freight) within the country.
 
 ### rail freight
 - **IPA:** /ˈreɪl freɪt/
 - **Meaning 1 (n):** The transport of goods by train.
-  - *Example:* Shifting bulk cargo to **rail freight** cut both cost and emissions.
+  - *Example:* Shifting bulk cargo to **rail freight** cut both cost and [emissions](28-environment-and-sustainability.md#emissions).
 
 ### air cargo
 - **IPA:** /ˈeə ˌkɑːɡəʊ/
@@ -283,12 +283,12 @@
 ### courier network
 - **IPA:** /ˈkʊriə ˌnetwɜːk/
 - **Meaning 1 (n):** A connected system of depots and vehicles used to deliver parcels quickly.
-  - *Example:* The retailer joined a national **courier network** for next-day delivery.
+  - *Example:* The [retailer](16-retail-and-store-operations.md#retailer) joined a national **courier network** for next-day delivery.
 
 ### express delivery
 - **IPA:** /ɪkˌspres dɪˈlɪvəri/
 - **Meaning 1 (n):** A fast delivery service that costs more than standard shipping.
-  - *Example:* **Express delivery** guarantees the parcel arrives by noon the next day.
+  - *Example:* **Express delivery** [guarantees](../toeic-600/01-contracts-and-agreements.md#18-guarantee) the parcel arrives by noon the next day.
 
 ### perishable cargo
 - **IPA:** /ˈperɪʃəbl ˌkɑːɡəʊ/
@@ -303,7 +303,7 @@
 ### cargo insurance
 - **IPA:** /ˈkɑːɡəʊ ɪnˌʃʊərəns/
 - **Meaning 1 (n):** Insurance covering loss of or damage to goods while they are being transported.
-  - *Example:* **Cargo insurance** paid out when the container went overboard.
+  - *Example:* **Cargo insurance** paid out when the [container](21-transportation-and-shipping.md#container) went overboard.
 
 ### transloading
 - **IPA:** /trænsˈləʊdɪŋ/
@@ -313,12 +313,12 @@
 ### intermodal
 - **IPA:** /ˌɪntəˈməʊdl/
 - **Meaning 1 (adj):** Using more than one form of transport for a single shipment, without unpacking the container.
-  - *Example:* **Intermodal** transport moved the container by ship, rail, then road.
+  - *Example:* **Intermodal** transport moved the [container](21-transportation-and-shipping.md#container) by ship, rail, then road.
 
 ### supply chain visibility
 - **IPA:** /səˈplaɪ tʃeɪn ˌvɪzəˈbɪləti/
 - **Meaning 1 (n):** The ability to track goods and information at every stage of the supply chain.
-  - *Example:* New software gave managers full **supply chain visibility** from factory to shelf.
+  - *Example:* New [software](../toeic-600/13-technology-and-computers.md#1-software) gave managers full **supply chain visibility** from factory to shelf.
 
 ### supply chain
 - **IPA:** /səˈplaɪ tʃeɪn/
@@ -338,17 +338,17 @@
 ### shipment tracking
 - **IPA:** /ˈʃɪpmənt ˌtrækɪŋ/
 - **Meaning 1 (n):** The following of a consignment's location and status during transport.
-  - *Example:* **Shipment tracking** showed the container stuck at customs.
+  - *Example:* **Shipment tracking** showed the [container](21-transportation-and-shipping.md#container) stuck at [customs](../toeic-600/11-logistics-shipping-and-warehousing.md#13-customs).
 
 ### freight charge
 - **IPA:** /ˈfreɪt tʃɑːdʒ/
 - **Meaning 1 (n):** The amount billed for transporting goods.
-  - *Example:* The **freight charge** is added to the invoice separately.
+  - *Example:* The **freight charge** is added to the [invoice](../toeic-600/09-sales-and-purchasing.md#6-invoice) separately.
 
 ### cargo ship
 - **IPA:** /ˈkɑːɡəʊ ʃɪp/
 - **Meaning 1 (n):** A ship built to carry goods rather than passengers.
-  - *Example:* The **cargo ship** carried 8,000 containers on the Asia–Europe run.
+  - *Example:* The **cargo ship** carried 8,000 [containers](21-transportation-and-shipping.md#container) on the Asia–Europe run.
 
 ### container port
 - **IPA:** /kənˈteɪnə pɔːt/
@@ -358,7 +358,7 @@
 ### logistics network
 - **IPA:** /ləˈdʒɪstɪks ˌnetwɜːk/
 - **Meaning 1 (n):** The connected set of facilities and routes used to move goods from source to customer.
-  - *Example:* The retailer redesigned its **logistics network** around two mega-warehouses.
+  - *Example:* The [retailer](16-retail-and-store-operations.md#retailer) redesigned its **logistics network** around two mega-warehouses.
 
 ### shipping container
 - **IPA:** /ˈʃɪpɪŋ kənˌteɪnə/

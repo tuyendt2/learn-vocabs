@@ -1,26 +1,26 @@
 # 17 — Health & Medical
 
-### 1. appointment
-- **IPA:** /əˈpɔɪntmənt/
-- **Meaning 1 (n):** An arranged time to see a doctor or other professional.
-  - *Example:* I have a doctor's **appointment** at 3 p.m.
+### 1. waiting room
+- **IPA:** /ˈweɪtɪŋ ruːm/
+- **Meaning 1 (n):** A room where patients sit until the doctor is ready to see them.
+  - *Example:* The **waiting room** was full, so we sat for half an hour.
 
 ### 2. symptom
 - **IPA:** /ˈsɪmptəm/
 - **Meaning 1 (n):** A sign that you have an illness.
   - *Example:* A headache can be a **symptom** of stress.
 - **Meaning 2 (n):** A sign that something is wrong in a wider situation.
-  - *Example:* Rising complaints are a **symptom** of poor training.
+  - *Example:* Rising [complaints](20-customer-service-and-complaints.md#1-complaint) are a **symptom** of poor training.
 
 ### 3. prescription
 - **IPA:** /prɪˈskrɪpʃn/
 - **Meaning 1 (n):** A written order from a doctor for medicine.
-  - *Example:* Take this **prescription** to the pharmacy.
+  - *Example:* Take this **prescription** to the [pharmacy](17-health-and-medical.md#6-pharmacy).
 
 ### 4. diagnosis
 - **IPA:** /ˌdaɪəɡˈnəʊsɪs/
 - **Meaning 1 (n):** The identification of an illness after examining a patient.
-  - *Example:* The **diagnosis** was a minor infection.
+  - *Example:* The **diagnosis** was a minor [infection](../toeic-3000/29-health-medicine-and-wellness.md#infection).
 
 ### 5. treatment
 - **IPA:** /ˈtriːtmənt/
@@ -69,7 +69,7 @@
 ### 13. injury
 - **IPA:** /ˈɪndʒəri/
 - **Meaning 1 (n):** Physical harm to the body.
-  - *Example:* Report any workplace **injury** to your supervisor.
+  - *Example:* Report any workplace **injury** to your [supervisor](04-human-resources-and-recruitment.md#24-supervisor).
 
 ### 14. immunization
 - **IPA:** /ˌɪmjunaɪˈzeɪʃn/
@@ -84,19 +84,19 @@
 ### 16. chronic
 - **IPA:** /ˈkrɒnɪk/
 - **Meaning 1 (adj):** (of an illness) Lasting a long time; not easily cured.
-  - *Example:* She manages a **chronic** condition with daily medication.
+  - *Example:* She manages a **chronic** condition with daily [medication](17-health-and-medical.md#18-medication).
 - **Meaning 2 (adj):** (of a problem) Continuing for a long time and hard to solve.
-  - *Example:* The region has a **chronic** shortage of nurses.
+  - *Example:* The region has a **chronic** [shortage](../toeic-3000/11-economics-and-markets.md#shortage) of nurses.
 
 ### 17. outpatient
 - **IPA:** /ˈaʊtpeɪʃnt/
 - **Meaning 1 (n):** A patient who receives treatment without staying overnight in hospital.
-  - *Example:* Most of these procedures are done on an **outpatient** basis.
+  - *Example:* Most of these [procedures](../toeic-3000/27-science-and-research.md#procedure) are done on an **outpatient** basis.
 
 ### 18. medication
 - **IPA:** /ˌmedɪˈkeɪʃn/
 - **Meaning 1 (n):** Medicine used to treat an illness.
-  - *Example:* Keep your **medication** in your carry-on bag.
+  - *Example:* Keep your **medication** in your [carry-on](14-travel-and-transportation.md#7-carry-on) bag.
 
 ### 19. first aid
 - **IPA:** /ˌfɜːst ˈeɪd/
@@ -111,7 +111,7 @@
 ### 21. referral
 - **IPA:** /rɪˈfɜːrəl/
 - **Meaning 1 (n):** The act of sending a patient to another doctor or service.
-  - *Example:* You need a **referral** to see the heart specialist.
+  - *Example:* You need a **referral** to see the heart [specialist](17-health-and-medical.md#15-specialist).
 
 ### 22. dizzy
 - **IPA:** /ˈdɪzi/
@@ -121,12 +121,12 @@
 ### 23. nausea
 - **IPA:** /ˈnɔːziə/
 - **Meaning 1 (n):** The feeling that you are going to vomit.
-  - *Example:* **Nausea** is a common side effect of the medicine.
+  - *Example:* **Nausea** is a common [side effect](17-health-and-medical.md#27-side-effect) of the medicine.
 
 ### 24. rehabilitation
 - **IPA:** /ˌriːəˌbɪlɪˈteɪʃn/
 - **Meaning 1 (n):** The process of helping someone return to health or normal life.
-  - *Example:* His **rehabilitation** included several weeks of physiotherapy.
+  - *Example:* His **rehabilitation** included several weeks of [physiotherapy](../toeic-3000/29-health-medicine-and-wellness.md#physiotherapy).
 
 ### 25. contagious
 - **IPA:** /kənˈteɪdʒəs/
@@ -151,12 +151,12 @@
 ### 29. wellness
 - **IPA:** /ˈwelnəs/
 - **Meaning 1 (n):** The state of being in good health, especially as something you actively work at.
-  - *Example:* The company launched a **wellness** programme with gym membership.
+  - *Example:* The company launched a **wellness** programme with [gym membership](../toeic-3000/39-leisure-hobbies-and-sports.md#gym-membership).
 
 ### 30. discharge
 - **IPA:** /dɪsˈtʃɑːdʒ/ (v) · /ˈdɪstʃɑːdʒ/ (n)
 - **Meaning 1 (v):** To officially allow a patient to leave hospital.
-  - *Example:* She was **discharged** two days after surgery.
+  - *Example:* She was **discharged** two days after [surgery](../toeic-3000/29-health-medicine-and-wellness.md#surgery).
 - **Meaning 2 (v):** To release or send out something, such as liquid or gas.
   - *Example:* The plant must not **discharge** waste into the river.
 - **Meaning 3 (n):** The act of releasing someone or something.

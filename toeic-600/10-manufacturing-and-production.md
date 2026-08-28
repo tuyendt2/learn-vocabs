@@ -10,12 +10,12 @@
 ### 2. assembly line
 - **IPA:** /əˈsembli laɪn/
 - **Meaning 1 (n):** A line of workers and machines that put together a product step by step.
-  - *Example:* A fault on the **assembly line** halted production for an hour.
+  - *Example:* A fault on the **assembly line** halted [production](10-manufacturing-and-production.md#3-production) for an hour.
 
 ### 3. production
 - **IPA:** /prəˈdʌkʃn/
 - **Meaning 1 (n):** The process of making or growing things to be sold.
-  - *Example:* **Production** rose by 12% after the upgrade.
+  - *Example:* **Production** rose by 12% after the [upgrade](13-technology-and-computers.md#4-upgrade).
 - **Meaning 2 (n):** The amount of something that is made.
   - *Example:* Daily **production** is around 4,000 units.
 
@@ -50,10 +50,10 @@
 - **Meaning 3 (v):** To put seeds or plants in the ground to grow.
   - *Example:* They **planted** trees around the car park.
 
-### 9. warehouse
-- **IPA:** /ˈweəhaʊs/
-- **Meaning 1 (n):** A large building for storing goods before they are sold or sent out.
-  - *Example:* Finished products are moved to the **warehouse** daily.
+### 9. factory floor
+- **IPA:** /ˈfæktri flɔː/
+- **Meaning 1 (n):** The area of a factory where the machines are and the products are made.
+  - *Example:* Managers spend an hour a day on the **factory floor**.
 
 ### 10. defect
 - **IPA:** /ˈdiːfekt/
@@ -87,7 +87,7 @@
 ### 15. downtime
 - **IPA:** /ˈdaʊntaɪm/
 - **Meaning 1 (n):** Time when a machine or system is not working.
-  - *Example:* Better maintenance reduced **downtime** by half.
+  - *Example:* Better [maintenance](05-office-procedures-and-equipment.md#25-maintenance) reduced **downtime** by half.
 
 ### 16. workshop
 - **IPA:** /ˈwɜːkʃɒp/
@@ -104,7 +104,7 @@
 ### 18. throughput
 - **IPA:** /ˈθruːpʊt/
 - **Meaning 1 (n):** The amount of material or items passing through a system in a given time.
-  - *Example:* The upgrade raised **throughput** to 900 boxes an hour.
+  - *Example:* The [upgrade](13-technology-and-computers.md#4-upgrade) raised **throughput** to 900 boxes an hour.
 
 ### 19. batch
 - **IPA:** /bætʃ/
@@ -114,7 +114,7 @@
 ### 20. conveyor belt
 - **IPA:** /kənˈveɪə belt/
 - **Meaning 1 (n):** A continuous moving band that carries objects from one place to another.
-  - *Example:* Boxes travel along the **conveyor belt** to the loading dock.
+  - *Example:* Boxes travel along the **conveyor belt** to the [loading dock](11-logistics-shipping-and-warehousing.md#11-loading-dock).
 
 ### 21. fabricate
 - **IPA:** /ˈfæbrɪkeɪt/
@@ -131,7 +131,7 @@
 ### 23. prototype
 - **IPA:** /ˈprəʊtətaɪp/
 - **Meaning 1 (n):** The first model of a product, made to test the design.
-  - *Example:* The **prototype** passed all the stress tests.
+  - *Example:* The **prototype** passed all the [stress tests](../toeic-3000/17-manufacturing-and-engineering.md#stress-test).
 
 ### 24. yield
 - **IPA:** /jiːld/
@@ -143,7 +143,7 @@
 ### 25. maintenance crew
 - **IPA:** /ˈmeɪntənəns kruː/
 - **Meaning 1 (n):** A team responsible for keeping machines and buildings working.
-  - *Example:* The **maintenance crew** works overnight to avoid stopping production.
+  - *Example:* The **maintenance crew** works overnight to avoid stopping [production](10-manufacturing-and-production.md#3-production).
 
 ### 26. hazard
 - **IPA:** /ˈhæzəd/
@@ -153,7 +153,7 @@
 ### 27. protective gear
 - **IPA:** /prəˈtektɪv ɡɪə/
 - **Meaning 1 (n):** Clothing and equipment worn to prevent injury.
-  - *Example:* **Protective gear** must be worn on the factory floor.
+  - *Example:* **Protective gear** must be worn on the [factory floor](10-manufacturing-and-production.md#9-factory-floor).
 
 ### 28. scrap
 - **IPA:** /skræp/

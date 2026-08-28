@@ -15,10 +15,10 @@
 - **Meaning 1 (n):** A hotel employee who helps guests with bookings, tickets, and advice.
   - *Example:* The **concierge** arranged a taxi to the airport.
 
-### 4. vacancy
-- **IPA:** /ˈveɪkənsi/
-- **Meaning 1 (n):** A room that is available in a hotel.
-  - *Example:* They had one **vacancy** left for the weekend.
+### 4. twin room
+- **IPA:** /ˈtwɪn ruːm/
+- **Meaning 1 (n):** A hotel room with two single beds.
+  - *Example:* The [colleagues](../toeic-3000/04-teamwork-and-workplace-relationships.md#colleague) shared a **twin room** to keep costs down.
 
 ### 5. check-out
 - **IPA:** /ˈtʃekaʊt/
@@ -33,7 +33,7 @@
 ### 7. suite
 - **IPA:** /swiːt/
 - **Meaning 1 (n):** A set of connected rooms in a hotel, usually with a sitting room.
-  - *Example:* The manager upgraded us to a **suite**.
+  - *Example:* The manager [upgraded](13-technology-and-computers.md#4-upgrade) us to a **suite**.
 
 ### 8. housekeeping
 - **IPA:** /ˈhaʊskiːpɪŋ/
@@ -55,7 +55,7 @@
 ### 11. rate
 - **IPA:** /reɪt/
 - **Meaning 1 (n):** A fixed price paid for a service.
-  - *Example:* The corporate **rate** is lower than the walk-in price.
+  - *Example:* The [corporate](../toeic-3000/02-company-organization-and-departments.md#corporate) **rate** is lower than the [walk-in](15-hotels-and-accommodation.md#28-walk-in) price.
 - **Meaning 2 (n):** The speed or frequency at which something happens.
   - *Example:* The cancellation **rate** rose during the storm.
 - **Meaning 3 (v):** To judge the quality or standard of something.
@@ -81,27 +81,27 @@
 ### 15. room service
 - **IPA:** /ˈruːm ˌsɜːvɪs/
 - **Meaning 1 (n):** A hotel service that brings food and drink to guests' rooms.
-  - *Example:* We ordered **room service** after the late meeting.
+  - *Example:* We ordered **room service** after the late [meeting](06-meetings-and-presentations.md#1-meeting).
 
 ### 16. booking
 - **IPA:** /ˈbʊkɪŋ/
 - **Meaning 1 (n):** An arrangement to have a room, seat, or table at a future time.
   - *Example:* Your **booking** is confirmed for three nights.
 
-### 17. deposit
-- **IPA:** /dɪˈpɒzɪt/
-- **Meaning 1 (n):** A sum of money paid in advance and returned later if nothing is damaged.
-  - *Example:* A $50 **deposit** is charged at check-in.
+### 17. key card
+- **IPA:** /ˈkiː kɑːd/
+- **Meaning 1 (n):** A plastic card that opens a hotel room door instead of a metal key.
+  - *Example:* The **key card** stopped working, so she went back to reception.
 
 ### 18. no-show
 - **IPA:** /ˈnəʊ ʃəʊ/
 - **Meaning 1 (n):** A person who has a booking but does not arrive.
   - *Example:* **No-shows** are charged for the first night.
 
-### 19. upgrade
-- **IPA:** /ˈʌpɡreɪd/
-- **Meaning 1 (n):** A move to a better room or class of service.
-  - *Example:* Loyalty members often get a free **upgrade**.
+### 19. wake-up call
+- **IPA:** /ˈweɪk ʌp kɔːl/
+- **Meaning 1 (n):** A phone call from hotel staff to wake a guest at a requested time.
+  - *Example:* He asked reception for a **wake-up call** at six.
 
 ### 20. checkout time
 - **IPA:** /ˈtʃekaʊt taɪm/
@@ -128,7 +128,7 @@
 ### 24. rate plan
 - **IPA:** /ˈreɪt plæn/
 - **Meaning 1 (n):** A set of prices and conditions offered for a room.
-  - *Example:* The flexible **rate plan** allows free cancellation.
+  - *Example:* The [flexible](../toeic-3000/09-negotiation-and-persuasion.md#flexible) **rate plan** allows free cancellation.
 
 ### 25. adjoining
 - **IPA:** /əˈdʒɔɪnɪŋ/

@@ -6,17 +6,17 @@
 ### prognosis
 - **IPA:** /prɒɡˈnəʊsɪs/
 - **Meaning 1 (n):** A doctor's prediction of how an illness will develop.
-  - *Example:* With early treatment, the **prognosis** is good.
+  - *Example:* With early [treatment](../toeic-600/17-health-and-medical.md#5-treatment), the **prognosis** is good.
 
 ### syndrome
 - **IPA:** /ˈsɪndrəʊm/
 - **Meaning 1 (n):** A group of symptoms that regularly occur together and indicate a condition.
-  - *Example:* The **syndrome** combines fatigue, joint pain, and poor sleep.
+  - *Example:* The **syndrome** combines [fatigue](17-manufacturing-and-engineering.md#fatigue), joint pain, and poor sleep.
 
 ### condition
 - **IPA:** /kənˈdɪʃn/
 - **Meaning 1 (n):** An illness or medical problem, especially a long-lasting one.
-  - *Example:* She manages the **condition** with diet and medication.
+  - *Example:* She manages the **condition** with diet and [medication](../toeic-600/17-health-and-medical.md#18-medication).
 
 ### disorder
 - **IPA:** /dɪsˈɔːdə/
@@ -31,12 +31,12 @@
 ### chronic illness
 - **IPA:** /ˌkrɒnɪk ˈɪlnəs/
 - **Meaning 1 (n):** A disease that lasts a long time and is often not fully curable.
-  - *Example:* Support groups help people cope with **chronic illness**.
+  - *Example:* [Support](04-teamwork-and-workplace-relationships.md#support) groups help people cope with **chronic illness**.
 
 ### acute
 - **IPA:** /əˈkjuːt/
 - **Meaning 1 (adj):** (of an illness) Severe and sudden, but usually short.
-  - *Example:* He was admitted with an **acute** infection.
+  - *Example:* He was admitted with an **acute** [infection](29-health-medicine-and-wellness.md#infection).
 
 ### remission
 - **IPA:** /rɪˈmɪʃn/
@@ -46,22 +46,22 @@
 ### relapse
 - **IPA:** /rɪˈlæps/
 - **Meaning 1 (n):** A return of an illness after a period of improvement.
-  - *Example:* Stopping the medication early can cause a **relapse**.
+  - *Example:* Stopping the [medication](../toeic-600/17-health-and-medical.md#18-medication) early can cause a **relapse**.
 
 ### complication
 - **IPA:** /ˌkɒmplɪˈkeɪʃn/
 - **Meaning 1 (n):** An extra medical problem that develops during an illness or after treatment.
-  - *Example:* The surgery went well, with no **complications**.
+  - *Example:* The [surgery](29-health-medicine-and-wellness.md#surgery) went well, with no **complications**.
 
 ### comorbidity
 - **IPA:** /ˌkəʊmɔːˈbɪdəti/
 - **Meaning 1 (n):** The presence of one or more additional conditions alongside a main one.
-  - *Example:* Diabetes is a common **comorbidity** in older heart patients.
+  - *Example:* Diabetes is a common **comorbidity** in older heart [patients](29-health-medicine-and-wellness.md#patient).
 
 ### screening
 - **IPA:** /ˈskriːnɪŋ/
 - **Meaning 1 (n):** Testing large numbers of people to find early signs of a disease.
-  - *Example:* Regular **screening** catches the condition before symptoms appear.
+  - *Example:* Regular **screening** catches the condition before [symptoms](10-problem-solving-and-decision-making.md#symptom) appear.
 
 ### vaccination
 - **IPA:** /ˌvæksɪˈneɪʃn/
@@ -76,7 +76,7 @@
 ### antibody
 - **IPA:** /ˈæntibɒdi/
 - **Meaning 1 (n):** A protein made by the body to fight a specific germ.
-  - *Example:* A blood test showed high levels of **antibody** after infection.
+  - *Example:* A blood test showed high levels of **antibody** after [infection](29-health-medicine-and-wellness.md#infection).
 
 ### immunity
 - **IPA:** /ɪˈmjuːnəti/
@@ -101,7 +101,7 @@
 ### contraindication
 - **IPA:** /ˌkɒntrəˌɪndɪˈkeɪʃn/
 - **Meaning 1 (n):** A reason why a particular treatment should not be used for a patient.
-  - *Example:* High blood pressure is a **contraindication** for this medicine.
+  - *Example:* High [blood pressure](29-health-medicine-and-wellness.md#blood-pressure) is a **contraindication** for this medicine.
 
 ### adverse reaction
 - **IPA:** /ˌædvɜːs riˈækʃn/
@@ -121,7 +121,7 @@
 ### therapy
 - **IPA:** /ˈθerəpi/
 - **Meaning 1 (n):** Treatment intended to relieve or cure an illness or difficulty.
-  - *Example:* Speech **therapy** helped him recover after the stroke.
+  - *Example:* Speech **therapy** helped him [recover](../toeic-600/17-health-and-medical.md#12-recover) after the stroke.
 
 ### physiotherapy
 - **IPA:** /ˌfɪziəʊˈθerəpi/
@@ -151,22 +151,22 @@
 ### general practitioner
 - **IPA:** /ˌdʒenrəl prækˈtɪʃənə/
 - **Meaning 1 (n):** A doctor who treats common conditions and refers patients to specialists.
-  - *Example:* See your **general practitioner** first for a referral.
+  - *Example:* See your **general practitioner** first for a [referral](../toeic-600/17-health-and-medical.md#21-referral).
 
 ### inpatient
 - **IPA:** /ˈɪnpeɪʃnt/
 - **Meaning 1 (n):** A patient who stays in hospital overnight or longer for treatment.
-  - *Example:* As an **inpatient**, she was monitored for three days.
+  - *Example:* As an **inpatient**, she was [monitored](06-projects-and-deadlines.md#monitor) for three days.
 
 ### ward
 - **IPA:** /wɔːd/
 - **Meaning 1 (n):** A room or section of a hospital for patients with similar needs.
-  - *Example:* He was moved from intensive care to a general **ward**.
+  - *Example:* He was moved from [intensive care](29-health-medicine-and-wellness.md#intensive-care) to a general **ward**.
 
 ### intensive care
 - **IPA:** /ɪnˌtensɪv ˈkeə/
 - **Meaning 1 (n):** Hospital treatment for people who are very seriously ill, with constant monitoring.
-  - *Example:* The patient spent two nights in **intensive care**.
+  - *Example:* The [patient](29-health-medicine-and-wellness.md#patient) spent two nights in **intensive care**.
 
 ### triage
 - **IPA:** /ˈtriːɑːʒ/
@@ -181,7 +181,7 @@
 ### paramedic
 - **IPA:** /ˌpærəˈmedɪk/
 - **Meaning 1 (n):** A trained person who gives emergency medical care, often in an ambulance.
-  - *Example:* The **paramedic** stabilised the patient on the way to hospital.
+  - *Example:* The **paramedic** stabilised the [patient](29-health-medicine-and-wellness.md#patient) on the way to [hospital](29-health-medicine-and-wellness.md#hospital).
 
 ### first responder
 - **IPA:** /ˌfɜːst rɪˈspɒndə/
@@ -216,12 +216,12 @@
 ### nutrition
 - **IPA:** /njuˈtrɪʃn/
 - **Meaning 1 (n):** The process of getting the food needed for health and growth; the study of this.
-  - *Example:* Good **nutrition** speeds recovery after illness.
+  - *Example:* Good **nutrition** speeds [recovery](11-economics-and-markets.md#recovery) after illness.
 
 ### dietitian
 - **IPA:** /ˌdaɪəˈtɪʃn/
 - **Meaning 1 (n):** An expert who advises people on what to eat for health or a medical condition.
-  - *Example:* A **dietitian** drew up a meal plan for the diabetic patients.
+  - *Example:* A **dietitian** drew up a meal plan for the diabetic [patients](29-health-medicine-and-wellness.md#patient).
 
 ### calorie
 - **IPA:** /ˈkæləri/
@@ -241,12 +241,12 @@
 ### sedentary
 - **IPA:** /ˈsedntri/
 - **Meaning 1 (adj):** Involving a lot of sitting and little physical activity.
-  - *Example:* A **sedentary** job raises the need for exercise outside work.
+  - *Example:* A **sedentary** job raises the need for [exercise](39-leisure-hobbies-and-sports.md#exercise) outside work.
 
 ### aerobic
 - **IPA:** /eəˈrəʊbɪk/
 - **Meaning 1 (adj):** (of exercise) Increasing the heart rate and breathing to improve fitness.
-  - *Example:* Thirty minutes of **aerobic** exercise a day was advised.
+  - *Example:* Thirty minutes of **aerobic** [exercise](39-leisure-hobbies-and-sports.md#exercise) a day was advised.
 
 ### strength training
 - **IPA:** /ˈstreŋθ ˌtreɪnɪŋ/
@@ -256,12 +256,12 @@
 ### flexibility
 - **IPA:** /ˌfleksəˈbɪləti/
 - **Meaning 1 (n):** The ability to bend and stretch the body easily.
-  - *Example:* Stretching improved his **flexibility** and reduced back pain.
+  - *Example:* [Stretching](39-leisure-hobbies-and-sports.md#stretching) improved his **flexibility** and reduced back pain.
 
 ### mindfulness
 - **IPA:** /ˈmaɪndflnəs/
 - **Meaning 1 (n):** The practice of paying calm attention to the present moment.
-  - *Example:* The company offers **mindfulness** sessions at lunchtime.
+  - *Example:* The company offers **mindfulness** [sessions](25-information-technology.md#session) at lunchtime.
 
 ### meditation
 - **IPA:** /ˌmedɪˈteɪʃn/
@@ -271,7 +271,7 @@
 ### stress management
 - **IPA:** /ˈstres ˌmænɪdʒmənt/
 - **Meaning 1 (n):** Techniques and habits for keeping stress at a healthy level.
-  - *Example:* The workshop covered **stress management** for busy teams.
+  - *Example:* The [workshop](../toeic-600/10-manufacturing-and-production.md#16-workshop) covered **stress management** for busy teams.
 
 ### sleep hygiene
 - **IPA:** /ˈsliːp ˌhaɪdʒiːn/
@@ -291,7 +291,7 @@
 ### health insurance premium
 - **IPA:** /ˈhelθ ɪnˌʃʊərəns ˌpriːmiəm/
 - **Meaning 1 (n):** The regular payment made for a health insurance policy.
-  - *Example:* The **health insurance premium** rose 9% at renewal.
+  - *Example:* The **health insurance premium** rose 9% at [renewal](../toeic-600/01-contracts-and-agreements.md#14-renewal).
 
 ### co-pay
 - **IPA:** /ˈkəʊ peɪ/
@@ -316,7 +316,7 @@
 ### nurse
 - **IPA:** /nɜːs/
 - **Meaning 1 (n):** A person trained to care for sick or injured people, especially in a hospital.
-  - *Example:* A **nurse** checked his temperature every hour.
+  - *Example:* A **nurse** checked his [temperature](34-weather-climate-and-natural-events.md#temperature) every hour.
 
 ### healthcare
 - **IPA:** /ˈhelθkeə/
@@ -326,7 +326,7 @@
 ### medical record
 - **IPA:** /ˈmedɪkl ˌrekɔːd/
 - **Meaning 1 (n):** A written or electronic file of a patient's history and treatment.
-  - *Example:* The specialist requested the patient's full **medical record**.
+  - *Example:* The [specialist](../toeic-600/17-health-and-medical.md#15-specialist) requested the patient's full **medical record**.
 
 ### medical history
 - **IPA:** /ˈmedɪkl ˌhɪstri/
@@ -336,17 +336,17 @@
 ### physical examination
 - **IPA:** /ˌfɪzɪkl ɪɡˌzæmɪˈneɪʃn/
 - **Meaning 1 (n):** A doctor's hands-on check of the body for signs of illness.
-  - *Example:* A routine **physical examination** found the raised blood pressure.
+  - *Example:* A routine **physical examination** found the raised [blood pressure](29-health-medicine-and-wellness.md#blood-pressure).
 
 ### treatment plan
 - **IPA:** /ˈtriːtmənt plæn/
 - **Meaning 1 (n):** A written outline of the steps a patient will take to treat a condition.
-  - *Example:* The **treatment plan** combines medication with weekly therapy.
+  - *Example:* The **treatment plan** combines [medication](../toeic-600/17-health-and-medical.md#18-medication) with weekly [therapy](29-health-medicine-and-wellness.md#therapy).
 
 ### primary care
 - **IPA:** /ˌpraɪməri ˈkeə/
 - **Meaning 1 (n):** The first level of health care, given by GPs and local clinics.
-  - *Example:* Investment in **primary care** eased pressure on hospitals.
+  - *Example:* [Investment](../toeic-600/02-finance-and-banking.md#14-investment) in **primary care** eased pressure on [hospitals](29-health-medicine-and-wellness.md#hospital).
 
 ### health check
 - **IPA:** /ˈhelθ tʃek/
@@ -356,7 +356,7 @@
 ### ward round
 - **IPA:** /ˈwɔːd raʊnd/
 - **Meaning 1 (n):** A regular visit by doctors to each patient on a hospital ward.
-  - *Example:* Decisions about discharge are made on the morning **ward round**.
+  - *Example:* Decisions about [discharge](../toeic-600/17-health-and-medical.md#30-discharge) are made on the morning **ward round**.
 
 ### medical staff
 - **IPA:** /ˈmedɪkl stɑːf/
@@ -366,7 +366,7 @@
 ### clinical trial
 - **IPA:** /ˌklɪnɪkl ˈtraɪəl/
 - **Meaning 1 (n):** A carefully controlled test of a new treatment on volunteers.
-  - *Example:* The drug is in a large **clinical trial** across twelve hospitals.
+  - *Example:* The drug is in a large **clinical trial** across twelve [hospitals](29-health-medicine-and-wellness.md#hospital).
 
 ### symptom management
 - **IPA:** /ˈsɪmptəm ˌmænɪdʒmənt/

@@ -6,21 +6,21 @@
 ### ambition
 - **IPA:** /æmˈbɪʃn/
 - **Meaning 1 (n):** A strong desire to achieve success, power, or a particular goal.
-  - *Example:* Her **ambition** is to run the regional office within five years.
+  - *Example:* Her **ambition** is to run the [regional office](02-company-organization-and-departments.md#regional-office) within five years.
 - **Meaning 2 (n):** A particular aim or objective that someone works toward.
   - *Example:* Opening a second branch has been his main **ambition** since 2022.
 
 ### aptitude
 - **IPA:** /ˈæptɪtjuːd/
 - **Meaning 1 (n):** A natural ability or skill for learning or doing something.
-  - *Example:* He showed an **aptitude** for figures and moved into [accounting](13-accounting-and-auditing.md#bookkeeping).
+  - *Example:* He showed an **aptitude** for figures and moved into accounting.
 - **Meaning 2 (n):** A tendency to do something well.
   - *Example:* She has a real **aptitude** for calming difficult clients.
 
 ### expertise
 - **IPA:** /ˌekspɜːˈtiːz/
 - **Meaning 1 (n):** Deep knowledge or skill in a particular field.
-  - *Example:* We hired a [consultant](#consultant) for her **expertise** in supply chains.
+  - *Example:* We hired a [consultant](01-career-and-professional-development.md#consultant) for her **expertise** in [supply chains](21-transportation-and-shipping.md#supply-chain).
 
 ### proficiency
 - **IPA:** /prəˈfɪʃnsi/
@@ -37,7 +37,7 @@
 - **Meaning 1 (n):** Qualifications, achievements, or experience that make someone suitable for a role.
   - *Example:* Her **credentials** as a project leader are impressive.
 - **Meaning 2 (n):** Documents proving a person's identity or status.
-  - *Example:* Visitors must show their **credentials** at the security desk.
+  - *Example:* Visitors must show their **credentials** at the [security](12-banking-and-investment.md#security) desk.
 
 ### accreditation
 - **IPA:** /əˌkredɪˈteɪʃn/
@@ -47,19 +47,19 @@
 ### mentor
 - **IPA:** /ˈmentɔː/
 - **Meaning 1 (n):** An experienced person who advises and guides someone less experienced.
-  - *Example:* Every new [graduate](#graduate) is paired with a **mentor** for the first year.
+  - *Example:* Every new [graduate](01-career-and-professional-development.md#graduate) is paired with a **mentor** for the first year.
 - **Meaning 2 (v):** To advise and train a less experienced person.
   - *Example:* She **mentors** two junior analysts on the team.
 
 ### internship
 - **IPA:** /ˈɪntɜːnʃɪp/
 - **Meaning 1 (n):** A period of work experience offered by an employer, often to students.
-  - *Example:* His summer **internship** turned into a full-time offer.
+  - *Example:* His summer **internship** turned into a [full-time](39-leisure-hobbies-and-sports.md#full-time) offer.
 
 ### apprenticeship
 - **IPA:** /əˈprentɪʃɪp/
 - **Meaning 1 (n):** A period of training in which someone learns a skilled trade on the job.
-  - *Example:* She completed a four-year **apprenticeship** as an electrician.
+  - *Example:* She completed a four-year **apprenticeship** as an [electrician](37-home-housing-and-maintenance.md#electrician).
 
 ### trainee
 - **IPA:** /ˌtreɪˈniː/
@@ -70,20 +70,20 @@
 - **IPA:** /ˈmaɪlstəʊn/
 - **Meaning 1 (n):** An important point or achievement in the progress of something.
   - *Example:* Reaching 1,000 customers was a major **milestone** for the [startup](02-company-organization-and-departments.md#startup).
-- **Meaning 2 (n):** A scheduled point in a [project](06-projects-and-deadlines.md#project) used to measure progress.
-  - *Example:* The next **milestone** is the design sign-off in April.
+- **Meaning 2 (n):** A scheduled point in a project used to measure progress.
+  - *Example:* The next **milestone** is the design [sign-off](06-projects-and-deadlines.md#sign-off) in April.
 
 ### aspiration
 - **IPA:** /ˌæspəˈreɪʃn/
 - **Meaning 1 (n):** A hope or ambition to achieve something.
-  - *Example:* The company supports staff **aspirations** through paid study leave.
+  - *Example:* The company [supports](04-teamwork-and-workplace-relationships.md#support) staff **aspirations** through paid study leave.
 
 ### advancement
 - **IPA:** /ədˈvɑːnsmənt/
 - **Meaning 1 (n):** Progress or promotion in a career.
   - *Example:* There is little room for **advancement** in such a small firm.
 - **Meaning 2 (n):** The process of moving something forward or developing it.
-  - *Example:* The grant supports the **advancement** of medical [research](27-science-and-research.md#research).
+  - *Example:* The grant [supports](04-teamwork-and-workplace-relationships.md#support) the **advancement** of medical [research](27-science-and-research.md#research).
 
 ### seniority
 - **IPA:** /ˌsiːniˈɒrəti/
@@ -93,7 +93,7 @@
 ### tenure
 - **IPA:** /ˈtenjə/
 - **Meaning 1 (n):** The period during which someone holds a job or office.
-  - *Example:* During her **tenure** as director, revenue doubled.
+  - *Example:* During her **tenure** as director, [revenue](../toeic-600/02-finance-and-banking.md#19-revenue) doubled.
 - **Meaning 2 (n):** A permanent post, especially in a university.
   - *Example:* He was granted **tenure** after six years of teaching.
 
@@ -110,21 +110,21 @@
 ### upskill
 - **IPA:** /ˌʌpˈskɪl/
 - **Meaning 1 (v):** To teach employees new or better skills, or to learn them.
-  - *Example:* The firm is **upskilling** its staff in data analysis.
+  - *Example:* The firm is **upskilling** its staff in data [analysis](27-science-and-research.md#analysis).
 
 ### reskill
 - **IPA:** /ˌriːˈskɪl/
 - **Meaning 1 (v):** To learn new skills so you can do a different job.
-  - *Example:* Workers were offered courses to **reskill** for the new production line.
+  - *Example:* Workers were offered courses to **reskill** for the new [production line](17-manufacturing-and-engineering.md#production-line).
 
 ### portfolio
 - **IPA:** /pɔːtˈfəʊliəʊ/
 - **Meaning 1 (n):** A collection of work that shows a person's skills and achievements.
-  - *Example:* Bring a **portfolio** of past designs to the interview.
+  - *Example:* Bring a **portfolio** of past designs to the [interview](../toeic-600/04-human-resources-and-recruitment.md#6-interview).
 - **Meaning 2 (n):** The range of products, services, or investments held by a person or company.
   - *Example:* The new line broadens the company's product **portfolio**.
 - **Meaning 3 (n):** The area of responsibility of a government minister or manager.
-  - *Example:* She holds the training and development **portfolio**.
+  - *Example:* She holds the training and [development](22-real-estate-and-property-development.md#development) **portfolio**.
 
 ### headhunter
 - **IPA:** /ˈhedhʌntə/
@@ -139,7 +139,7 @@
 ### nomination
 - **IPA:** /ˌnɒmɪˈneɪʃn/
 - **Meaning 1 (n):** The act of formally suggesting someone for a job, award, or position.
-  - *Example:* Her **nomination** for team leader was approved by the board.
+  - *Example:* Her **nomination** for team leader was [approved](03-management-and-leadership.md#approve) by the board.
 
 ### accolade
 - **IPA:** /ˈækəleɪd/
@@ -149,12 +149,12 @@
 ### commendation
 - **IPA:** /ˌkɒmenˈdeɪʃn/
 - **Meaning 1 (n):** Formal or official praise for something done well.
-  - *Example:* He received a **commendation** for handling the emergency.
+  - *Example:* He received a **commendation** for [handling](../toeic-600/11-logistics-shipping-and-warehousing.md#17-handling) the emergency.
 
 ### acknowledgement
 - **IPA:** /əkˈnɒlɪdʒmənt/
 - **Meaning 1 (n):** Recognition of someone's effort, contribution, or status.
-  - *Example:* A word of **acknowledgement** from a manager improves [morale](#morale).
+  - *Example:* A word of **acknowledgement** from a manager improves morale.
 - **Meaning 2 (n):** A statement confirming that something has been received.
   - *Example:* Please send an **acknowledgement** when the file arrives.
 
@@ -168,16 +168,16 @@
 ### merit
 - **IPA:** /ˈmerɪt/
 - **Meaning 1 (n):** The quality of being good and deserving praise or reward.
-  - *Example:* Pay rises here are based on **merit**, not on [seniority](#seniority).
+  - *Example:* Pay rises here are based on **merit**, not on [seniority](01-career-and-professional-development.md#seniority).
 - **Meaning 2 (n):** A good feature or advantage of something.
   - *Example:* The plan has the **merit** of being cheap and quick.
 - **Meaning 3 (v):** To deserve or be worthy of something.
-  - *Example:* The complaint **merits** a full investigation.
+  - *Example:* The [complaint](../toeic-600/20-customer-service-and-complaints.md#1-complaint) **merits** a full investigation.
 
 ### endorsement
 - **IPA:** /ɪnˈdɔːsmənt/
 - **Meaning 1 (n):** A public statement of approval or support.
-  - *Example:* The proposal has the **endorsement** of senior [management](03-management-and-leadership.md#oversee).
+  - *Example:* The [proposal](../toeic-600/06-meetings-and-presentations.md#13-proposal) has the **endorsement** of senior management.
 
 ### potential
 - **IPA:** /pəˈtenʃl/
@@ -219,12 +219,12 @@
 ### resourceful
 - **IPA:** /rɪˈzɔːsfl/
 - **Meaning 1 (adj):** Good at finding quick and clever ways to solve problems.
-  - *Example:* The **resourceful** intern found a workaround in an afternoon.
+  - *Example:* The **resourceful** intern found a [workaround](10-problem-solving-and-decision-making.md#workaround) in an afternoon.
 
 ### proactive
 - **IPA:** /prəʊˈæktɪv/
 - **Meaning 1 (adj):** Acting in advance to deal with an expected change or problem.
-  - *Example:* Being **proactive** about maintenance prevents costly [breakdowns](17-manufacturing-and-engineering.md#breakdown).
+  - *Example:* Being **proactive** about [maintenance](../toeic-600/05-office-procedures-and-equipment.md#25-maintenance) prevents costly [equipment breakdowns](17-manufacturing-and-engineering.md#equipment-breakdown).
 
 ### dependable
 - **IPA:** /dɪˈpendəbl/
@@ -234,19 +234,19 @@
 ### personable
 - **IPA:** /ˈpɜːsənəbl/
 - **Meaning 1 (adj):** Having a pleasant appearance and manner.
-  - *Example:* The role suits a **personable** candidate who enjoys meeting people.
+  - *Example:* The role suits a **personable** [candidate](../toeic-600/04-human-resources-and-recruitment.md#3-candidate) who enjoys [meeting](../toeic-600/06-meetings-and-presentations.md#1-meeting) people.
 
 ### articulate
 - **IPA:** /ɑːˈtɪkjələt/ (adj) · /ɑːˈtɪkjəleɪt/ (v)
 - **Meaning 1 (adj):** Able to express ideas clearly and effectively in words.
-  - *Example:* She is an **articulate** speaker who wins over sceptical audiences.
+  - *Example:* She is an **articulate** speaker who wins over sceptical [audiences](33-arts-culture-and-entertainment.md#audience).
 - **Meaning 2 (v):** To express an idea or feeling clearly in words.
   - *Example:* He struggled to **articulate** why the plan felt wrong.
 
 ### assertive
 - **IPA:** /əˈsɜːtɪv/
 - **Meaning 1 (adj):** Confident and direct in stating your needs or opinions.
-  - *Example:* Being **assertive** in a [negotiation](09-negotiation-and-persuasion.md#negotiate) is not the same as being rude.
+  - *Example:* Being **assertive** in a [negotiation](../toeic-600/09-sales-and-purchasing.md#11-negotiation) is not the same as being rude.
 
 ### self-starter
 - **IPA:** /ˌself ˈstɑːtə/
@@ -327,12 +327,12 @@
 ### licence
 - **IPA:** /ˈlaɪsns/
 - **Meaning 1 (n):** An official permit to own, use, or do something.
-  - *Example:* You need a **licence** to operate the crane.
+  - *Example:* You need a **licence** to [operate](../toeic-600/10-manufacturing-and-production.md#13-operate) the crane.
 
 ### diploma
 - **IPA:** /dɪˈpləʊmə/
 - **Meaning 1 (n):** A qualification awarded after completing a course of study.
-  - *Example:* She holds a **diploma** in hospitality management.
+  - *Example:* She holds a **diploma** in [hospitality management](23-hospitality-and-tourism-industry.md#hospitality-management).
 
 ### graduate
 - **IPA:** /ˈɡrædʒuət/ (n) · /ˈɡrædʒueɪt/ (v)
@@ -341,17 +341,17 @@
 - **Meaning 2 (v):** To successfully complete a degree or course.
   - *Example:* He **graduated** with a degree in engineering.
 - **Meaning 3 (v):** To move up to a more advanced level or role.
-  - *Example:* She **graduated** from support work to running her own accounts.
+  - *Example:* She **graduated** from [support](04-teamwork-and-workplace-relationships.md#support) work to running her own accounts.
 
 ### alumni
 - **IPA:** /əˈlʌmnaɪ/
 - **Meaning 1 (n):** The former students of a school, college, or university (plural).
-  - *Example:* The company's **alumni** network helps former interns find work.
+  - *Example:* The company's **alumni** [network](../toeic-600/13-technology-and-computers.md#5-network) helps former interns find work.
 
 ### transcript
 - **IPA:** /ˈtrænskrɪpt/
 - **Meaning 1 (n):** An official record of a student's courses and grades.
-  - *Example:* Applicants must send an academic **transcript**.
+  - *Example:* [Applicants](../toeic-600/04-human-resources-and-recruitment.md#2-applicant) must send an academic **transcript**.
 - **Meaning 2 (n):** A written copy of spoken words.
   - *Example:* A **transcript** of the call was added to the file.
 
@@ -373,7 +373,7 @@
 ### career path
 - **IPA:** /kəˈrɪə pɑːθ/
 - **Meaning 1 (n):** The series of jobs and steps that make up a person's working life.
-  - *Example:* The company maps out a **career path** for every technician.
+  - *Example:* The company maps out a **career path** for every [technician](17-manufacturing-and-engineering.md#technician).
 
 ### job-hopping
 - **IPA:** /ˈdʒɒb hɒpɪŋ/
@@ -383,12 +383,12 @@
 ### work-life balance
 - **IPA:** /ˌwɜːk ˈlaɪf ˌbæləns/
 - **Meaning 1 (n):** The division of time and attention between work and personal life.
-  - *Example:* Flexible hours improved **work-life balance** across the team.
+  - *Example:* [Flexible](09-negotiation-and-persuasion.md#flexible) hours improved **work-life balance** across the team.
 
 ### burnout
 - **IPA:** /ˈbɜːnaʊt/
 - **Meaning 1 (n):** Physical or mental collapse caused by long-term overwork or stress.
-  - *Example:* Three resignations in a month pointed to widespread **burnout**.
+  - *Example:* Three [resignations](../toeic-600/04-human-resources-and-recruitment.md#14-resignation) in a month pointed to widespread **burnout**.
 
 ### morale
 - **IPA:** /məˈrɑːl/
@@ -398,7 +398,7 @@
 ### headway
 - **IPA:** /ˈhedweɪ/
 - **Meaning 1 (n):** Progress toward a goal, especially against difficulty.
-  - *Example:* We finally made **headway** on the backlog this week.
+  - *Example:* We finally made **headway** on the [backlog](06-projects-and-deadlines.md#backlog) this week.
 
 ### fast-track
 - **IPA:** /ˈfɑːst træk/
@@ -410,7 +410,7 @@
 ### stepping stone
 - **IPA:** /ˈstepɪŋ stəʊn/
 - **Meaning 1 (n):** Something that helps you make progress toward a goal.
-  - *Example:* The support role was a **stepping stone** to a sales job.
+  - *Example:* The [support](04-teamwork-and-workplace-relationships.md#support) role was a **stepping stone** to a sales job.
 
 ### lifelong learning
 - **IPA:** /ˌlaɪflɒŋ ˈlɜːnɪŋ/
@@ -420,4 +420,4 @@
 ### aptitude test
 - **IPA:** /ˈæptɪtjuːd test/
 - **Meaning 1 (n):** A test designed to measure a person's ability to learn or perform tasks.
-  - *Example:* Shortlisted candidates sit an **aptitude test** before the final interview.
+  - *Example:* Shortlisted [candidates](../toeic-600/04-human-resources-and-recruitment.md#3-candidate) sit an **aptitude test** before the final [interview](../toeic-600/04-human-resources-and-recruitment.md#6-interview).

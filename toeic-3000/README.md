@@ -20,15 +20,16 @@ Every word is a level-3 heading, followed by:
   - *Example:* The new software helped [streamline](25-information-technology.md#streamline) the whole [approval](06-projects-and-deadlines.md#approval) process.
 ```
 
-## Exclusions
+## Relationship to the 600-word set
 
-The ~600 words already covered in `../toeic-600/` are **not repeated here** and are **not linked**.
-If you need those, see that folder's `README.md`.
+This set is meant to *extend* `../toeic-600/`, so it mostly avoids repeating those words.
+(A few dozen do appear in both, with the same meaning — harmless for navigation.)
+Example sentences here **can and do link into `../toeic-600/`** when a word's entry lives there.
 
 ## Cross-links inside examples (ctrl / cmd + click)
 
-Inside every example sentence, the **first occurrence** of any word that has its own entry
-*somewhere in this 3000-word set* is written as a relative Markdown link:
+Where an example sentence uses a word that has its own entry *elsewhere in this 3000-word set*,
+that word is written as a relative Markdown link:
 
 ```
 [surface form](FILE.md#anchor)
@@ -36,10 +37,17 @@ Inside every example sentence, the **first occurrence** of any word that has its
 
 - **Ctrl + click** (Cmd + click on macOS) the link in VS Code, most IDEs, or a Markdown
   previewer to jump straight to that word's entry.
-- Inflected forms link back to the base entry — e.g. `[negotiating](09-negotiation-and-persuasion.md#negotiate)`,
-  `[suppliers](21-transportation-and-shipping.md#supplier)`.
+- Inflected forms link back to the base entry — e.g. `[suppliers](21-transportation-and-shipping.md#supplier)`,
+  `[delivered](06-projects-and-deadlines.md#deliver)`.
 - Links to a word in the **same file** still include the filename so they work in every editor.
-- Words from the `../toeic-600/` starter set are left as plain text (no link).
+- **Targets span both folders.** An example word links wherever its entry lives — a topic
+  file in this set, **or** a file in `../toeic-600/` (written with a `../` path). When a word
+  has an entry in both sets, the link points to the one in the same folder as the example.
+- **What gets linked:** all multi-word terms (e.g. `supply chain`, `board of directors`) plus
+  longer single words. Very short or highly ambiguous common words (e.g. *state*, *share*,
+  *will*, *reach*) are **not** auto-linked, to avoid links to the wrong sense. At most 3 links
+  per example, and an entry never links to itself. ~1,250 cross-links across the two sets;
+  every one resolves.
 
 ### Anchor rule
 
@@ -111,5 +119,8 @@ See [`word-index.md`](word-index.md) for the complete list of all 3000 words and
 ## Build status
 
 - [x] `README.md`
-- [x] `word-index.md` (full 3000-word registry)
-- [ ] Topic files `01`–`40` (in progress, 2–3 per batch)
+- [x] `word-index.md` (full 3000-word registry, kept in sync with the topic files)
+- [x] Topic files `01`–`40` — **complete**, 75 entries each = 3000 words
+
+All 3000 headwords are unique across this set, so every cross-link resolves to exactly one entry.
+Example sentences link across topic files and across into `../toeic-600/`.

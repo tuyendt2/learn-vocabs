@@ -43,24 +43,22 @@
 - **Meaning 1 (v):** To send a received message on to someone else.
   - *Example:* Could you **forward** me the schedule she sent?
 - **Meaning 2 (adv):** Toward the front or the future.
-  - *Example:* We are moving the deadline **forward** to Monday.
+  - *Example:* We are moving the [deadline](01-contracts-and-agreements.md#13-deadline) **forward** to Monday.
 
-### 8. draft
-- **IPA:** /drɑːft/
-- **Meaning 1 (n):** A version of a message that is written but not yet sent.
-  - *Example:* The email is still sitting in my **drafts**.
-- **Meaning 2 (v):** To write a first version of something.
-  - *Example:* I'll **draft** a reply for you to check.
+### 8. postscript
+- **IPA:** /ˈpəʊstskrɪpt/
+- **Meaning 1 (n):** An extra remark added at the end of a letter or email after the signature, marked "P.S."
+  - *Example:* He added a **postscript** reminding her to bring the report.
 
 ### 9. enclosed
 - **IPA:** /ɪnˈkləʊzd/
 - **Meaning 1 (adj):** Included inside an envelope or package with a letter.
-  - *Example:* Please find the invoice **enclosed**.
+  - *Example:* Please find the [invoice](09-sales-and-purchasing.md#6-invoice) **enclosed**.
 
 ### 10. formal
 - **IPA:** /ˈfɔːml/
 - **Meaning 1 (adj):** Following accepted rules of polite, official language or behaviour.
-  - *Example:* A job application should use **formal** language.
+  - *Example:* A job [application](../toeic-3000/25-information-technology.md#application) should use **formal** language.
 
 ### 11. informal
 - **IPA:** /ɪnˈfɔːml/
@@ -75,14 +73,14 @@
 ### 13. acknowledge
 - **IPA:** /əkˈnɒlɪdʒ/
 - **Meaning 1 (v):** To tell someone you have received their message.
-  - *Example:* Please **acknowledge** receipt of this email.
+  - *Example:* Please **acknowledge** [receipt](03-accounting-and-budgeting.md#5-receipt) of this email.
 - **Meaning 2 (v):** To accept that something is true.
   - *Example:* The company **acknowledged** the mistake and apologised.
 
 ### 14. notify
 - **IPA:** /ˈnəʊtɪfaɪ/
 - **Meaning 1 (v):** To formally tell someone about something.
-  - *Example:* **Notify** the supplier if the shipment is damaged.
+  - *Example:* **Notify** the [supplier](09-sales-and-purchasing.md#2-supplier) if the [shipment](11-logistics-shipping-and-warehousing.md#1-shipment) is damaged.
 
 ### 15. regarding
 - **IPA:** /rɪˈɡɑːdɪŋ/
@@ -131,7 +129,7 @@
 ### 23. attach herewith
 - **IPA:** /əˈtætʃ ˌhɪəˈwɪð/
 - **Meaning 1 (phrase):** A formal way to say "attached to this message."
-  - *Example:* Please find **attached herewith** the quarterly report.
+  - *Example:* Please find **attached herewith** the [quarterly report](../toeic-3000/07-data-reports-and-analysis.md#quarterly-report).
 
 ### 24. bounce back
 - **IPA:** /ˌbaʊns ˈbæk/
@@ -141,33 +139,31 @@
 ### 25. confidential
 - **IPA:** /ˌkɒnfɪˈdenʃl/
 - **Meaning 1 (adj):** Meant to be kept secret or shared only with certain people.
-  - *Example:* This report is **confidential** and should not be forwarded.
+  - *Example:* This report is **confidential** and should not be [forwarded](07-correspondence-and-email.md#7-forward).
 
 ### 26. distribution list
 - **IPA:** /ˌdɪstrɪˈbjuːʃn lɪst/
 - **Meaning 1 (n):** A saved group of email addresses used to send one message to many people.
-  - *Example:* Add the new starters to the department **distribution list**.
+  - *Example:* Add the new starters to the [department](../toeic-3000/31-government-and-public-services.md#department) **distribution list**.
 
 ### 27. prompt
 - **IPA:** /prɒmpt/
 - **Meaning 1 (adj):** Done quickly and without delay.
   - *Example:* Thank you for your **prompt** reply.
 - **Meaning 2 (v):** To cause someone to do something.
-  - *Example:* The complaint **prompted** a review of our returns policy.
+  - *Example:* The [complaint](20-customer-service-and-complaints.md#1-complaint) **prompted** a review of our returns policy.
 
-### 28. courteous
-- **IPA:** /ˈkɜːtiəs/
-- **Meaning 1 (adj):** Polite and respectful in manner.
-  - *Example:* Even difficult emails should get a **courteous** reply.
+### 28. auto-reply
+- **IPA:** /ˈɔːtəʊ rɪˌplaɪ/
+- **Meaning 1 (n):** A message sent automatically in answer to an email, such as an "out of office" note.
+  - *Example:* Set an **auto-reply** before you go on holiday.
 
 ### 29. queries
 - **IPA:** /ˈkwɪəriz/
 - **Meaning 1 (n):** Questions, especially ones asking for information or expressing doubt.
-  - *Example:* Send any **queries** to the support address.
+  - *Example:* Send any **queries** to the [support](../toeic-3000/04-teamwork-and-workplace-relationships.md#support) address.
 
-### 30. dispatch
-- **IPA:** /dɪˈspætʃ/
-- **Meaning 1 (v):** To send something to a destination.
-  - *Example:* The parcel was **dispatched** this morning.
-- **Meaning 2 (n):** The act of sending something off.
-  - *Example:* Goods are ready for **dispatch** within 24 hours.
+### 30. read receipt
+- **IPA:** /ˈriːd rɪˌsiːt/
+- **Meaning 1 (n):** A notice that tells the sender their email has been opened.
+  - *Example:* She requested a **read receipt** for the contract she emailed.

@@ -55,10 +55,10 @@
 - **Meaning 1 (adj):** Consisting of or suitable for homes rather than businesses.
   - *Example:* The area is mostly **residential**, with few shops.
 
-### 10. appraisal
-- **IPA:** /əˈpreɪzl/
-- **Meaning 1 (n):** An expert estimate of the value of a property.
-  - *Example:* The bank ordered an **appraisal** before approving the loan.
+### 10. estate agent
+- **IPA:** /ɪˈsteɪt ˌeɪdʒənt/
+- **Meaning 1 (n):** A person or company that arranges the sale and rental of property.
+  - *Example:* The **estate agent** showed us four flats in one afternoon.
 
 ### 11. deed
 - **IPA:** /diːd/
@@ -110,20 +110,20 @@
 - **Meaning 1 (n):** A person whose job is to arrange the selling and renting of property.
   - *Example:* The **realtor** showed us four units in one afternoon.
 
-### 21. amenities
-- **IPA:** /əˈmiːnətiz/
-- **Meaning 1 (n):** Useful features of a building or area that make it pleasant to use.
-  - *Example:* Building **amenities** include parking and a gym.
+### 21. furnished
+- **IPA:** /ˈfɜːnɪʃt/
+- **Meaning 1 (adj):** (of a property) Rented with furniture already provided.
+  - *Example:* The flat is **furnished**, so tenants only need to bring their clothes.
 
-### 22. inspection
-- **IPA:** /ɪnˈspekʃn/
-- **Meaning 1 (n):** A careful examination of a property before buying or renting.
-  - *Example:* The **inspection** found a problem with the roof.
+### 22. viewing
+- **IPA:** /ˈvjuːɪŋ/
+- **Meaning 1 (n):** An arranged visit to look at a property that is for sale or rent.
+  - *Example:* We booked a **viewing** for Saturday morning.
 
 ### 23. leasehold
 - **IPA:** /ˈliːshəʊld/
 - **Meaning 1 (n):** The right to use property for a set number of years under a lease.
-  - *Example:* They bought the **leasehold** rather than the freehold.
+  - *Example:* They bought the **leasehold** rather than the [freehold](19-real-estate-and-property.md#30-freehold).
 
 ### 24. tenancy
 - **IPA:** /ˈtenənsi/
@@ -138,7 +138,7 @@
 ### 26. escrow
 - **IPA:** /ˈeskrəʊ/
 - **Meaning 1 (n):** Money or documents held by a third party until a deal is complete.
-  - *Example:* The deposit is held in **escrow** until closing.
+  - *Example:* The [deposit](02-finance-and-banking.md#2-deposit) is held in **escrow** until closing.
 
 ### 27. relocation
 - **IPA:** /ˌriːləʊˈkeɪʃn/
@@ -153,9 +153,9 @@
 ### 29. lease term
 - **IPA:** /ˈliːs tɜːm/
 - **Meaning 1 (n):** The length of time a lease agreement lasts.
-  - *Example:* We negotiated a shorter **lease term** of two years.
+  - *Example:* We [negotiated](01-contracts-and-agreements.md#5-negotiate) a shorter **lease term** of two years.
 
 ### 30. freehold
 - **IPA:** /ˈfriːhəʊld/
 - **Meaning 1 (n):** Full ownership of a property and the land it stands on, for an unlimited time.
-  - *Example:* Buying the **freehold** removed the yearly ground rent.
+  - *Example:* Buying the **freehold** removed the yearly [ground rent](../toeic-3000/37-home-housing-and-maintenance.md#ground-rent).

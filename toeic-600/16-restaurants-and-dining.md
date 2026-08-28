@@ -1,9 +1,9 @@
 # 16 — Restaurants & Dining
 
-### 1. reservation
-- **IPA:** /ˌrezəˈveɪʃn/
+### 1. table booking
+- **IPA:** /ˈteɪbl ˌbʊkɪŋ/
 - **Meaning 1 (n):** An arrangement to have a table kept for you at a restaurant.
-  - *Example:* I made a **reservation** for four at eight o'clock.
+  - *Example:* I made a **table booking** for four at eight o'clock.
 
 ### 2. menu
 - **IPA:** /ˈmenjuː/
@@ -40,15 +40,15 @@
 - **Meaning 1 (n):** Money given to a server for good service; a tip.
   - *Example:* A **gratuity** of 15% is added for large groups.
 
-### 9. server
-- **IPA:** /ˈsɜːvə/
+### 9. waiter
+- **IPA:** /ˈweɪtə/
 - **Meaning 1 (n):** A person who brings food and drink to customers in a restaurant.
-  - *Example:* Our **server** recommended the fish.
+  - *Example:* The **waiter** recommended the fish.
 
-### 10. complimentary
-- **IPA:** /ˌkɒmplɪˈmentri/
-- **Meaning 1 (adj):** Provided free of charge.
-  - *Example:* The chef sent out a **complimentary** dessert.
+### 10. side order
+- **IPA:** /ˈsaɪd ˌɔːdə/
+- **Meaning 1 (n):** A small extra dish ordered to go with a main dish.
+  - *Example:* He asked for a **side order** of fries with the burger.
 
 ### 11. reservation book
 - **IPA:** /ˌrezəˈveɪʃn bʊk/
@@ -70,7 +70,7 @@
 ### 14. dine
 - **IPA:** /daɪn/
 - **Meaning 1 (v):** To eat dinner, especially in a formal way.
-  - *Example:* The delegates **dined** at a restaurant near the hotel.
+  - *Example:* The [delegates](04-human-resources-and-recruitment.md#26-delegate) **dined** at a restaurant near the hotel.
 
 ### 15. tab
 - **IPA:** /tæb/
@@ -82,10 +82,10 @@
 - **Meaning 1 (n):** Dishes offered on a particular day in addition to the usual menu.
   - *Example:* Today's **specials** are written on the board.
 
-### 17. venue
-- **IPA:** /ˈvenjuː/
-- **Meaning 1 (n):** A place where an organised event is held.
-  - *Example:* The restaurant is a popular **venue** for business lunches.
+### 17. bistro
+- **IPA:** /ˈbiːstrəʊ/
+- **Meaning 1 (n):** A small, informal restaurant serving moderately priced meals.
+  - *Example:* The **bistro** on the corner is popular for business lunches.
 
 ### 18. buffet
 - **IPA:** /ˈbʊfeɪ/
@@ -102,7 +102,7 @@
 ### 20. dietary
 - **IPA:** /ˈdaɪətəri/
 - **Meaning 1 (adj):** Relating to the food a person eats.
-  - *Example:* Please tell us about any **dietary** requirements.
+  - *Example:* Please tell us about any **dietary** [requirements](../toeic-3000/06-projects-and-deadlines.md#requirement).
 
 ### 21. refreshments
 - **IPA:** /rɪˈfreʃmənts/
@@ -119,12 +119,12 @@
 - **Meaning 1 (n):** A large formal meal for many people, often for a special occasion.
   - *Example:* The awards **banquet** seats 400 guests.
 
-### 24. patron
-- **IPA:** /ˈpeɪtrən/
-- **Meaning 1 (n):** A person who uses a particular restaurant, shop, or hotel.
-  - *Example:* Regular **patrons** get a discount card.
-- **Meaning 2 (n):** A person who gives money to support an organisation.
-  - *Example:* She is a **patron** of the local arts centre.
+### 24. diner
+- **IPA:** /ˈdaɪnə/
+- **Meaning 1 (n):** A person who is eating a meal in a restaurant.
+  - *Example:* Regular **diners** are offered a table by the window.
+- **Meaning 2 (n):** A small, informal restaurant.
+  - *Example:* We stopped at a roadside **diner** for breakfast.
 
 ### 25. establishment
 - **IPA:** /ɪˈstæblɪʃmənt/
@@ -146,10 +146,10 @@
 - **Meaning 1 (adj):** Available or happening only at a certain time of year.
   - *Example:* The menu uses **seasonal** vegetables.
 
-### 29. walk-in
-- **IPA:** /ˈwɔːk ɪn/
-- **Meaning 1 (n):** A customer who arrives without a reservation.
-  - *Example:* We keep a few tables free for **walk-ins**.
+### 29. cover charge
+- **IPA:** /ˈkʌvə tʃɑːdʒ/
+- **Meaning 1 (n):** A fixed amount added to each customer's bill, separate from the food.
+  - *Example:* There is a small **cover charge** for the bread and [table service](../toeic-3000/38-food-cooking-and-dining-out.md#table-service).
 
 ### 30. service charge
 - **IPA:** /ˈsɜːvɪs tʃɑːdʒ/

@@ -3,28 +3,26 @@
 ### 1. budget
 - **IPA:** /ˈbʌdʒɪt/
 - **Meaning 1 (n):** A plan of how much money will be earned and spent over a period.
-  - *Example:* The marketing **budget** was cut by 15% this year.
+  - *Example:* The [marketing](08-marketing-and-advertising.md#1-marketing) **budget** was cut by 15% this year.
 - **Meaning 2 (v):** To plan carefully how much money to spend on something.
-  - *Example:* We **budgeted** $5,000 for the conference.
+  - *Example:* We **budgeted** $5,000 for the [conference](06-meetings-and-presentations.md#2-conference).
 - **Meaning 3 (adj):** Low in price; suitable for people with little money.
   - *Example:* They stayed at a **budget** hotel near the airport.
 
 ### 2. expenditure
 - **IPA:** /ɪkˈspendɪtʃə/
 - **Meaning 1 (n):** The total amount of money spent.
-  - *Example:* Capital **expenditure** on machinery doubled last year.
+  - *Example:* Capital **expenditure** on [machinery](10-manufacturing-and-production.md#12-machinery) doubled last year.
 
 ### 3. ledger
 - **IPA:** /ˈledʒə/
 - **Meaning 1 (n):** A book or file in which financial accounts are recorded.
   - *Example:* Every payment is entered in the general **ledger**.
 
-### 4. invoice
-- **IPA:** /ˈɪnvɔɪs/
-- **Meaning 1 (n):** A document listing goods or services and the amount owed for them.
-  - *Example:* We haven't received the **invoice** for last month's order.
-- **Meaning 2 (v):** To send someone a bill for goods or services.
-  - *Example:* We will **invoice** you at the end of the project.
+### 4. debtor
+- **IPA:** /ˈdetə/
+- **Meaning 1 (n):** A person or company that owes money.
+  - *Example:* The accounts team chases slow **debtors** every month.
 
 ### 5. receipt
 - **IPA:** /rɪˈsiːt/
@@ -46,19 +44,19 @@
 ### 8. forecast
 - **IPA:** /ˈfɔːkɑːst/
 - **Meaning 1 (n):** A statement about what is likely to happen in the future.
-  - *Example:* The sales **forecast** for next quarter looks strong.
+  - *Example:* The sales **forecast** for next [quarter](03-accounting-and-budgeting.md#12-quarter) looks strong.
 - **Meaning 2 (v):** To predict a future event or trend.
   - *Example:* Analysts **forecast** slower growth next year.
 
 ### 9. allocate
 - **IPA:** /ˈæləkeɪt/
 - **Meaning 1 (v):** To give a share of money, time, or resources for a particular purpose.
-  - *Example:* The board **allocated** $1 million to research.
+  - *Example:* The board **allocated** $1 million to [research](../toeic-3000/27-science-and-research.md#research).
 
 ### 10. reconcile
 - **IPA:** /ˈrekənsaɪl/
 - **Meaning 1 (v):** To make two sets of financial records agree.
-  - *Example:* Accounts staff **reconcile** the bank statement every month.
+  - *Example:* Accounts staff **reconcile** the [bank statement](../toeic-3000/36-personal-finance-and-household-budget.md#bank-statement) every month.
 - **Meaning 2 (v):** To find a way for two opposing ideas to exist together.
   - *Example:* It's hard to **reconcile** low prices with high quality.
 
@@ -79,7 +77,7 @@
 - **Meaning 1 (n):** An amount that is more than what is needed or used.
   - *Example:* The city ended the year with a budget **surplus**.
 - **Meaning 2 (adj):** Extra; more than is required.
-  - *Example:* **Surplus** stock was sold at a discount.
+  - *Example:* **Surplus** stock was sold at a [discount](08-marketing-and-advertising.md#16-discount).
 
 ### 14. deficit
 - **IPA:** /ˈdefɪsɪt/
@@ -106,7 +104,7 @@
 ### 18. deduction
 - **IPA:** /dɪˈdʌkʃn/
 - **Meaning 1 (n):** An amount taken away from a total, especially from pay.
-  - *Example:* After tax **deductions**, her take-home pay is $3,000.
+  - *Example:* After tax **deductions**, her [take-home pay](../toeic-3000/36-personal-finance-and-household-budget.md#take-home-pay) is $3,000.
 - **Meaning 2 (n):** A conclusion reached by reasoning from known facts.
   - *Example:* By simple **deduction**, the error must be in the last column.
 
@@ -118,7 +116,7 @@
 ### 20. accountant
 - **IPA:** /əˈkaʊntənt/
 - **Meaning 1 (n):** A person whose job is to keep or check financial accounts.
-  - *Example:* Ask the **accountant** which expenses are tax-deductible.
+  - *Example:* Ask the **accountant** which [expenses](02-finance-and-banking.md#20-expense) are tax-deductible.
 
 ### 21. spreadsheet
 - **IPA:** /ˈspredʃiːt/
@@ -135,7 +133,7 @@
 - **Meaning 1 (n):** The difference between the cost of something and the price it sells for.
   - *Example:* Profit **margins** are thin in the retail sector.
 - **Meaning 2 (n):** An amount by which something is won or falls short.
-  - *Example:* The proposal passed by a narrow **margin**.
+  - *Example:* The [proposal](06-meetings-and-presentations.md#13-proposal) passed by a narrow **margin**.
 - **Meaning 3 (n):** The empty space at the edge of a page.
   - *Example:* She wrote notes in the **margin**.
 
@@ -147,9 +145,9 @@
 ### 25. equity
 - **IPA:** /ˈekwəti/
 - **Meaning 1 (n):** The value of a company's shares; ownership interest in a business.
-  - *Example:* The founders still hold 60% of the **equity**.
+  - *Example:* The [founders](../toeic-3000/02-company-organization-and-departments.md#founder) still hold 60% of the **equity**.
 - **Meaning 2 (n):** Fairness and equal treatment.
-  - *Example:* The policy aims to promote **equity** in hiring.
+  - *Example:* The policy aims to [promote](08-marketing-and-advertising.md#7-promote) **equity** in hiring.
 
 ### 26. turnover
 - **IPA:** /ˈtɜːnəʊvə/
@@ -166,14 +164,14 @@
 ### 28. asset management
 - **IPA:** /ˈæset ˌmænɪdʒmənt/
 - **Meaning 1 (n):** The professional handling of investments on behalf of clients.
-  - *Example:* The bank's **asset management** division advises pension funds.
+  - *Example:* The bank's **asset management** division advises [pension funds](../toeic-3000/12-banking-and-investment.md#pension-fund).
 
 ### 29. accrue
 - **IPA:** /əˈkruː/
 - **Meaning 1 (v):** To increase in amount over time, especially interest or benefits.
-  - *Example:* Interest **accrues** daily on the outstanding balance.
+  - *Example:* Interest **accrues** daily on the [outstanding](09-sales-and-purchasing.md#24-outstanding) balance.
 
 ### 30. variance
 - **IPA:** /ˈveəriəns/
 - **Meaning 1 (n):** The difference between a planned figure and the actual result.
-  - *Example:* The report explains the **variance** between budget and spending.
+  - *Example:* The report explains the **variance** between budget and [spending](../toeic-3000/35-shopping-and-consumer-life.md#spending).

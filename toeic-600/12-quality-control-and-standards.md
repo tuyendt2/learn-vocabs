@@ -20,12 +20,12 @@
 ### 4. compliance
 - **IPA:** /kəmˈplaɪəns/
 - **Meaning 1 (n):** The act of meeting rules, laws, or standards.
-  - *Example:* The audit checks **compliance** with fire regulations.
+  - *Example:* The audit checks **compliance** with fire [regulations](../toeic-3000/14-law-and-compliance.md#regulation).
 
 ### 5. defective
 - **IPA:** /dɪˈfektɪv/
 - **Meaning 1 (adj):** Having a fault; not working correctly.
-  - *Example:* **Defective** items are returned to the supplier.
+  - *Example:* **Defective** items are returned to the [supplier](09-sales-and-purchasing.md#2-supplier).
 
 ### 6. flaw
 - **IPA:** /flɔː/
@@ -39,10 +39,10 @@
 - **Meaning 2 (n):** The ability to accept behaviour or conditions you dislike.
   - *Example:* The company has zero **tolerance** for harassment.
 
-### 8. specification
-- **IPA:** /ˌspesɪfɪˈkeɪʃn/
-- **Meaning 1 (n):** A detailed statement of the required qualities of a product.
-  - *Example:* The sample did not match the **specification**.
+### 8. quality manual
+- **IPA:** /ˈkwɒləti ˌmænjuəl/
+- **Meaning 1 (n):** A document that sets out an organisation's quality rules and procedures.
+  - *Example:* The **quality manual** describes how every [complaint](20-customer-service-and-complaints.md#1-complaint) must be recorded.
 
 ### 9. benchmark
 - **IPA:** /ˈbentʃmɑːk/
@@ -56,17 +56,17 @@
 - **Meaning 1 (n):** Official approval that something meets a standard.
   - *Example:* The plant gained ISO **certification** last year.
 
-### 11. audit
-- **IPA:** /ˈɔːdɪt/
-- **Meaning 1 (n):** An official check of records, processes, or accounts.
-  - *Example:* A quality **audit** is carried out twice a year.
+### 11. quality check
+- **IPA:** /ˈkwɒləti tʃek/
+- **Meaning 1 (n):** An examination to make sure a product meets the required standard.
+  - *Example:* Every unit gets a final **quality check** before it is packed.
 
 ### 12. reject
 - **IPA:** /rɪˈdʒekt/ (v) · /ˈriːdʒekt/ (n)
 - **Meaning 1 (v):** To refuse to accept something because it is not good enough.
-  - *Example:* Inspectors **rejected** the whole batch.
+  - *Example:* [Inspectors](../toeic-3000/15-taxation-and-regulation.md#inspector) **rejected** the whole batch.
 - **Meaning 2 (n):** A product that has been refused for not meeting the standard.
-  - *Example:* **Rejects** are sold at a discount or scrapped.
+  - *Example:* **Rejects** are sold at a [discount](08-marketing-and-advertising.md#16-discount) or scrapped.
 
 ### 13. consistency
 - **IPA:** /kənˈsɪstənsi/
@@ -76,9 +76,9 @@
 ### 14. sample
 - **IPA:** /ˈsɑːmpl/
 - **Meaning 1 (n):** A small part taken from a larger amount to be tested.
-  - *Example:* A **sample** from each shipment is tested in the lab.
+  - *Example:* A **sample** from each [shipment](11-logistics-shipping-and-warehousing.md#1-shipment) is tested in the lab.
 - **Meaning 2 (v):** To take and examine a small amount of something.
-  - *Example:* Technicians **sample** the water every hour.
+  - *Example:* [Technicians](../toeic-3000/17-manufacturing-and-engineering.md#technician) **sample** the water every hour.
 
 ### 15. calibrate
 - **IPA:** /ˈkælɪbreɪt/
@@ -105,7 +105,7 @@
 ### 19. verify
 - **IPA:** /ˈverɪfaɪ/
 - **Meaning 1 (v):** To check that something is true or accurate.
-  - *Example:* Please **verify** the serial number before sign-off.
+  - *Example:* Please **verify** the serial number before [sign-off](../toeic-3000/06-projects-and-deadlines.md#sign-off).
 
 ### 20. defect rate
 - **IPA:** /ˈdiːfekt reɪt/
@@ -115,7 +115,7 @@
 ### 21. traceability
 - **IPA:** /ˌtreɪsəˈbɪləti/
 - **Meaning 1 (n):** The ability to follow the history of a product through production and supply.
-  - *Example:* Barcodes give full **traceability** back to the raw materials.
+  - *Example:* [Barcodes](../toeic-3000/16-retail-and-store-operations.md#barcode) give full **traceability** back to the [raw materials](10-manufacturing-and-production.md#6-raw-material).
 
 ### 22. non-conformance
 - **IPA:** /ˌnɒn kənˈfɔːməns/
@@ -152,7 +152,7 @@
 ### 28. checklist
 - **IPA:** /ˈtʃeklɪst/
 - **Meaning 1 (n):** A list of items to be checked or done.
-  - *Example:* Operators complete a start-up **checklist** each shift.
+  - *Example:* [Operators](../toeic-3000/26-telecommunications-and-networks.md#operator) complete a start-up **checklist** each shift.
 
 ### 29. corrective action
 - **IPA:** /kəˈrektɪv ˈækʃn/

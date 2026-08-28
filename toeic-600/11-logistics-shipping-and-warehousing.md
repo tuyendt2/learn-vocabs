@@ -3,7 +3,7 @@
 ### 1. shipment
 - **IPA:** /ˈʃɪpmənt/
 - **Meaning 1 (n):** A quantity of goods sent together to a destination.
-  - *Example:* The **shipment** cleared customs this morning.
+  - *Example:* The **shipment** cleared [customs](11-logistics-shipping-and-warehousing.md#13-customs) this morning.
 
 ### 2. freight
 - **IPA:** /freɪt/
@@ -30,7 +30,7 @@
 ### 6. distribution
 - **IPA:** /ˌdɪstrɪˈbjuːʃn/
 - **Meaning 1 (n):** The process of supplying goods to shops and customers.
-  - *Example:* The firm has a strong **distribution** network in Europe.
+  - *Example:* The firm has a strong **distribution** [network](13-technology-and-computers.md#5-network) in Europe.
 
 ### 7. logistics
 - **IPA:** /ləˈdʒɪstɪks/
@@ -67,7 +67,7 @@
 ### 13. customs
 - **IPA:** /ˈkʌstəmz/
 - **Meaning 1 (n):** The government department that checks goods entering a country and collects duties.
-  - *Example:* The crates were held at **customs** for inspection.
+  - *Example:* The crates were held at **customs** for [inspection](12-quality-control-and-standards.md#2-inspection).
 
 ### 14. duty
 - **IPA:** /ˈdjuːti/
@@ -79,7 +79,7 @@
 ### 15. warehouse
 - **IPA:** /ˈweəhaʊs/
 - **Meaning 1 (n):** A large building where goods are stored.
-  - *Example:* The **warehouse** is fully automated.
+  - *Example:* The **warehouse** is fully [automated](13-technology-and-computers.md#30-automate).
 
 ### 16. stockroom
 - **IPA:** /ˈstɒkruːm/
@@ -109,7 +109,7 @@
 ### 21. expedite
 - **IPA:** /ˈekspədaɪt/
 - **Meaning 1 (v):** To make a process happen faster.
-  - *Example:* We paid extra to **expedite** the shipment.
+  - *Example:* We paid extra to **expedite** the [shipment](11-logistics-shipping-and-warehousing.md#1-shipment).
 
 ### 22. backlog
 - **IPA:** /ˈbæklɒɡ/
@@ -144,7 +144,7 @@
 ### 28. surcharge
 - **IPA:** /ˈsɜːtʃɑːdʒ/
 - **Meaning 1 (n):** An extra charge added to the usual price.
-  - *Example:* A fuel **surcharge** applies to all international shipments.
+  - *Example:* A fuel **surcharge** applies to all international [shipments](11-logistics-shipping-and-warehousing.md#1-shipment).
 
 ### 29. transit time
 - **IPA:** /ˈtrænzɪt taɪm/
